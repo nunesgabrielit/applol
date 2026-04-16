@@ -1,0 +1,173 @@
+key,riot_id,name,title,primary_role,tags,counters,against,synergy_good,synergy_bad
+266,Aatrox,Aatrox,a Espada Darkin,Fighter,Fighter,Galio|Amumu|Shen|Rell|Nautilus,Karthus|Evelynn|Ekko|Vel'Koz|Annie,Brand|Thresh|Amumu,Tryndamere|Naafiri|Illaoi
+103,Ahri,Ahri,a Raposa de Nove Caudas,Mage,Mage|Assassin,Vladimir|Fizz|Warwick|Master Yi|Urgot,Tristana|Samira|Shaco|Kha'Zix|Qiyana,Jinx|Malphite|Galio,Tristana|Zyra|Annie
+84,Akali,Akali,a Assassina Renegada,Assassin,Assassin,Aurelion Sol|Ashe|Taliyah|Malzahar|Evelynn,Tahm Kench|Taric|Braum|Cho'Gath|Maokai,Lulu|Veigar|Aurora,Lucian|Kindred|Caitlyn
+166,Akshan,Akshan,o Sentinela Rebelde,Assassin,Marksman|Assassin,Cassiopeia|Zyra|Caitlyn|Malzahar|Heimerdinger,Cho'Gath|Nautilus|Singed|Leona|Ornn,Malzahar|Taric|Heimerdinger,Jinx|Kha'Zix|Kalista
+12,Alistar,Alistar,o Minotauro,Tank,Tank|Support,Pyke|Tristana|Vayne|Twitch|Shaco,Jayce|Caitlyn|Viego|Master Yi|Rek'Sai,Milio|Miss Fortune|Nidalee,Shen|Taric|Thresh
+799,Ambessa,Ambessa,Matriarca da Guerra,Fighter,Fighter|Assassin,Singed|Taric|Rell|Maokai|Shen,Aurora|Mel|Anivia|Kassadin|Ryze,Ziggs|Rakan|Fiddlesticks,Wukong|Darius|Zed
+32,Amumu,Amumu,a Múmia Triste,Tank,Tank|Support,Shaco|Vayne|Samira|Quinn|Zed,Briar|Vladimir|Gnar|Mordekaiser|Caitlyn,Lissandra|Zoe|Zyra,Rell|Shen|Malphite
+34,Anivia,Anivia,a Criofênix,Mage,Mage,Rumble|Rek'Sai|Shyvana|Urgot|Zaahen,Twitch|Tristana|Akali|Qiyana|Zed,Braum|Galio|Yunara,Kayle|Malzahar|Swain
+1,Annie,Annie,a Criança Sombria,Mage,Mage|Support,K'Sante|Nocturne|Jayce|Trundle|Fiora,Qiyana|Akali|Zed|Akshan|Talon,Shen|Senna|Caitlyn,Yuumi|Vayne|Shaco
+523,Aphelios,Aphelios,a Arma dos Devotos,Marksman,Marksman,Singed|Braum|Amumu|Tahm Kench|Thresh,Qiyana|Vayne|Shaco|Lucian|Quinn,Veigar|Smolder|Karma,Sivir|Lucian|Yunara
+22,Ashe,Ashe,a Arqueira do Gelo,Marksman,Marksman|Support,Thresh|Sejuani|Nunu e Willump|Braum|Tahm Kench,Shaco|Vayne|Samira|Quinn|Zed,Thresh|Cassiopeia|Rammus,Graves|Lucian|Kindred
+136,AurelionSol,Aurelion Sol,o Forjador de Estrelas,Mage,Mage,Illaoi|Irelia|Rengar|Riven|Trundle,Akali|Shaco|Talon|Zed|Pyke,Senna|Ashe|Rammus,Corki|Akali|Lucian
+893,Aurora,Aurora,a Bruxa Entre Mundos,Mage,Mage|Assassin,Ambessa|Nilah|Fiora|Gwen|Warwick,Vayne|Twitch|Pyke|Shaco|Kha'Zix,Ornn|Rakan|Graves,Smolder|Renata Glasc|Syndra
+268,Azir,Azir,o Imperador das Areias,Mage,Mage|Marksman,Gangplank|Vi|Naafiri|Fizz|Dr. Mundo,Vayne|Akshan|Kha'Zix|Lucian|Shaco,Amumu|Blitzcrank|Braum,Veigar|Neeko|Brand
+432,Bard,Bardo,o Protetor Andarilho,Mage,Support|Mage,Shyvana|Yone|Wukong|Nocturne|Ambessa,Quinn|Talon|Shaco|Lucian|Samira,Tahm Kench|Nautilus|Zeri,Taliyah|Anivia|Smolder
+200,Belveth,Bel'Veth,a Imperatriz do Vazio,Fighter,Fighter,Nautilus|Tahm Kench|Maokai|Leona|Rell,Neeko|Orianna|LeBlanc|Vel'Koz|Smolder,Miss Fortune|Lissandra|Tahm Kench,Irelia|Jarvan IV|Fizz
+53,Blitzcrank,Blitzcrank,o Grande Golem a Vapor,Tank,Tank|Support,Kha'Zix|Tristana|Lucian|Shaco|Talon,Tryndamere|Sion|Vi|Gangplank|Jinx,Karma|Kindred|Seraphine,Maokai|Taric|Nautilus
+63,Brand,Brand,a Vingança Flamejante,Mage,Mage|Support,Gangplank|Jayce|Gragas|Rumble|Darius,Tristana|Vayne|Lucian|Pyke|Talon,Leona|Alistar|Caitlyn,Malzahar|Kai'Sa|Ryze
+201,Braum,Braum,o Coração de Freljord,Tank,Tank|Support,Zed|Samira|Kha'Zix|Tristana|Akshan,Sion|Gwen|Senna|Graves|Nilah,Anivia|Sivir|Janna,Shen|Tahm Kench|Rell
+233,Briar,Briar,a Fome Contida,Fighter,Fighter|Assassin,Malphite|Shen|Braum|Maokai|Ornn,Sona|Katarina|Heimerdinger|Aurelion Sol|Seraphine,Morgana|Amumu|Maokai,Pyke|Talon|Aatrox
+51,Caitlyn,Caitlyn,a Xerife de Piltover,Marksman,Marksman,Sejuani|Amumu|Singed|Blitzcrank|Nautilus,Twitch|Samira|Quinn|Zed|Akshan,Aurora|Cho'Gath|Ekko,Zed|Yunara|Lucian
+164,Camille,Camille,a Sombra de Aço,Fighter,Fighter|Assassin,Tahm Kench|Malphite|Rammus|Cho'Gath|Nautilus,Azir|Mel|Katarina|Brand|Sona,Syndra|Tahm Kench|Renata Glasc,Gnar|Pantheon|Nocturne
+69,Cassiopeia,Cassiopeia,o Abraço da Serpente,Mage,Mage,Rek'Sai|Pantheon|Renekton|Jarvan IV|Yasuo,Akali|Tristana|Shaco|Quinn|Twitch,Ornn|Nautilus|Alistar,Taliyah|Teemo|Kog'Maw
+31,Chogath,Cho'Gath,o Terror do Vazio,Tank,Tank|Mage,Akshan|Tristana|Talon|Akali|Samira,Yorick|Jinx|Viego|Sivir|Urgot,Graves|Kindred|Elise,Singed|Leona|Shen
+42,Corki,Corki,o Bombardeiro Ousado,Mage,Marksman|Mage,Diana|Riven|Mordekaiser|Fizz|Vi,Vayne|Tristana|Akali|Zed|Quinn,Leona|Jinx|Maokai,Seraphine|Nami|Pyke
+122,Darius,Darius,a Mão de Noxus,Fighter,Fighter|Tank,Nautilus|Rammus|Leona|Shen|Nunu e Willump,Nidalee|Kennen|Vel'Koz|Sylas|Zilean,Varus|Miss Fortune|Vel'Koz,Lillia|Poppy|Tryndamere
+131,Diana,Diana,o Escárnio da Lua,Fighter,Fighter|Assassin,Amumu|Rammus|Nautilus|Malphite|Ornn,Annie|Ahri|Heimerdinger|Milio|Viktor,Jhin|Ryze|Karthus,Lillia|Bel'Veth|Mordekaiser
+36,DrMundo,Dr. Mundo,o Louco de Zaun,Fighter,Tank|Fighter,Rell|Shen|Braum|Thresh|Sejuani,Seraphine|Sylas|Teemo|Janna|Twisted Fate,Yuumi|Singed|Kayle,Tryndamere|Sett|Vayne
+119,Draven,Draven,o Carrasco de Noxus,Marksman,Marksman,Leona|Ornn|Alistar|Sejuani|Cho'Gath,Akshan|Samira|Lucian|Quinn|Qiyana,Cho'Gath|Neeko|Fiddlesticks,Xayah|Akshan|Ashe
+245,Ekko,Ekko,o Rapaz que Estilhaçou o Tempo,Mage,Assassin|Mage,Yasuo|Aatrox|Urgot|Dr. Mundo|Hecarim,Kha'Zix|Akali|Lucian|Pyke|Zed,Yunara|Maokai|Draven,Elise|Samira|Kai'Sa
+60,Elise,Elise,a Aranha Rainha,Mage,Assassin|Mage,Kled|Rek'Sai|Poppy|Jax|Gangplank,Akshan|Samira|Twitch|Lucian|Zed,Zeri|Ashe|Braum,Vel'Koz|Soraka|Lissandra
+28,Evelynn,Evelynn,o Abraço da Agonia,Mage,Assassin|Mage,Skarner|Volibear|Lee Sin|Yasuo|Zaahen,Quinn|Akali|Twitch|Talon|Akshan,Cho'Gath|Ashe|Rakan,Soraka|Syndra|Lulu
+81,Ezreal,Ezreal,o Explorador Pródigo,Mage,Marksman|Mage,Fizz|Ambessa|Gwen|Mordekaiser|Dr. Mundo,Tristana|Twitch|Quinn|Zed|Kha'Zix,Blitzcrank|Maokai|Singed,Kayle|Ekko|Annie
+9,Fiddlesticks,Fiddlesticks,o Terror Ancestral,Mage,Mage|Support,Naafiri|K'Sante|Nocturne|Poppy|Hecarim,Samira|Twitch|Akali|Quinn|Lucian,Kindred|Ashe|Tahm Kench,Corki|Elise|Milio
+114,Fiora,Fiora,a Grande Duelista,Fighter,Fighter|Assassin,Rell|Shen|Malphite|Nautilus|Nunu e Willump,Malzahar|Ahri|Azir|Kassadin|Ezreal,Veigar|Kassadin|Milio,Yone|Gwen|Trundle
+105,Fizz,Fizz,o Trapaceiro das Marés,Fighter,Assassin|Fighter,Singed|Blitzcrank|Taric|Amumu|Sejuani,Twisted Fate|Taliyah|Milio|Heimerdinger|Ryze,Evelynn|Orianna|Hwei,Shaco|Sett|Darius
+3,Galio,Galio,o Colosso,Tank,Tank|Mage,Shaco|Samira|Akali|Vayne|Qiyana,Caitlyn|Gnar|Riven|Fiora|Dr. Mundo,Xayah|Renata Glasc|Vex,Nautilus|Rell|Singed
+41,Gangplank,Gangplank,o Terror dos Doze Mares,Fighter,Fighter,Alistar|Nunu e Willump|Amumu|Sejuani|Blitzcrank,Morgana|Katarina|Sylas|Aurelion Sol|Soraka,Leona|Anivia|Miss Fortune,Garen|Jarvan IV|Master Yi
+86,Garen,Garen,o Poder de Demacia,Fighter,Fighter|Tank,Shen|Maokai|Amumu|Cho'Gath|Malphite,Ryze|Ahri|Heimerdinger|Veigar|Jhin,Galio|Veigar|Blitzcrank,Ambessa|Vayne|Udyr
+150,Gnar,Gnar,o Yordle Pré-Histórico,Fighter,Fighter|Tank,Blitzcrank|Cho'Gath|Amumu|Alistar|Leona,Aurora|Miss Fortune|Teemo|Veigar|Corki,Alistar|Lissandra|Orianna,Qiyana|Olaf|Warwick
+79,Gragas,Gragas,o Badernista,Fighter,Fighter|Mage,Taric|Sejuani|Rammus|Alistar|Nunu e Willump,Ziggs|Miss Fortune|LeBlanc|Aurora|Vel'Koz,Maokai|Leona|Miss Fortune,Tristana|Vayne|Camille
+104,Graves,Graves,o Foragido,Marksman,Marksman,Tahm Kench|Galio|Amumu|Ornn|Leona,Lucian|Akshan|Samira|Qiyana|Talon,Blitzcrank|Corki|Ezreal,Xayah|Zeri|Qiyana
+887,Gwen,Gwen,A Costureira Encantada,Fighter,Fighter,Alistar|Malphite|Nunu e Willump|Sejuani|Shen,Milio|Swain|Elise|Lux|Karthus,Cho'Gath|Orianna|Syndra,Lee Sin|Jayce|Poppy
+120,Hecarim,Hecarim,a Sombra da Guerra,Fighter,Fighter|Tank,Ornn|Leona|Shen|Blitzcrank|Malphite,Lissandra|Corki|Varus|Brand|Kai'Sa,Sylas|Karthus|Kayle,Quinn|Zac|Gragas
+74,Heimerdinger,Heimerdinger,o Inventor Idolatrado,Mage,Mage|Support,Mordekaiser|Jax|Shyvana|Zaahen|Sett,Samira|Zed|Twitch|Talon|Vayne,Taric|Malphite|Maokai,Vayne|Taliyah|Twitch
+910,Hwei,Hwei,o Visionário,Mage,Mage|Support,Kled|Yorick|Xin Zhao|Volibear|Kayn,Quinn|Zed|Akali|Lucian|Kha'Zix,Malphite|Kindred|Galio,Jhin|Vex|Soraka
+420,Illaoi,Illaoi,a Sacerdotisa Cráquem,Fighter,Fighter|Tank,Sejuani|Ornn|Blitzcrank|Tahm Kench|Rell,Annie|Brand|Seraphine|Ekko|Elise,LeBlanc|Milio|Kai'Sa,Fiora|Olaf|K'Sante
+39,Irelia,Irelia,a Dançarina das Lâminas,Fighter,Fighter|Assassin,Sejuani|Leona|Malphite|Amumu|Nautilus,Ezreal|Fiddlesticks|Orianna|Neeko|Ziggs,Soraka|Aurora|Rakan,Vladimir|Rumble|Xin Zhao
+427,Ivern,Ivern,o Pai do Verde,Mage,Support|Mage,Vladimir|Gnar|Zac|Fizz|Briar,Kha'Zix|Vayne|Pyke|Lucian|Akshan,Braum|Shen|Blitzcrank,Yuumi|Zilean|Neeko
+40,Janna,Janna,a Fúria da Tormenta,Mage,Support|Mage,Illaoi|Jarvan IV|Lee Sin|Naafiri|Renekton,Akshan|Quinn|Qiyana|Twitch|Akali,Kalista|Galio|Rakan,Annie|Kog'Maw|Aurora
+59,JarvanIV,Jarvan IV,o Exemplo de Demacia,Fighter,Fighter|Tank,Sejuani|Thresh|Alistar|Taric|Singed,Renata Glasc|Ivern|Viktor|Miss Fortune|Morgana,Blitzcrank|Ziggs|Sylas,Tristana|Jax|Naafiri
+24,Jax,Jax,o Grão-Mestre das Armas,Fighter,Fighter,Braum|Blitzcrank|Maokai|Shen|Thresh,Ryze|Zyra|LeBlanc|Kassadin|Zoe,Kennen|Viktor|Varus,Rumble|Shyvana|Kha'Zix
+126,Jayce,Jayce,o Defensor do Amanhã,Fighter,Fighter|Marksman,Ornn|Nautilus|Shen|Galio|Cho'Gath,Bardo|Sona|Swain|Miss Fortune|Twisted Fate,Neeko|Taric|Evelynn,Garen|Tryndamere|Tristana
+202,Jhin,Jhin,o Virtuoso,Mage,Marksman|Mage,K'Sante|Urgot|Zaahen|Rumble|Poppy,Kha'Zix|Samira|Qiyana|Talon|Quinn,Thresh|Caitlyn|Amumu,Lissandra|Tristana|Twisted Fate
+222,Jinx,Jinx,o Gatilho Desenfreado,Marksman,Marksman,Tahm Kench|Alistar|Taric|Rammus|Galio,Pyke|Lucian|Quinn|Zed|Tristana,Viktor|Janna|Kog'Maw,Lucian|Tristana|Samira
+897,KSante,K'Sante,o Orgulho de Nazumah.,Fighter,Tank|Fighter,Shen|Nunu e Willump|Alistar|Tahm Kench|Maokai,Fiddlesticks|Soraka|Malzahar|Syndra|Lissandra,Aurora|Cho'Gath|Milio,Mordekaiser|Lucian|Jayce
+145,Kaisa,Kai'Sa,a Filha do Vazio,Mage,Marksman|Mage,Volibear|Nocturne|Rek'Sai|Vi|Trundle,Tristana|Pyke|Vayne|Qiyana|Kha'Zix,Jinx|Alistar|Draven,Twitch|Ryze|Tristana
+429,Kalista,Kalista,a Lança da Vingança,Marksman,Marksman,Taric|Sejuani|Alistar|Galio|Blitzcrank,Talon|Tristana|Pyke|Shaco|Kha'Zix,Syndra|Mel|Varus,Samira|Yunara|Jinx
+43,Karma,Karma,a Iluminada,Mage,Mage|Support,Jax|Diana|Hecarim|Darius|Renekton,Kha'Zix|Tristana|Lucian|Shaco|Talon,Graves|Nunu e Willump|Kalista,Miss Fortune|Brand|Vex
+30,Karthus,Karthus,a Voz Mortal,Mage,Mage,Diana|Udyr|Tryndamere|Kled|Aatrox,Talon|Quinn|Shaco|Akshan|Kha'Zix,Yunara|Braum|Ashe,Swain|Orianna|Samira
+38,Kassadin,Kassadin,o Andarilho do Vazio,Mage,Assassin|Mage,Xin Zhao|Urgot|Warwick|Garen|Master Yi,Shaco|Qiyana|Akshan|Pyke|Kha'Zix,Cho'Gath|Rammus|Ashe,Ivern|Yuumi|Lissandra
+55,Katarina,Katarina,a Lâmina Sinistra,Mage,Assassin|Mage,Irelia|Fizz|Diana|Vi|Nocturne,Lucian|Akshan|Pyke|Vayne|Kha'Zix,Blitzcrank|Galio|Shen,Cassiopeia|Vayne|Nami
+10,Kayle,Kayle,a Justa,Mage,Mage|Marksman,Irelia|Vi|Darius|Xin Zhao|Riven,Kha'Zix|Samira|Quinn|Akshan|Qiyana,Rammus|Braum|Thresh,Kassadin|Elise|Lucian
+141,Kayn,Kayn,o Ceifador das Sombras,Fighter,Fighter|Assassin,Alistar|Galio|Cho'Gath|Maokai|Blitzcrank,Varus|Karma|Bardo|Jhin|Veigar,Anivia|Jhin|Ryze,Sion|Darius|Garen
+85,Kennen,Kennen,o Coração da Tempestade,Mage,Mage,Kayn|Udyr|Gragas|Dr. Mundo|Jarvan IV,Lucian|Shaco|Twitch|Samira|Quinn,Caitlyn|Maokai|Sejuani,Nami|Teemo|Vayne
+121,Khazix,Kha'Zix,o Ceifador do Vazio,Assassin,Assassin,Sivir|Ryze|Mel|Janna|Yuumi,Amumu|Rammus|Nautilus|Malphite|Ornn,Cho'Gath|Bardo|Blitzcrank,Qiyana|Talon|Pyke
+203,Kindred,Kindred,os Caçadores Eternos,Marksman,Marksman,Shen|Ornn|Sejuani|Singed|Tahm Kench,Twitch|Vayne|Tristana|Kha'Zix|Akali,Sona|Mel|Veigar,Qiyana|Kalista|Vayne
+240,Kled,Kled,o Cavaleiro Intratável,Fighter,Fighter,Shen|Alistar|Rell|Taric|Sejuani,Vex|Lux|Lissandra|Swain|Xerath,Galio|Ekko|Leona,Renekton|Dr. Mundo|Camille
+96,KogMaw,Kog'Maw,a Boca do Abismo,Mage,Marksman|Mage,Yasuo|Jayce|Aatrox|Lee Sin|Sion,Kha'Zix|Quinn|Tristana|Vayne|Lucian,Ashe|Thresh|Amumu,Heimerdinger|Cassiopeia|Viktor
+7,Leblanc,LeBlanc,a Farsante,Mage,Assassin|Mage,Vladimir|Nasus|Wukong|Naafiri|Warwick,Quinn|Shaco|Vayne|Qiyana|Talon,Malphite|Jinx|Shen,Ziggs|Malzahar|Anivia
+64,LeeSin,Lee Sin,o Monge Cego,Fighter,Fighter|Assassin,Alistar|Taric|Leona|Nautilus|Ornn,Kog'Maw|Jhin|Vex|Janna|Renata Glasc,Taliyah|Bardo|Ekko,Jarvan IV|Darius|Vladimir
+89,Leona,Leona,a Alvorada Radiante,Tank,Tank|Support,Vayne|Qiyana|Pyke|Samira|Tristana,Jarvan IV|Yasuo|Lee Sin|Bel'Veth|Ashe,Nidalee|Lux|Ashe,Alistar|Taric|Blitzcrank
+876,Lillia,Lillia,o Florir Receoso,Fighter,Fighter|Mage,Ornn|Maokai|Sejuani|Thresh|Galio,Ezreal|Sona|Teemo|Zyra|Nidalee,Vel'Koz|Cho'Gath|Kennen,Shyvana|Warwick|Viego
+127,Lissandra,Lissandra,a Bruxa Gélida,Mage,Mage,Jarvan IV|Sett|Vi|Irelia|Dr. Mundo,Pyke|Akali|Akshan|Lucian|Shaco,Yunara|Taric|Shen,Ivern|Cassiopeia|Syndra
+236,Lucian,Lucian,o Purificador,Assassin,Marksman|Assassin,Nidalee|Ashe|Soraka|Nami|Kai'Sa,Nunu e Willump|Tahm Kench|Amumu|Singed|Sejuani,Galio|Amumu|Sona,Tristana|Akshan|Draven
+117,Lulu,Lulu,a Fada Feiticeira,Mage,Support|Mage,Yone|Gangplank|Urgot|Zac|Gragas,Tristana|Pyke|Zed|Twitch|Shaco,Taric|Leona|Cho'Gath,Akali|Varus|Talon
+99,Lux,Lux,a Dama da Luz,Mage,Mage|Support,Kayn|Fizz|Bel'Veth|Shyvana|Xin Zhao,Talon|Vayne|Qiyana|Zed|Samira,Rell|Galio|Graves,Malzahar|Nami|Tristana
+54,Malphite,Malphite,o Fragmento do Monolito,Tank,Tank|Mage,Qiyana|Lucian|Zed|Pyke|Twitch,Poppy|Xayah|Kindred|Yasuo|Lee Sin,Ryze|Yunara|Draven,Nunu e Willump|Tahm Kench|Amumu
+90,Malzahar,Malzahar,o Profeta do Vazio,Mage,Mage,Hecarim|Nocturne|Wukong|Ambessa|Vladimir,Twitch|Akshan|Kha'Zix|Tristana|Akali,Rell|Zeri|Xayah,Nami|Ahri|Twisted Fate
+57,Maokai,Maokai,o Ente Sinistro,Tank,Tank|Support,Tristana|Akali|Qiyana|Vayne|Kha'Zix,Tryndamere|Fizz|Jax|Riven|Yorick,Milio|Katarina|Anivia,Singed|Thresh|Blitzcrank
+11,MasterYi,Master Yi,o Espadachim Wuju,Fighter,Fighter|Assassin,Cho'Gath|Amumu|Ornn|Singed|Thresh,Lissandra|Aurora|Orianna|Malzahar|Heimerdinger,Taliyah|Corki|Nami,Zaahen|Quinn|Vladimir
+800,Mel,Mel,o Reflexo da Alma,Mage,Mage|Support,Yone|Riven|Fiora|Briar|Pantheon,Talon|Vayne|Tristana|Akali|Pyke,Draven|Zeri|Galio,Vel'Koz|Zed|Swain
+902,Milio,Milio,A Chama Gentil,Mage,Support|Mage,Volibear|Skarner|Yasuo|Lillia|Riven,Pyke|Qiyana|Twitch|Vayne|Zed,Draven|Shen|Taric,Neeko|Azir|Sona
+21,MissFortune,Miss Fortune,a Caçadora de Recompensas,Mage,Marksman|Mage,Urgot|Camille|Nocturne|Renekton|Mordekaiser,Akshan|Tristana|Talon|Akali|Samira,Kindred|Nautilus|Ashe,Aurora|Brand|Katarina
+82,Mordekaiser,Mordekaiser,o Revenã de Ferro,Fighter,Fighter|Mage,Shen|Thresh|Ornn|Cho'Gath|Nunu e Willump,Taliyah|Smolder|Sylas|Xerath|Ahri,Ekko|Maokai|Cho'Gath,Ambessa|Volibear|Fiora
+25,Morgana,Morgana,a Caída,Mage,Support|Mage,Tryndamere|Nilah|Gnar|Gragas|Nasus,Kha'Zix|Talon|Shaco|Twitch|Lucian,Rakan|Kindred|Sejuani,Elise|Jhin|Heimerdinger
+950,Naafiri,Naafiri,Fera das Cem Mordidas,Fighter,Assassin|Fighter,Braum|Singed|Nunu e Willump|Alistar|Taric,LeBlanc|Teemo|Mel|Zyra|Lissandra,Annie|Amumu|Azir,Kayn|Zac|Vayne
+267,Nami,Nami,a Conjuradora das Marés,Mage,Support|Mage,Viego|Zaahen|Briar|Zac|Irelia,Lucian|Zed|Vayne|Talon|Twitch,Ornn|Taric|Tahm Kench,Renata Glasc|Xerath|Morgana
+75,Nasus,Nasus,o Curador das Areias,Fighter,Fighter|Tank,Alistar|Amumu|Blitzcrank|Sejuani|Cho'Gath,Zoe|Taliyah|Sona|LeBlanc|Ryze,Milio|Corki|Taliyah,Lucian|Nilah|Sett
+111,Nautilus,Nautilus,o Titã das Profundezas,Tank,Tank|Support,Qiyana|Pyke|Akali|Vayne|Zed,Pantheon|Master Yi|Kled|Xayah|Fiora,Zyra|Malzahar|Senna,Taric|Thresh|Cho'Gath
+518,Neeko,Neeko,a Camaleoa Curiosa,Mage,Mage|Support,Illaoi|Gangplank|Sion|Wukong|Urgot,Lucian|Qiyana|Tristana|Akshan|Talon,Jinx|Kindred|Malphite,Twitch|Varus|Brand
+76,Nidalee,Nidalee,a Caçadora Bestial,Mage,Assassin|Mage,Irelia|Gwen|Yorick|Gangplank|Pantheon,Pyke|Kha'Zix|Talon|Shaco|Samira,Caitlyn|Braum|Alistar,Tristana|Soraka|Elise
+895,Nilah,Nilah,a Alegria Irrestrita,Fighter,Fighter|Assassin,Galio|Amumu|Malphite|Cho'Gath|Taric,Janna|LeBlanc|Ryze|Heimerdinger|Ekko,Veigar|Katarina|Ryze,Lucian|Warwick|Renekton
+56,Nocturne,Nocturne,o Eterno Pesadelo,Fighter,Fighter|Assassin,Galio|Leona|Braum|Ornn|Alistar,Soraka|Cassiopeia|Ekko|Miss Fortune|Malzahar,Ekko|Cassiopeia|Lux,Pyke|Mordekaiser|Quinn
+20,Nunu,Nunu e Willump,o Garoto e seu Yeti,Tank,Tank|Mage,Kha'Zix|Samira|Quinn|Akshan|Qiyana,Xin Zhao|Irelia|Viego|Lee Sin|Nilah,Lulu|Zilean|Veigar,Ornn|Tahm Kench|Rammus
+2,Olaf,Olaf,o Berserker,Fighter,Fighter|Tank,Blitzcrank|Nautilus|Sejuani|Taric|Amumu,Katarina|Kassadin|Malzahar|Annie|Zoe,Kassadin|Cho'Gath|Hwei,Warwick|Jarvan IV|Yone
+61,Orianna,Orianna,a Donzela Mecânica,Mage,Mage|Support,Poppy|Lillia|Hecarim|Master Yi|Sion,Kha'Zix|Twitch|Lucian|Pyke|Akshan,Alistar|Taric|Zeri,Corki|Miss Fortune|Janna
+516,Ornn,Ornn,O Fogo sob a Montanha,Tank,Tank,Qiyana|Samira|Twitch|Akshan|Tristana,Trundle|Sivir|Fizz|Garen|Caitlyn,Janna|Caitlyn|Xerath,Malphite|Nunu e Willump|Amumu
+80,Pantheon,Pantheon,a Lança Indestrutível,Fighter,Fighter|Assassin,Braum|Sejuani|Taric|Thresh|Amumu,Heimerdinger|Katarina|Vel'Koz|Anivia|LeBlanc,Amumu|Evelynn|Anivia,Briar|Master Yi|Urgot
+78,Poppy,Poppy,a Guardiã do Martelo,Fighter,Tank|Fighter,Taric|Sejuani|Nautilus|Cho'Gath|Amumu,Corki|Fiddlesticks|Nidalee|Heimerdinger|Zyra,Zyra|Alistar|Syndra,Lillia|Yone|Sion
+555,Pyke,Pyke,o Estripador das Águas Sangrentas,Assassin,Support|Assassin,Nami|Aphelios|Elise|Evelynn|Neeko,Ornn|Alistar|Shen|Sejuani|Blitzcrank,Galio|Anivia|Blitzcrank,Qiyana|Quinn|Kalista
+246,Qiyana,Qiyana,a Imperatriz dos Elementos,Assassin,Assassin,Elise|Graves|Caitlyn|Fiddlesticks|Bardo,Singed|Taric|Galio|Malphite|Nunu e Willump,Ornn|Syndra|Lulu,Tristana|Shaco|Zed
+133,Quinn,Quinn,as Asas de Demacia,Assassin,Marksman|Assassin,Sivir|Zoe|Anivia|Swain|Kennen,Tahm Kench|Alistar|Malphite|Taric|Ornn,Fiddlesticks|Blitzcrank|Lux,Jinx|Zeri|Qiyana
+497,Rakan,Rakan,O Charmoso,Support,Support,Ashe|Azir|Bardo|Lulu|Sylas,Ivern|Ryze|Kha'Zix|Soraka|Aurelion Sol,Zeri|Malzahar|Bardo,Zed|Ryze|Trundle
+33,Rammus,Rammus,o Tatu Blindado,Tank,Tank,Shaco|Talon|Tristana|Zed|Quinn,Xin Zhao|Rengar|Renekton|Nilah|Warwick,Jinx|Taliyah|Graves,Galio|Sejuani|Alistar
+421,RekSai,Rek'Sai,a Escavadora do Vazio,Fighter,Fighter|Tank,Tahm Kench|Cho'Gath|Galio|Malphite|Thresh,Milio|Fiddlesticks|Yuumi|Evelynn|Annie,Zyra|Tahm Kench|Viktor,Akshan|Sett|K'Sante
+526,Rell,Rell,a Dama de Ferro,Tank,Tank|Support,Kha'Zix|Akshan|Talon|Pyke|Samira,Mordekaiser|Kalista|Garen|Lee Sin|Olaf,Ashe|Vex|Aphelios,Braum|Nunu e Willump|Thresh
+888,Renata,Renata Glasc,a Baronesa da Química,Mage,Support|Mage,Vladimir|Warwick|Trundle|Lillia|K'Sante,Akshan|Talon|Shaco|Zed|Lucian,Yunara|Singed|Cho'Gath,Lulu|Samira|Smolder
+58,Renekton,Renekton,o Carniceiro das Areias,Fighter,Fighter|Tank,Tahm Kench|Leona|Blitzcrank|Nautilus|Alistar,Ekko|Taliyah|Ivern|Malzahar|Neeko,Janna|Taliyah|Mel,Ambessa|Tristana|Master Yi
+107,Rengar,Rengar,o Acossador da Alcateia,Fighter,Assassin|Fighter,Cho'Gath|Sejuani|Ornn|Nunu e Willump|Alistar,Renata Glasc|Ekko|Mel|Veigar|Neeko,Aurora|Kennen|Malzahar,Vayne|Udyr|Mordekaiser
+92,Riven,Riven,a Exilada,Fighter,Fighter|Assassin,Sejuani|Nunu e Willump|Malphite|Amumu|Shen,Malzahar|Elise|Azir|Lux|Swain,Zoe|Smolder|Teemo,Irelia|Aatrox|Master Yi
+68,Rumble,Rumble,a Ameaça Mecânica,Fighter,Fighter|Mage,Tahm Kench|Galio|Ornn|Amumu|Shen,Ryze|Corki|Lulu|Lux|Katarina,Singed|Swain|Cassiopeia,Irelia|Volibear|Warwick
+13,Ryze,Ryze,o Mago Rúnico,Mage,Mage,Vi|Sion|Briar|Urgot|Camille,Akali|Akshan|Twitch|Shaco|Quinn,Rammus|Maokai|Galio,Twisted Fate|Shaco|Ezreal
+360,Samira,Samira,a Rosa do Deserto,Assassin,Marksman|Assassin,Jinx|Yuumi|Xayah|Mel|Ashe,Alistar|Singed|Amumu|Blitzcrank|Taric,Lulu|Karthus|Karma,Qiyana|Kalista|Vayne
+113,Sejuani,Sejuani,a Fúria do Norte,Tank,Tank,Tristana|Samira|Shaco|Kha'Zix|Qiyana,Nilah|Warwick|Senna|Wukong|Yorick,Zilean|Kalista|Ashe,Malphite|Alistar|Rammus
+235,Senna,Senna,A Redentora,Marksman,Support|Marksman,Maokai|Thresh|Tahm Kench|Rell|Amumu,Shaco|Lucian|Samira|Kha'Zix|Quinn,Katarina|Kai'Sa|Singed,Talon|Lucian|Caitlyn
+147,Seraphine,Seraphine,a Cantora Sonhadora,Mage,Support|Mage,Hecarim|Warwick|Rengar|Kled|Briar,Talon|Kha'Zix|Samira|Shaco|Tristana,Alistar|Singed|Cho'Gath,Twitch|Shaco|Kennen
+875,Sett,Sett,o Chefe,Fighter,Fighter|Tank,Leona|Thresh|Braum|Alistar|Malphite,Evelynn|Heimerdinger|Orianna|Brand|Ryze,Leona|Rammus|Ahri,Jayce|K'Sante|Volibear
+35,Shaco,Shaco,o Bufão Demoníaco,Assassin,Assassin,Zeri|Soraka|Ryze|Lulu|Janna,Alistar|Sejuani|Nunu e Willump|Rell|Singed,Kog'Maw|Leona|Ivern,Senna|Tristana|Kalista
+98,Shen,Shen,o Olho do Crepúsculo,Tank,Tank,Lucian|Shaco|Qiyana|Samira|Zed,Lillia|Yasuo|Shyvana|Yone|Poppy,Ryze|Syndra|Caitlyn,Ornn|Taric|Thresh
+102,Shyvana,Shyvana,a Meio-Dragão,Fighter,Fighter|Tank,Tahm Kench|Singed|Ornn|Leona|Amumu,Lux|Cassiopeia|Janna|Malzahar|Kai'Sa,Evelynn|Corki|Singed,Yorick|Sett|Gwen
+27,Singed,Singed,o Químico Louco,Tank,Tank|Mage,Samira|Twitch|Kha'Zix|Quinn|Zed,Kalista|Trundle|Zac|Ashe|Volibear,Draven|Renata Glasc|Malzahar,Maokai|Nunu e Willump|Ornn
+14,Sion,Sion,o Colosso Morto-Vivo,Fighter,Tank|Fighter,Ornn|Shen|Nautilus|Maokai|Malphite,Elise|Kennen|Morgana|Annie|Cassiopeia,Seraphine|Braum|Evelynn,Garen|Olaf|Ambessa
+15,Sivir,Sivir,a Mestra da Batalha,Marksman,Marksman,Galio|Braum|Blitzcrank|Malphite|Maokai,Tristana|Akshan|Lucian|Samira|Akali,Lissandra|Teemo|Yuumi,Draven|Qiyana|Quinn
+72,Skarner,Skarner,o Soberano Primordial,Fighter,Tank|Fighter,Maokai|Taric|Braum|Sejuani|Amumu,Zyra|Milio|Twisted Fate|Kassadin|Malzahar,Rakan|Sona|Yuumi,Lee Sin|Bel'Veth|Zaahen
+901,Smolder,Smolder,o Filhote Flamejante,Mage,Marksman|Mage,Volibear|Warwick|Kayn|Jayce|Rengar,Shaco|Pyke|Samira|Lucian|Twitch,Aphelios|Alistar|Cho'Gath,Akshan|Shaco|Vel'Koz
+37,Sona,Sona,a Mestra das Cordas,Mage,Support|Mage,Briar|Rengar|Wukong|Urgot|Gragas,Akshan|Samira|Tristana|Pyke|Quinn,Ornn|Rammus|Graves,Jhin|Kha'Zix|Twitch
+16,Soraka,Soraka,a Filha das Estrelas,Mage,Support|Mage,Tryndamere|Naafiri|Camille|Nocturne|Jayce,Shaco|Quinn|Tristana|Zed|Lucian,Thresh|Rell|Nautilus,Annie|Xerath|Fiddlesticks
+50,Swain,Swain,o Grande General Noxiano,Mage,Mage|Support,Udyr|Vladimir|Urgot|Riven|Nocturne,Quinn|Lucian|Shaco|Talon|Vayne,Aphelios|Shen|Leona,LeBlanc|Neeko|Lux
+517,Sylas,Sylas,o Abjugado,Mage,Mage|Assassin,Illaoi|Shyvana|Nocturne|Briar|Volibear,Tristana|Talon|Shaco|Kha'Zix|Pyke,Singed|Jinx|Senna,Brand|Evelynn|Milio
+134,Syndra,Syndra,a Soberana Sombria,Mage,Mage,Viego|Irelia|Kled|Aatrox|Sett,Akshan|Shaco|Qiyana|Pyke|Twitch,Senna|Xayah|Kindred,Veigar|Kog'Maw|Karthus
+223,TahmKench,Tahm Kench,o Rei do Rio,Tank,Tank|Support,Twitch|Talon|Qiyana|Quinn|Akali,Zeri|Vi|Ashe|Nilah|Nocturne,Jhin|Brand|Sylas,Nautilus|Galio|Braum
+163,Taliyah,Taliyah,a Tecelã de Pedras,Mage,Mage|Support,Yone|Trundle|Garen|K'Sante|Irelia,Vayne|Kha'Zix|Samira|Talon|Shaco,Jinx|Taric|Kalista,Teemo|Ryze|Pyke
+91,Talon,Talon,a Sombra da Lâmina,Assassin,Assassin,Corki|Miss Fortune|Janna|Senna|Varus,Alistar|Ornn|Maokai|Cho'Gath|Malphite,Cho'Gath|Katarina|Kog'Maw,Aphelios|Qiyana|Zeri
+44,Taric,Taric,o Escudo de Valoran,Tank,Support|Tank,Twitch|Tristana|Akali|Qiyana|Zed,Riven|Sett|Ashe|Trundle|Urgot,Janna|Kai'Sa|Neeko,Singed|Thresh|Ornn
+17,Teemo,Teemo,o Explorador Veloz,Mage,Marksman|Mage,Diana|Gragas|Rengar|Yone|Udyr,Samira|Twitch|Kha'Zix|Quinn|Zed,Aphelios|Senna|Caitlyn,Aurelion Sol|Vel'Koz|Sona
+412,Thresh,Thresh,o Guardião das Correntes,Tank,Support|Tank,Talon|Vayne|Tristana|Zed|Samira,Fizz|Master Yi|Vladimir|Darius|Rengar,Ziggs|Brand|Caitlyn,Leona|Blitzcrank|Galio
+18,Tristana,Tristana,a Artilheira Yordle,Assassin,Marksman|Assassin,Katarina|Ekko|Milio|Sona|Kassadin,Sejuani|Tahm Kench|Amumu|Cho'Gath|Leona,LeBlanc|Blitzcrank|Sejuani,Draven|Kha'Zix|Qiyana
+48,Trundle,Trundle,o Rei dos Trolls,Fighter,Fighter|Tank,Maokai|Sejuani|Shen|Ornn|Alistar,Nidalee|Ryze|Corki|Cassiopeia|Mel,Brand|Milio|Mel,Viego|Tristana|Vi
+23,Tryndamere,Tryndamere,o Rei Bárbaro,Fighter,Fighter|Assassin,Ornn|Alistar|Amumu|Leona|Braum,Seraphine|Heimerdinger|Sona|Karma|Syndra,Leona|Braum|Rakan,Kayn|Poppy|Akali
+4,TwistedFate,Twisted Fate,o Mestre das Cartas,Mage,Mage|Marksman,Nilah|Wukong|Volibear|Garen|Renekton,Pyke|Samira|Shaco|Vayne|Akali,Leona|Thresh|Caitlyn,Ziggs|Miss Fortune|Kog'Maw
+29,Twitch,Twitch,o Semeador da Peste,Assassin,Marksman|Assassin,Twisted Fate|Yunara|Zoe|Vex|Lux,Sejuani|Leona|Malphite|Amumu|Nautilus,Nautilus|Ryze|Rell,Pyke|Zeri|Caitlyn
+77,Udyr,Udyr,o Andarilho Espiritual,Fighter,Fighter|Tank,Nautilus|Thresh|Taric|Ornn|Malphite,Renata Glasc|Lux|Azir|Neeko|Kayle,Zilean|Vel'Koz|Leona,Jarvan IV|Vladimir|Urgot
+6,Urgot,Urgot,o Encouraçado,Fighter,Fighter|Tank,Amumu|Thresh|Tahm Kench|Singed|Galio,Azir|Twisted Fate|Lissandra|Karthus|LeBlanc,Kennen|Ahri|Annie,Lucian|Aatrox|Jayce
+110,Varus,Varus,a Flecha da Vingança,Mage,Marksman|Mage,Renekton|Garen|Ambessa|Nocturne|Skarner,Lucian|Qiyana|Zed|Vayne|Twitch,Sejuani|Ashe|Blitzcrank,Syndra|Pyke|Evelynn
+67,Vayne,Vayne,a Caçadora Noturna,Assassin,Marksman|Assassin,Jhin|Ashe|Xayah|Nidalee|Syndra,Nautilus|Thresh|Taric|Ornn|Malphite,Ryze|Thresh|Nunu e Willump,Zeri|Zed|Kha'Zix
+45,Veigar,Veigar,o Pequeno Mestre do Mal,Mage,Mage,Gangplank|Kled|Sett|Briar|Tryndamere,Akali|Akshan|Qiyana|Kha'Zix|Zed,Sivir|Rammus|Taric,Kassadin|Neeko|Taliyah
+161,Velkoz,Vel'Koz,o Olho do Vazio,Mage,Mage|Support,Shyvana|Sion|Renekton|Sett|Urgot,Tristana|Pyke|Samira|Vayne|Shaco,Sejuani|Malphite|Tahm Kench,Twitch|Karma|Seraphine
+711,Vex,Vex,a Melancolista,Mage,Mage,Irelia|Zaahen|Diana|Gwen|Sion,Qiyana|Talon|Kha'Zix|Samira|Pyke,Senna|Singed|Tahm Kench,Jhin|Varus|Sylas
+254,Vi,Vi,a Defensora de Piltover,Fighter,Fighter|Assassin,Maokai|Blitzcrank|Singed|Malphite|Rammus,Nidalee|Ekko|Milio|Zoe|Ziggs,Tahm Kench|Zoe|Taric,Sion|Urgot|Aatrox
+234,Viego,Viego,O Rei Destruído,Fighter,Fighter|Assassin,Maokai|Thresh|Nautilus|Alistar|Leona,Miss Fortune|Varus|Corki|Sylas|Teemo,Thresh|Milio|Veigar,Vayne|Nocturne|Gnar
+112,Viktor,Viktor,o Arauto do Arcano,Mage,Mage,Renekton|Volibear|Rumble|Pantheon|Briar,Qiyana|Talon|Lucian|Akshan|Twitch,Malphite|Rakan|Cho'Gath,Karma|Vex|Miss Fortune
+8,Vladimir,Vladimir,o Sanguinário Escarlate,Fighter,Mage|Fighter,Maokai|Tahm Kench|Thresh|Alistar|Leona,Janna|Morgana|Soraka|Kog'Maw|Ryze,Taric|Viktor|Leona,Zed|Kayn|Volibear
+106,Volibear,Volibear,a Tempestade Implacável,Fighter,Fighter|Tank,Rell|Amumu|Galio|Nunu e Willump|Singed,Viktor|Nidalee|Teemo|Jhin|Kog'Maw,Renata Glasc|Brand|Thresh,Pantheon|Nocturne|Kled
+19,Warwick,Warwick,a Ira Desimpedida de Zaun,Fighter,Fighter|Tank,Braum|Cho'Gath|Thresh|Singed|Shen,Aurelion Sol|Zilean|Lux|Miss Fortune|Milio,Cassiopeia|Ekko|Karthus,Hecarim|Briar|Zed
+62,MonkeyKing,Wukong,o Macaco Rei,Fighter,Fighter|Tank,Rammus|Cho'Gath|Maokai|Malphite|Alistar,Kassadin|Nidalee|Yuumi|Karma|Zoe,Zyra|Brand|Milio,Aatrox|Rek'Sai|Qiyana
+498,Xayah,Xayah,a Rebelde,Marksman,Marksman,Thresh|Ornn|Alistar|Singed|Nautilus,Kha'Zix|Quinn|Akali|Lucian|Twitch,Corki|Elise|Seraphine,Vayne|Lucian|Graves
+101,Xerath,Xerath,o Mago Ascendente,Mage,Mage|Support,Ambessa|Kled|Viego|Poppy|K'Sante,Qiyana|Pyke|Akali|Vayne|Zed,Rell|Amumu|Nunu e Willump,Vayne|Lissandra|Cassiopeia
+5,XinZhao,Xin Zhao,o Senescal de Demacia,Fighter,Fighter|Tank,Thresh|Cho'Gath|Tahm Kench|Maokai|Malphite,Soraka|Katarina|Ekko|Kassadin|Lissandra,Viktor|Morgana|Taric,Tristana|Pantheon|Sett
+157,Yasuo,Yasuo,o Imperdoável,Fighter,Fighter|Assassin,Thresh|Galio|Taric|Nautilus|Shen,Katarina|Xerath|Syndra|Viktor|LeBlanc,LeBlanc|Anivia|Sejuani,Briar|Pantheon|Aatrox
+777,Yone,Yone,o Inesquecido,Fighter,Fighter|Assassin,Maokai|Leona|Rell|Galio|Alistar,Vex|Miss Fortune|Fiddlesticks|Vel'Koz|Kassadin,Katarina|Cassiopeia|Bardo,Ambessa|Sion|Shaco
+83,Yorick,Yorick,o Pastor de Almas,Fighter,Fighter|Tank,Malphite|Tahm Kench|Maokai|Singed|Nautilus,Syndra|Kassadin|Vex|Ekko|Orianna,Katarina|Cho'Gath|Ivern,Kha'Zix|Sett|Twitch
+804,Yunara,Yunara,a Fé Inabalável,Marksman,Marksman,Nunu e Willump|Tahm Kench|Shen|Rammus|Ornn,Akshan|Samira|Lucian|Pyke|Quinn,Azir|Veigar|Rakan,Tristana|Kalista|Quinn
+350,Yuumi,Yuumi,a Gata Mágica,Mage,Support|Mage,Viego|Shyvana|Pantheon|K'Sante|Lillia,Lucian|Akali|Quinn|Samira|Qiyana,Amumu|Rakan|Alistar,Taliyah|Morgana|Shaco
+904,Zaahen,Zaahen,O Indissociável,Fighter,Fighter|Assassin,Leona|Taric|Rell|Alistar|Braum,Janna|Lux|Malzahar|Ekko|Viktor,Morgana|Thresh|Corki,Volibear|Akali|Samira
+154,Zac,Zac,a Arma Secreta,Fighter,Tank|Fighter,Cho'Gath|Malphite|Singed|Tahm Kench|Galio,Annie|Corki|Mel|Teemo|Malzahar,Blitzcrank|Ekko|Zyra,Samira|Aatrox|Ambessa
+238,Zed,Zed,o Mestre das Sombras,Assassin,Assassin,Janna|Sylas|Kog'Maw|Katarina|Azir,Malphite|Singed|Maokai|Ornn|Amumu,Syndra|Zoe|Ornn,Zeri|Jinx|Kha'Zix
+221,Zeri,Zeri,A Faísca de Zaun,Marksman,Marksman,Amumu|Ornn|Thresh|Sejuani|Blitzcrank,Talon|Akali|Vayne|Pyke|Quinn,Tahm Kench|Vex|Sylas,Shaco|Pyke|Sivir
+115,Ziggs,Ziggs,o Especialista em Hexplosivos,Mage,Mage,Pantheon|Lillia|Rek'Sai|K'Sante|Naafiri,Quinn|Shaco|Akshan|Lucian|Akali,Rell|Rammus|Xayah,Kennen|Teemo|Pyke
+26,Zilean,Zilean,o Guardião do Tempo,Mage,Support|Mage,Rumble|Yorick|Fiora|Jayce|Viego,Samira|Zed|Shaco|Qiyana|Twitch,Graves|Cho'Gath|Rammus,Tristana|Ziggs|Milio
+142,Zoe,Zoe,o Aspecto do Crepúsculo,Mage,Mage,Gangplank|Skarner|Renekton|Wukong|Sion,Qiyana|Zed|Akshan|Samira|Kha'Zix,Nunu e Willump|Senna|Aphelios,Hwei|Ziggs|Varus
+143,Zyra,Zyra,a Ascensão dos Espinhos,Mage,Mage|Support,Poppy|Lee Sin|Fizz|Lillia|Dr. Mundo,Zed|Lucian|Akali|Qiyana|Quinn,Maokai|Rammus|Taric,Swain|Orianna|Nami

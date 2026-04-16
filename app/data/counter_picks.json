@@ -1,0 +1,986 @@
+[
+  {
+    "enemy_champion": "Aatrox",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "Precisa de DPS físico bruto e corta-cura constante para derreter a regeneração de vida dele nas lutas."
+  },
+  {
+    "enemy_champion": "Ahri",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "A velocidade de movimento do Jhin ajuda a desviar do charme (E), e ele explode ela de longe antes do combo."
+  },
+  {
+    "enemy_champion": "Akali",
+    "ideal_adc": "Corki",
+    "ideal_support": "Lulu",
+    "reason": "O E (Metralhadora) e o Q (Bomba de Fósforo) causam dano em área, revelando e machucando ela dentro da fumaça."
+  },
+  {
+    "enemy_champion": "Akshan",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nami",
+    "reason": "O alcance do Jhin é muito maior. Um W bem dado pune o Akshan no meio do balanço da corda dele."
+  },
+  {
+    "enemy_champion": "Alistar",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "A ultimate do Alistar reduz muito o dano recebido. A Yunara tem a cadência necessária para matá-lo assim que o efeito acabar."
+  },
+  {
+    "enemy_champion": "Amumu",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Karma",
+    "reason": "Ela joga de trás da linha de frente. Enquanto o Amumu gasta o engage no seu time, ela bate livre de longe."
+  },
+  {
+    "enemy_champion": "Anivia",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "O Corki iguala o alcance do poke dela e usa o W (Valquíria) para pular a parede de gelo e fugir da tempestade."
+  },
+  {
+    "enemy_champion": "Annie",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "O Jhin joga fora da distância do Flash + Ultimate (Tibbers) da Annie, explodindo ela com segurança."
+  },
+  {
+    "enemy_champion": "Aphelios",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nami",
+    "reason": "O Aphelios demora para trocar de armas e escalar. O Jhin dá um 4º tiro crítico, recua e vence as trocas curtas."
+  },
+  {
+    "enemy_champion": "Ashe",
+    "ideal_adc": "Corki",
+    "ideal_support": "Braum",
+    "reason": "O alcance dos mísseis do Corki supera a chuva de flechas dela, e a Valquíria serve para desviar da Flecha de Cristal."
+  },
+  {
+    "enemy_champion": "Aurelion Sol",
+    "ideal_adc": "Corki",
+    "ideal_support": "Nautilus",
+    "reason": "O voo contínuo e estático dele (Q) o torna um alvo extremamente fácil para engolir todos os mísseis do Corki."
+  },
+  {
+    "enemy_champion": "Azir",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "O Corki é um dos poucos que consegue igualar a pressão de limpar a onda de minions de longe sem tomar dano dos soldados."
+  },
+  {
+    "enemy_champion": "Bardo",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Karma",
+    "reason": "Se o Bardo for pego fora de posição catando sinos, o Jhin o enraíza de muito longe (W) e garante o abate."
+  },
+  {
+    "enemy_champion": "Bel'Veth",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "Nas lutas longas, a redução de dano dela precisa ser superada por uma metralhadora de ataques básicos (DPS puro)."
+  },
+  {
+    "enemy_champion": "Blitzcrank",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Braum",
+    "reason": "A alta velocidade de movimento do Jhin após um acerto crítico torna desviar do puxão muito mais fácil."
+  },
+  {
+    "enemy_champion": "Brand",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nami",
+    "reason": "Explode o Brand de longe antes que ele consiga chegar perto o suficiente para espalhar o fogo na sua equipe."
+  },
+  {
+    "enemy_champion": "Braum",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Karma",
+    "reason": "Com o Furacão de Runaan, a Yunara espalha os ataques básicos ignorando parcialmente o escudo direcional do Braum."
+  },
+  {
+    "enemy_champion": "Briar",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Nautilus",
+    "reason": "Como a Briar corre em linha reta durante o frenesi, a Yunara recua batendo e derrete o HP dela rápido."
+  },
+  {
+    "enemy_champion": "Caitlyn",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nami",
+    "reason": "O Jhin tem o kit perfeito para trocar dano de longe (Q e W), não deixando a Caitlyn dominar o espaço de graça."
+  },
+  {
+    "enemy_champion": "Camille",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "Se a Camille prender você na ultimate, não tem para onde fugir. A Yunara com foco em DPS tenta matá-la antes de morrer (exige suporte colado)."
+  },
+  {
+    "enemy_champion": "Cassiopeia",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Karma",
+    "reason": "O Jhin entra, dá um tiro forte e sai correndo. Isso não dá tempo para ela estacar o dano contínuo de veneno (E)."
+  },
+  {
+    "enemy_champion": "Cho'Gath",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "O clássico \"Tank Killer\". Cho'Gath acumula vida infinita, e só a velocidade de ataque e crítico da Yunara resolvem."
+  },
+  {
+    "enemy_champion": "Darius",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Karma",
+    "reason": "Kiting perfeito. A velocidade de movimento do Jhin anula o Darius, que nunca consegue chegar perto para puxar."
+  },
+  {
+    "enemy_champion": "Diana",
+    "ideal_adc": "Corki",
+    "ideal_support": "Lulu",
+    "reason": "O dano misto e constante pune os escudos dela, e a Valquíria salva o Corki quando ela tenta ultar no meio do time."
+  },
+  {
+    "enemy_champion": "Dr. Mundo",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "Outro gigante de HP e regeneração. É o prato principal para a Yunara fatiar no late game com itens de penetração."
+  },
+  {
+    "enemy_champion": "Draven",
+    "ideal_adc": "Corki",
+    "ideal_support": "Nautilus",
+    "reason": "O Corki joga recuado no começo e, depois do nível 6, atira os mísseis exatamente na marca onde o machado dele vai cair."
+  },
+  {
+    "enemy_champion": "Ekko",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "O Jhin tem o burst (dano explosivo) necessário para explodir o Ekko antes que ele tenha tempo de reação para usar a Ultimate e voltar no tempo."
+  },
+  {
+    "enemy_champion": "Elise",
+    "ideal_adc": "Corki",
+    "ideal_support": "Braum",
+    "reason": "O Corki joga recuado. Se ela tentar o gank de aranha ou jogar o casulo (E), o W (Valquíria) garante a fuga imediata."
+  },
+  {
+    "enemy_champion": "Evelynn",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Lulu",
+    "reason": "As armadilhas (E) do Jhin ajudam a proteger os flancos contra a invisibilidade dela, e o W pode enraizá-la assim que for revelada."
+  },
+  {
+    "enemy_champion": "Ezreal",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Karma",
+    "reason": "O Ezreal quer uma rota segura para farmar de longe. A Yunara adora isso: ela escala de graça e destrói o time dele nas lutas de 5v5 no late game."
+  },
+  {
+    "enemy_champion": "Fiddlesticks",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "Fica muito fora do alcance da ultimate dele. Se o Fiddle tentar drenar vida parado, o Jhin o enraíza na hora e o time finaliza."
+  },
+  {
+    "enemy_champion": "Fiora",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nami",
+    "reason": "A velocidade de movimento extra do acerto crítico permite que o Jhin fuja facilmente das investidas dela e esconda as marcas vitais."
+  },
+  {
+    "enemy_champion": "Fizz",
+    "ideal_adc": "Corki",
+    "ideal_support": "Lulu",
+    "reason": "O Corki pode punir o Fizz de muito longe com mísseis e usar o W para pular para fora da área do tubarão (Ultimate) instantaneamente."
+  },
+  {
+    "enemy_champion": "Galio",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "O Galio tem muita resistência mágica e escudo contra magia inatos. A Yunara ignora isso com dano físico (DPS) puro e ininterrupto."
+  },
+  {
+    "enemy_champion": "Gangplank",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nami",
+    "reason": "O alcance do Jhin permite quebrar os barris do Gangplank de uma distância segura antes que ele consiga detoná-los."
+  },
+  {
+    "enemy_champion": "Garen",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Karma",
+    "reason": "O pesadelo do Garen é o kiting (bater e correr). A mobilidade do Jhin anula a única forma de iniciação do Garen, que é vir correndo reto."
+  },
+  {
+    "enemy_champion": "Gnar",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Nautilus",
+    "reason": "O Mega Gnar vira uma parede de vida e resistências. A Yunara fura essa barreira rapidamente com ataques velozes e itens de penetração."
+  },
+  {
+    "enemy_champion": "Gragas",
+    "ideal_adc": "Corki",
+    "ideal_support": "Braum",
+    "reason": "O W do Corki é excelente para desviar das barrigadas do Gragas ou reposicionar se for jogado longe pelo barril explosivo (Ultimate)."
+  },
+  {
+    "enemy_champion": "Graves",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "O Graves ganha muita armadura passiva usando o dash (E). O dano mágico do Corki ignora essa armadura extra."
+  },
+  {
+    "enemy_champion": "Gwen",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "Como a Gwen tem a névoa (W) que a deixa imune a dano de longe, a Yunara tem o DPS necessário para entrar na área se for preciso e derretê-la na troca franca."
+  },
+  {
+    "enemy_champion": "Hecarim",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "Jogue sempre fora do alcance de visão. Quando ele tentar atropelar alguém, o Jhin o pune de longe com a Ultimate (R) e W em total segurança."
+  },
+  {
+    "enemy_champion": "Heimerdinger",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "Os mísseis do Corki (R) destroem as torres do Heimerdinger de muito longe, anulando completamente a pressão de rota dele."
+  },
+  {
+    "enemy_champion": "Illaoi",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Karma",
+    "reason": "A alta velocidade de ataque da Yunara permite que ela quebre os tentáculos da Illaoi rapidamente e mate ela antes de entrar na \"zona da morte\" da ultimate."
+  },
+  {
+    "enemy_champion": "Irelia",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Lulu",
+    "reason": "Mobilidade é a chave. A velocidade do Jhin o ajuda a desviar do atordoamento (E) e da Ultimate dela, enquanto bate de longe."
+  },
+  {
+    "enemy_champion": "Ivern",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Nami",
+    "reason": "Com o Furacão de Runaan, a Yunara bate no Ivern e no Golem (Margarida) ao mesmo tempo, ignorando os escudos constantes dele."
+  },
+  {
+    "enemy_champion": "Janna",
+    "ideal_adc": "Corki",
+    "ideal_support": "Nautilus",
+    "reason": "O kit inteiro da Janna é para empurrar quem tenta chegar perto. O Corki burla isso atirando mísseis mágicos do outro lado da tela."
+  },
+  {
+    "enemy_champion": "Jarvan IV",
+    "ideal_adc": "Corki",
+    "ideal_support": "Lulu",
+    "reason": "O J4 prende o alvo na Ultimate (Cataclismo). O Corki simplesmente aperta o W (Valquíria) e sai voando de dentro da cratera de graça."
+  },
+  {
+    "enemy_champion": "Jax",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "O Jax roda o poste para ignorar ataques básicos e ganhar armadura. O Corki derrete a vida dele com as habilidades mágicas e o poke."
+  },
+  {
+    "enemy_champion": "Jayce",
+    "ideal_adc": "Corki",
+    "ideal_support": "Braum",
+    "reason": "O Corki consegue igualar a guerra de poke (tiros de longa distância) contra o Jayce nas lutas por objetivos."
+  },
+  {
+    "enemy_champion": "Jinx",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "O Jhin bate muito forte no começo do jogo, punindo a fase de rotas fraca da Jinx e atrasando o pico de poder dela."
+  },
+  {
+    "enemy_champion": "K'Sante",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "O K'Sante perde vida e resistências para ganhar dano (Forma Irrestrita). A Yunara capitaliza nisso com DPS físico para matá-lo na hora da transição."
+  },
+  {
+    "enemy_champion": "Kai'Sa",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "O Jhin joga atrás da onda de tropas (evitando o Q isolado dela) e pune ela com tiros pesados sem deixar ela chegar perto para estacar a passiva."
+  },
+  {
+    "enemy_champion": "Kalista",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "A Kalista odeia lentidão e dano explosivo. O Jhin tem os dois. Um 4º tiro acompanhado de um E/W quebra as pernas dela."
+  },
+  {
+    "enemy_champion": "Karma",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Nami",
+    "reason": "A Karma é opressora na rota, mas não tem dano no late game. Se a Yunara sobreviver ao começo, ela vence o jogo sozinha depois de 3 itens."
+  },
+  {
+    "enemy_champion": "Karthus",
+    "ideal_adc": "Corki",
+    "ideal_support": "Lulu",
+    "reason": "O Corki consegue usar o W para desviar dos Qs do Karthus e tem mais alcance para puni-lo antes que ele consiga entrar no meio do time para morrer."
+  },
+  {
+    "enemy_champion": "Kassadin",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "O Kassadin tem escudo e redução de dano mágico. A Yunara ignora isso cobrindo ele de dano físico constante assim que ele pula para a luta."
+  },
+  {
+    "enemy_champion": "Katarina",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "Se a Katarina pular e usar a ultimate, o Jhin acerta o W nela no mesmo segundo, cancelando a mobilidade dela para o time explodir."
+  },
+  {
+    "enemy_champion": "Kayle",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "A Kayle precisa escalar. O Jhin consegue pressionar muito no início e, no mid game, tem o burst para matá-la antes que ela consiga apertar a Ultimate."
+  },
+  {
+    "enemy_champion": "Kayn",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "O Kayn Vermelho (Rhaast) cura muito e faz itens de tanque/lutador. A Yunara com corta-cura é a melhor resposta para derreter o HP dele."
+  },
+  {
+    "enemy_champion": "Kennen",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nami",
+    "reason": "O Jhin tem alcance suficiente para punir o Kennen sem nunca precisar entrar na área do choque da ultimate dele."
+  },
+  {
+    "enemy_champion": "Kha'Zix",
+    "ideal_adc": "Corki",
+    "ideal_support": "Lulu",
+    "reason": "Se o Kha'Zix pular em você das sombras, o W (Valquíria) cria a distância necessária instantaneamente para você não tomar o dano de isolamento."
+  },
+  {
+    "enemy_champion": "Kindred",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "O Jhin dá o dano explosivo para forçar ela a ultar, carrega o 4º tiro e a executa no exato frame em que a invulnerabilidade acaba."
+  },
+  {
+    "enemy_champion": "Kled",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "A Yunara tem a cadência de ataques insana necessária para derrubar o lagarto (Skaarl) rápido e matar o Kled antes que ele consiga montar de novo."
+  },
+  {
+    "enemy_champion": "Kog'Maw",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "O Kog'Maw atira de muito longe, mas não tem escape. Um acerto do seu suporte significa que o Jhin vai explodir ele no combo antes que ele pisque."
+  },
+  {
+    "enemy_champion": "LeBlanc",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Lulu",
+    "reason": "Ela é muito frágil. Jogue recuado e puna com um 4º tiro explosivo ou enraíze (W) no exato local onde ela deixou a marca de retorno do dash."
+  },
+  {
+    "enemy_champion": "Lee Sin",
+    "ideal_adc": "Corki",
+    "ideal_support": "Braum",
+    "reason": "Se ele acertar o Q (Onda Sônica) e voar na sua direção, o W (Valquíria) cria distância no meio do trajeto e te coloca em segurança."
+  },
+  {
+    "enemy_champion": "Leona",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "Foco clássico em linha de frente. Espere ela gastar o combo de atordoamento no seu suporte/tanque e derreta as resistências dela com ataques contínuos."
+  },
+  {
+    "enemy_champion": "Lillia",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "O Jhin cancela a mobilidade absurda dela. Um acerto do W de longe a prende no chão, acabando com a vantagem de velocidade."
+  },
+  {
+    "enemy_champion": "Lissandra",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "O alcance das suas habilidades e ataques é maior que o dela. Você consegue puni-la de longe sem nunca entrar na área do atordoamento (W) ou Ultimate."
+  },
+  {
+    "enemy_champion": "Lucian",
+    "ideal_adc": "Corki",
+    "ideal_support": "Braum",
+    "reason": "O Corki segura a pressão inicial e, a partir do nível 6, vence as trocas curtas mantendo distância. O dano mágico ignora builds focadas em armadura."
+  },
+  {
+    "enemy_champion": "Lulu",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Karma",
+    "reason": "O Jhin tem o dano explosivo (burst) necessário para evaporar o alvo antes que a Lulu tenha tempo de reação para usar a Ultimate e salvá-lo."
+  },
+  {
+    "enemy_champion": "Lux",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "A alta velocidade de movimento do Jhin ao critar facilita desviar das habilidades (Q e E) dela, e ele devolve dano letal de fora do alcance de perigo."
+  },
+  {
+    "enemy_champion": "Malphite",
+    "ideal_adc": "Corki",
+    "ideal_support": "Braum",
+    "reason": "O Malphite acumula armadura para escalar. O dano do Corki é convertido para mágico, anulando completamente a defesa principal dele."
+  },
+  {
+    "enemy_champion": "Malzahar",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "O poke constante dos mísseis (R) tira o escudo da passiva dele de graça, deixando-o vulnerável para iniciações do seu time a qualquer momento."
+  },
+  {
+    "enemy_champion": "Maokai",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "Ele tem muita cura passiva e vida máxima. É necessário DPS bruto (dano contínuo) e um item de corta-cura para lidar com ele nas lutas de equipe."
+  },
+  {
+    "enemy_champion": "Master Yi",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Lulu",
+    "reason": "Fique junto do time. Quando o Yi entrar, use o W para estender qualquer controle de grupo aliado e finalize-o com o 4º tiro antes que ele consiga zerar as recargas."
+  },
+  {
+    "enemy_champion": "Milio",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "Os escudos e curas do Milio são constantes, mas lentos. O dano explosivo do Jhin fura essas defesas antes que o alvo consiga se recuperar."
+  },
+  {
+    "enemy_champion": "Miss Fortune",
+    "ideal_adc": "Corki",
+    "ideal_support": "Braum",
+    "reason": "O Corki pode usar o W (Valquíria) para pular imediatamente para fora do cone da Ultimate dela, além de conseguir cutucá-la de fora do alcance seguro."
+  },
+  {
+    "enemy_champion": "Mordekaiser",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Karma",
+    "reason": "Ele rouba atributos e isola alvos. A Yunara, sendo uma atiradora de DPS puro, consegue derreter os escudos dele rapidamente antes de ser puxada."
+  },
+  {
+    "enemy_champion": "Morgana",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Karma",
+    "reason": "Use a sua mobilidade para desviar do enraizamento (Q). O dano bruto de um único tiro pesado do Jhin quebra o Escudo Negro dela na hora."
+  },
+  {
+    "enemy_champion": "Naafiri",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "Com o Furacão de Runaan, os ataques em área da Yunara eliminam os cachorros da Naafiri acidentalmente, tirando metade do poder da assassina nas lutas."
+  },
+  {
+    "enemy_champion": "Nami",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "Você dá o dano e recua rápido. O combo do Jhin é mais rápido que o tempo de viagem do fluxo das águas (W) e da bolha (Q) dela."
+  },
+  {
+    "enemy_champion": "Nasus",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "Ele é um colosso lento. A Yunara precisa da ajuda do time para segurá-lo, mas é a única com taxa de disparo suficiente para zerar a barra de HP gigante dele."
+  },
+  {
+    "enemy_champion": "Nautilus",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "Ele vai se jogar no meio do seu time. A Yunara fica na linha de trás e usa a passiva e os itens de crítico para quebrar o escudo maciço (W) dele."
+  },
+  {
+    "enemy_champion": "Neeko",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "Jogue na segurança dos mísseis (R). O alcance do Corki permite que você nunca precise chegar perto da zona de impacto da Ultimate dela."
+  },
+  {
+    "enemy_champion": "Nidalee",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Braum",
+    "reason": "Fique recuado e escondido atrás dos minions. Se ela errar a lança e tentar pular como puma, o W do Jhin garante que ela seja obliterada pelo time."
+  },
+  {
+    "enemy_champion": "Nilah",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "O W da Nilah bloqueia ataques básicos e dá redução de dano mágico, mas o dano do Corki focado em habilidades e mísseis continua machucando-a severamente de longe."
+  },
+  {
+    "enemy_champion": "Nocturne",
+    "ideal_adc": "Corki",
+    "ideal_support": "Lulu",
+    "reason": "Já que ele é um alvo difícil para atiradores, a melhor tática é amaciá-lo de longe com mísseis antes da luta. Se ele estiver com pouca vida, não vai ter coragem de ultar."
+  },
+  {
+    "enemy_champion": "Nunu e Willump",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "Você consegue aplicar muito dano no Nunu enquanto ele rola a bola de neve de longe, e um W bem posicionado o interrompe antes da colisão."
+  },
+  {
+    "enemy_champion": "Olaf",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "Ele fica imune a controle de grupo, então enraizar (Jhin) não funciona. A Yunara foca em bater ininterruptamente para matá-lo antes que ele mate a linha de frente."
+  },
+  {
+    "enemy_champion": "Orianna",
+    "ideal_adc": "Corki",
+    "ideal_support": "Nami",
+    "reason": "A guerra de empurrar a rota é equilibrada, mas o Corki consegue causar dano nela com os mísseis sem precisar entrar na área de controle da esfera."
+  },
+  {
+    "enemy_champion": "Ornn",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "O tanque supremo. Somente uma hypercarry baseada em ataques rápidos e itens de penetração de armadura consegue fatiar as resistências colossais dele."
+  },
+  {
+    "enemy_champion": "Pantheon",
+    "ideal_adc": "Corki",
+    "ideal_support": "Nami",
+    "reason": "Fique completamente fora do alcance do pulo (W) dele. O escudo do Pantheon (E) bloqueia dano direcional, mas os mísseis do Corki (dano mágico em área) ajudam a puni-lo nas laterais."
+  },
+  {
+    "enemy_champion": "Poppy",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "O W da Poppy bloqueia dashes (como o do Corki). A Yunara, que só precisa ficar parada batendo e caminhando, ignora essa restrição e espanca ela com segurança."
+  },
+  {
+    "enemy_champion": "Pyke",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "Jogue no erro dele. Se o Pyke usar o gancho em um aliado ou errar o dash, você o pune instantaneamente com um combo explosivo de longe."
+  },
+  {
+    "enemy_champion": "Qiyana",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Lulu",
+    "reason": "Mantenha-se distante de paredes e arbustos. O Jhin pode jogar de uma distância onde ela nem sequer tem como mirar os combos de invisibilidade e avanço."
+  },
+  {
+    "enemy_champion": "Quinn",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nami",
+    "reason": "Se a Quinn vier voando para tentar te explodir, o Jhin acerta o W de longe e o burst inicial dele muitas vezes vence a troca antes dela conseguir te cegar."
+  },
+  {
+    "enemy_champion": "Rakan",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "O Rakan é papel quando não está engajando. Se ele pular para iniciar ou voltar para um aliado, um W no momento certo o deixa preso no meio do caminho."
+  },
+  {
+    "enemy_champion": "Rammus",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "O Rammus faz itens puramente de armadura (Armadura de Espinhos). O dano mágico do Corki simplesmente ignora a build dele e o destrói."
+  },
+  {
+    "enemy_champion": "Rek'Sai",
+    "ideal_adc": "Corki",
+    "ideal_support": "Lulu",
+    "reason": "Se ela tentar te focar escavando, o W do Corki no momento em que ela for emergir evita o empurrão para cima e garante sua sobrevivência."
+  },
+  {
+    "enemy_champion": "Rell",
+    "ideal_adc": "Corki",
+    "ideal_support": "Nami",
+    "reason": "Quando a Rell entra na luta e desmonta, a velocidade de movimento dela fica baixíssima. Ela vira um alvo parado e perfeito para tomar poke do Corki até morrer."
+  },
+  {
+    "enemy_champion": "Renata Glasc",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Karma",
+    "reason": "A Renata brilha fazendo os inimigos se matarem (Ultimate). O Jhin ataca tão devagar que, mesmo se for atingido, não tem taxa de disparo para matar os próprios aliados rápido."
+  },
+  {
+    "enemy_champion": "Renekton",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "A Ultimate do Renekton dá muita vida e ele domina as lutas no meio do jogo. A Yunara consegue derreter essa sobrevida extra com o escalonamento de DPS."
+  },
+  {
+    "enemy_champion": "Rengar",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Lulu",
+    "reason": "Coloque armadilhas (E) nos arbustos laterais. Se ele pular de lá, a armadilha ativa e revela ele, permitindo que você aplique dano de longe junto do time."
+  },
+  {
+    "enemy_champion": "Riven",
+    "ideal_adc": "Corki",
+    "ideal_support": "Nautilus",
+    "reason": "Jogadores de Riven adoram fechar itens como Dança da Morte (que lida com dano físico). O dano mágico constante do Corki fura essa defesa."
+  },
+  {
+    "enemy_champion": "Rumble",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "O Corki tem muito mais alcance. Você castiga ele com mísseis sem nunca precisar chegar perto do Lança-Chamas (Q) ou andar por cima da Ultimate dele."
+  },
+  {
+    "enemy_champion": "Ryze",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "Você ganha na guerra de alcance e de trocas rápidas. O Ryze precisa chegar relativamente perto para o combo, e você o pune antes disso acontecer."
+  },
+  {
+    "enemy_champion": "Samira",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "Ela precisa colar em você para estacar a ultimate. O Jhin bate de longe, enraíza (W) e recua, não dando a chance dela lutar de perto."
+  },
+  {
+    "enemy_champion": "Sejuani",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "Uma montanha de vida e resistências. A Yunara joga na linha de trás e derrete a Sejuani com ataques ininterruptos e corta-cura."
+  },
+  {
+    "enemy_champion": "Senna",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "A Senna é extremamente frágil e quer escalar. O Jhin tem o alcance para igualar os ataques dela e o dano explosivo (burst) para evaporá-la no início do jogo."
+  },
+  {
+    "enemy_champion": "Seraphine",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "O Jhin tem a mobilidade pós-crítico para desviar das magias lentas dela e o dano pesado para matá-la antes que as curas em área façam efeito."
+  },
+  {
+    "enemy_champion": "Sett",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "O Sett quer apanhar para devolver dano verdadeiro (W). A Yunara caita ele e tem o DPS necessário para drenar o escudo gigante que ele gera nas lutas."
+  },
+  {
+    "enemy_champion": "Shaco",
+    "ideal_adc": "Corki",
+    "ideal_support": "Lulu",
+    "reason": "O W (Valquíria) tira o Corki do perigo instantaneamente se o Shaco aparecer invisível, e os mísseis (R) destroem as caixas de longe com segurança."
+  },
+  {
+    "enemy_champion": "Shen",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "O círculo espiritual do Shen (W) bloqueia ataques básicos. O dano mágico do Corki fura essa defesa completamente."
+  },
+  {
+    "enemy_champion": "Shyvana",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "Quando ela vira dragão, ganha muita vida em área. A Yunara, equipada com Furacão de Runaan, aproveita esse alvo gigante para espalhar dano pelo time inimigo."
+  },
+  {
+    "enemy_champion": "Singed",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Karma",
+    "reason": "A regra contra o Singed é não correr atrás dele. O Jhin o enraíza no chão (W) de longe e pune ele sem nunca pisar no rastro de veneno."
+  },
+  {
+    "enemy_champion": "Sion",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Nautilus",
+    "reason": "O clássico alvo feito de pura vida. O Jhin não tem balas para ele, mas a Yunara transforma ele em papel no late game com itens de penetração."
+  },
+  {
+    "enemy_champion": "Sivir",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Karma",
+    "reason": "Use o Q (Granada) nos minions para estourar o Escudo de Feitiço dela sem querer. Depois disso, puna a Sivir com o 4º tiro e recue."
+  },
+  {
+    "enemy_champion": "Skarner",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "Exige foco em derreter a linha de frente. A cadência rápida da Yunara quebra os escudos constantes que ele gera ao tentar iniciar."
+  },
+  {
+    "enemy_champion": "Smolder",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nami",
+    "reason": "O Smolder precisa de tempo para escalar. O Jhin pune severamente o começo de jogo dele com dano bruto, não deixando ele farmar em paz."
+  },
+  {
+    "enemy_champion": "Sona",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "Um dos campeões mais papéis do jogo. Se pisar meio passo fora de posição, um combo de Q + ataque básico do Jhin a manda de volta para a base."
+  },
+  {
+    "enemy_champion": "Soraka",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "O dano explosivo do Jhin em um alvo frágil é tão rápido que muitas vezes a Soraka não tem tempo de reação para curar o aliado antes dele morrer."
+  },
+  {
+    "enemy_champion": "Swain",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Karma",
+    "reason": "Quando ele ativa a Ultimate, vira um monstro de cura em área. A Yunara aplica corta-cura e DPS constante para secar a barra de vida dele."
+  },
+  {
+    "enemy_champion": "Sylas",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "O Sylas se cura baseando-se em dano mágico e vida baixa (W). A Yunara responde com corta-cura físico e dano ininterrupto para superar a sobrevivência dele."
+  },
+  {
+    "enemy_champion": "Syndra",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Braum",
+    "reason": "Jogue no limite máximo da sua visão. A velocidade de movimento do Jhin ajuda a desviar do atordoamento dela (E), e a Ultimate pune de onde ela não alcança."
+  },
+  {
+    "enemy_champion": "Tahm Kench",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "Outra barreira de HP insana. Só a velocidade de ataque de uma hypercarry dá conta de limpar as duas barras de vida (HP + Escudo Cinza) que ele tem."
+  },
+  {
+    "enemy_champion": "Taliyah",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "O Jhin joga fora da distância do combo de empurrão (W) dela e tem agilidade para desviar das pedras enquanto devolve tiros de precisão."
+  },
+  {
+    "enemy_champion": "Talon",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Lulu",
+    "reason": "Se o Talon sumir, jogue a duas telas de distância. Espere ele pular no seu suporte ou mid laner, e então use o W para prendê-lo e matá-lo de longe."
+  },
+  {
+    "enemy_champion": "Taric",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "A armadura que o Taric fornece para o time dele é inútil contra os mísseis mágicos e as habilidades de dano misto do Corki."
+  },
+  {
+    "enemy_champion": "Teemo",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Karma",
+    "reason": "O alcance da Ultimate e do W do Jhin são muito maiores que os do Teemo. Você explode ele antes da cegueira (Q) dele fazer alguma diferença na luta."
+  },
+  {
+    "enemy_champion": "Thresh",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "A alta velocidade de movimento ao critar transforma o Jhin num alvo muito difícil para o Thresh acertar a sentença (Q). Se ele errar, você pune."
+  },
+  {
+    "enemy_champion": "Tristana",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "Nas lutas de 5v5 frontais, a Yunara tem mais impacto com o dano em área do que a Tristana, que foca mais em dano de alvo único e reset de pulo."
+  },
+  {
+    "enemy_champion": "Trundle",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "O Trundle rouba as resistências do seu tanque. A Yunara resolve isso focando nele com DPS bruto e velocidade de ataque até ele cair."
+  },
+  {
+    "enemy_champion": "Tryndamere",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "Bateu, correu. Quando o Tryndamere ultar para não morrer, o Jhin acerta um W nele, prende ele no chão e espera a invulnerabilidade passar."
+  },
+  {
+    "enemy_champion": "Twisted Fate",
+    "ideal_adc": "Corki",
+    "ideal_support": "Braum",
+    "reason": "O Corki limpa a onda de minions tão rápido quanto ele, impedindo que o TF ande pelo mapa livremente, e bate de fora do alcance da carta dourada."
+  },
+  {
+    "enemy_champion": "Twitch",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "Se o Twitch sair da invisibilidade e abrir a Ultimate, o Jhin responde com um 4º tiro e um W instantâneo para focar o dano do time nele na mesma hora."
+  },
+  {
+    "enemy_champion": "Udyr",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Karma",
+    "reason": "O Udyr corre a pé sem nenhum avanço (dash). O Jhin dá um tiro, ganha velocidade e corre para trás, fazendo o Udyr de bobo a luta inteira."
+  },
+  {
+    "enemy_champion": "Urgot",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "O Urgot tem um escudo grosso e muita vida. O DPS puro e de longa distância da Yunara fura essa defesa com segurança."
+  },
+  {
+    "enemy_champion": "Varus",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Braum",
+    "reason": "A guerra de atiradores de poke é acirrada, mas a mobilidade do Jhin facilita desviar da flecha do Varus (Q) e da Ultimate (R) enraizadora."
+  },
+  {
+    "enemy_champion": "Vayne",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "O Jhin não estende trocas contra a Vayne. Ele dá um tiro pesado, usa o W para não deixar ela rolar para frente, e recua vencendo as trocas curtas."
+  },
+  {
+    "enemy_champion": "Veigar",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "O Corki pode ficar confortavelmente do lado de fora da jaula do Veigar jogando mísseis, sem nunca correr o risco de ser pego pelo combo."
+  },
+  {
+    "enemy_champion": "Vel'Koz",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "Outro mago de artilharia onde a velocidade do Jhin é fundamental para desviar da geometria dos tiros (Q), punindo de volta com o W."
+  },
+  {
+    "enemy_champion": "Vex",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Lulu",
+    "reason": "Se ela ultar no meio do seu time, você, como Jhin, estará longe o suficiente para não tomar o medo em área (W) e poderá enraizá-la com segurança."
+  },
+  {
+    "enemy_champion": "Vi",
+    "ideal_adc": "Corki",
+    "ideal_support": "Braum",
+    "reason": "A Vi vai ultar em você de qualquer jeito. O Corki, com a Valquíria (W), pode puxar a Vi para um lugar péssimo para ela (como para baixo da sua torre ou para trás de uma parede) no momento do impacto."
+  },
+  {
+    "enemy_champion": "Viego",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "O Viego precisa de tempo para resetar e roubar corpos. O Jhin explode ele em um combo rápido antes que ele consiga a primeira eliminação da luta."
+  },
+  {
+    "enemy_champion": "Viktor",
+    "ideal_adc": "Corki",
+    "ideal_support": "Nami",
+    "reason": "O Corki iguala a limpeza de rota do Viktor no mid/late game e consegue usar o W para pular instantaneamente para fora da tempestade magnética (R)."
+  },
+  {
+    "enemy_champion": "Vladimir",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "Muita cura e imunidade temporária. É preciso o dano ininterrupto e o corta-cura da Yunara para garantir que ele caia nas lutas longas em equipe."
+  },
+  {
+    "enemy_champion": "Volibear",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Karma",
+    "reason": "Assim como o Udyr, ele só sabe correr para frente. O Jhin o prende no chão com o W e o destrói correndo de costas."
+  },
+  {
+    "enemy_champion": "Warwick",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Lulu",
+    "reason": "Desvie do salto da Ultimate (R) e use o bônus de velocidade do crítico para caitá-lo enquanto o time aplica o corta-cura."
+  },
+  {
+    "enemy_champion": "Wukong",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Lulu",
+    "reason": "Com o Furacão de Runaan, a Yunara espalha dano de forma tão agressiva que muitas vezes mata o Wukong verdadeiro e o clone ao mesmo tempo na confusão da luta."
+  },
+  {
+    "enemy_champion": "Xayah",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nami",
+    "reason": "O Jhin joga de longe. Ele dá o dano explosivo e sai correndo para o lado, nunca ficando na reta para tomar o puxão de penas (E) dela."
+  },
+  {
+    "enemy_champion": "Xerath",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "O Xerath fica muito lento quando carrega o Q e parado quando ulta. O Jhin usa o W ou a própria Ultimate para snipar ele nessas janelas."
+  },
+  {
+    "enemy_champion": "Xin Zhao",
+    "ideal_adc": "Corki",
+    "ideal_support": "Lulu",
+    "reason": "Se o Xin pular (E), o Corki usa o W imediatamente para criar distância, jogando do lado de fora da área da ultimate dele."
+  },
+  {
+    "enemy_champion": "Yasuo",
+    "ideal_adc": "Corki",
+    "ideal_support": "Karma",
+    "reason": "O tempo de recarga dos mísseis do Corki é tão baixo que você tira o escudo da passiva do Yasuo a toda hora, deixando-o vulnerável."
+  },
+  {
+    "enemy_champion": "Yone",
+    "ideal_adc": "Corki",
+    "ideal_support": "Lulu",
+    "reason": "Puna o Yone com mísseis de longe. Se a vida dele estiver baixa por causa do seu poke contínuo, ele não terá confiança para tentar o mergulho espiritual (E)."
+  },
+  {
+    "enemy_champion": "Yorick",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Karma",
+    "reason": "O Runaan da Yunara mata os carniçais extras dele acidentalmente enquanto ela bate nos alvos principais, limpando a tela."
+  },
+  {
+    "enemy_champion": "Yuumi",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "Foque em dar burst e explodir de vez o aliado em que ela está montada. A Yuumi não cura rápido o suficiente para impedir o dano de um 4º tiro."
+  },
+  {
+    "enemy_champion": "Zac",
+    "ideal_adc": "Yunara",
+    "ideal_support": "Braum",
+    "reason": "Derreta o HP gigante dele no ar, e a alta velocidade de ataque da Yunara limpa as 4 gosmas da passiva em segundos para garantir que ele não reviva."
+  },
+  {
+    "enemy_champion": "Zed",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Lulu",
+    "reason": "Jogue completamente recuado, fora de visão se possível. Participe da luta apenas usando a Ultimate e o W de longe para que ele nunca consiga clicar em você."
+  },
+  {
+    "enemy_champion": "Zeri",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "A Zeri é focada em velocidade e lutas prolongadas. O Jhin prefere o oposto: ele joga o combo inteiro nela num piscar de olhos, tirando o tempo de reação e a vantagem dela."
+  },
+  {
+    "enemy_champion": "Ziggs",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nami",
+    "reason": "O Ziggs joga recuado jogando bombas. O Jhin desvia com velocidade de movimento e usa a própria artilharia pesada (R) para ganhar a guerra de snipers."
+  },
+  {
+    "enemy_champion": "Zilean",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "O Jhin tem o controle de explodir um alvo, esperar a ressurreição da ultimate do Zilean e usar o W para prendê-lo assim que voltar à vida."
+  },
+  {
+    "enemy_champion": "Zoe",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "Nunca fique na frente da onda de tropas. Se a Zoe tentar usar o portal (R) para jogar a bolha de perto, o Jhin imediatamente a prende no local de retorno com o W."
+  },
+  {
+    "enemy_champion": "Zyra",
+    "ideal_adc": "Jhin",
+    "ideal_support": "Nautilus",
+    "reason": "A Zyra é de papel. Ela tenta prender de longe, mas se o Jhin acertar um ataque ou habilidade nela e seguir com um W, ela some do mapa."
+  }
+]

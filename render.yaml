@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: lol-counter-picker
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app.main:app -k uvicorn.workers.UvicornWorker --bind 0.0.0.0:$PORT
+    healthCheckPath: /health
+    envVars:
+      - key: APP_NAME
+        value: lol-counter-picker
+      - key: APP_ENV
+        value: production
+      - key: DEFAULT_DDRAGON_VERSION
+        value: 15.6.1
+      - key: CACHE_TTL_SECONDS
+        value: 43200
+      - key: DEFAULT_LOCALE
+        value: pt_BR
+      - key: REQUEST_TIMEOUT_SECONDS
+        value: 20

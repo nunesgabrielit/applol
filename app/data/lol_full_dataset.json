@@ -1,0 +1,5991 @@
+{
+  "meta": {
+    "game": "League of Legends",
+    "generator": "heuristic-role-based",
+    "note": "This dataset is generated heuristically from Data Dragon tags. It does not represent real win rate, tier lists, or official matchup/synergy statistics.",
+    "version": "16.6.1",
+    "locale": "pt_BR",
+    "champions_count": 172,
+    "seed": 42
+  },
+  "champions": [
+    {
+      "key": 266,
+      "riot_id": "Aatrox",
+      "name": "Aatrox",
+      "title": "a Espada Darkin",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter"
+      ],
+      "counters": [
+        "Galio",
+        "Amumu",
+        "Shen",
+        "Rell",
+        "Nautilus"
+      ],
+      "against": [
+        "Karthus",
+        "Evelynn",
+        "Ekko",
+        "Vel'Koz",
+        "Annie"
+      ],
+      "synergy_good": [
+        "Brand",
+        "Thresh",
+        "Amumu"
+      ],
+      "synergy_bad": [
+        "Tryndamere",
+        "Naafiri",
+        "Illaoi"
+      ]
+    },
+    {
+      "key": 103,
+      "riot_id": "Ahri",
+      "name": "Ahri",
+      "title": "a Raposa de Nove Caudas",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Assassin"
+      ],
+      "counters": [
+        "Vladimir",
+        "Fizz",
+        "Warwick",
+        "Master Yi",
+        "Urgot"
+      ],
+      "against": [
+        "Tristana",
+        "Samira",
+        "Shaco",
+        "Kha'Zix",
+        "Qiyana"
+      ],
+      "synergy_good": [
+        "Jinx",
+        "Malphite",
+        "Galio"
+      ],
+      "synergy_bad": [
+        "Tristana",
+        "Zyra",
+        "Annie"
+      ]
+    },
+    {
+      "key": 84,
+      "riot_id": "Akali",
+      "name": "Akali",
+      "title": "a Assassina Renegada",
+      "primary_role": "Assassin",
+      "tags": [
+        "Assassin"
+      ],
+      "counters": [
+        "Aurelion Sol",
+        "Ashe",
+        "Taliyah",
+        "Malzahar",
+        "Evelynn"
+      ],
+      "against": [
+        "Tahm Kench",
+        "Taric",
+        "Braum",
+        "Cho'Gath",
+        "Maokai"
+      ],
+      "synergy_good": [
+        "Lulu",
+        "Veigar",
+        "Aurora"
+      ],
+      "synergy_bad": [
+        "Lucian",
+        "Kindred",
+        "Caitlyn"
+      ]
+    },
+    {
+      "key": 166,
+      "riot_id": "Akshan",
+      "name": "Akshan",
+      "title": "o Sentinela Rebelde",
+      "primary_role": "Assassin",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "counters": [
+        "Cassiopeia",
+        "Zyra",
+        "Caitlyn",
+        "Malzahar",
+        "Heimerdinger"
+      ],
+      "against": [
+        "Cho'Gath",
+        "Nautilus",
+        "Singed",
+        "Leona",
+        "Ornn"
+      ],
+      "synergy_good": [
+        "Malzahar",
+        "Taric",
+        "Heimerdinger"
+      ],
+      "synergy_bad": [
+        "Jinx",
+        "Kha'Zix",
+        "Kalista"
+      ]
+    },
+    {
+      "key": 12,
+      "riot_id": "Alistar",
+      "name": "Alistar",
+      "title": "o Minotauro",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "counters": [
+        "Pyke",
+        "Tristana",
+        "Vayne",
+        "Twitch",
+        "Shaco"
+      ],
+      "against": [
+        "Jayce",
+        "Caitlyn",
+        "Viego",
+        "Master Yi",
+        "Rek'Sai"
+      ],
+      "synergy_good": [
+        "Milio",
+        "Miss Fortune",
+        "Nidalee"
+      ],
+      "synergy_bad": [
+        "Shen",
+        "Taric",
+        "Thresh"
+      ]
+    },
+    {
+      "key": 799,
+      "riot_id": "Ambessa",
+      "name": "Ambessa",
+      "title": "Matriarca da Guerra",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Singed",
+        "Taric",
+        "Rell",
+        "Maokai",
+        "Shen"
+      ],
+      "against": [
+        "Aurora",
+        "Mel",
+        "Anivia",
+        "Kassadin",
+        "Ryze"
+      ],
+      "synergy_good": [
+        "Ziggs",
+        "Rakan",
+        "Fiddlesticks"
+      ],
+      "synergy_bad": [
+        "Wukong",
+        "Darius",
+        "Zed"
+      ]
+    },
+    {
+      "key": 32,
+      "riot_id": "Amumu",
+      "name": "Amumu",
+      "title": "a Múmia Triste",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "counters": [
+        "Shaco",
+        "Vayne",
+        "Samira",
+        "Quinn",
+        "Zed"
+      ],
+      "against": [
+        "Briar",
+        "Vladimir",
+        "Gnar",
+        "Mordekaiser",
+        "Caitlyn"
+      ],
+      "synergy_good": [
+        "Lissandra",
+        "Zoe",
+        "Zyra"
+      ],
+      "synergy_bad": [
+        "Rell",
+        "Shen",
+        "Malphite"
+      ]
+    },
+    {
+      "key": 34,
+      "riot_id": "Anivia",
+      "name": "Anivia",
+      "title": "a Criofênix",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage"
+      ],
+      "counters": [
+        "Rumble",
+        "Rek'Sai",
+        "Shyvana",
+        "Urgot",
+        "Zaahen"
+      ],
+      "against": [
+        "Twitch",
+        "Tristana",
+        "Akali",
+        "Qiyana",
+        "Zed"
+      ],
+      "synergy_good": [
+        "Braum",
+        "Galio",
+        "Yunara"
+      ],
+      "synergy_bad": [
+        "Kayle",
+        "Malzahar",
+        "Swain"
+      ]
+    },
+    {
+      "key": 1,
+      "riot_id": "Annie",
+      "name": "Annie",
+      "title": "a Criança Sombria",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "counters": [
+        "K'Sante",
+        "Nocturne",
+        "Jayce",
+        "Trundle",
+        "Fiora"
+      ],
+      "against": [
+        "Qiyana",
+        "Akali",
+        "Zed",
+        "Akshan",
+        "Talon"
+      ],
+      "synergy_good": [
+        "Shen",
+        "Senna",
+        "Caitlyn"
+      ],
+      "synergy_bad": [
+        "Yuumi",
+        "Vayne",
+        "Shaco"
+      ]
+    },
+    {
+      "key": 523,
+      "riot_id": "Aphelios",
+      "name": "Aphelios",
+      "title": "a Arma dos Devotos",
+      "primary_role": "Marksman",
+      "tags": [
+        "Marksman"
+      ],
+      "counters": [
+        "Singed",
+        "Braum",
+        "Amumu",
+        "Tahm Kench",
+        "Thresh"
+      ],
+      "against": [
+        "Qiyana",
+        "Vayne",
+        "Shaco",
+        "Lucian",
+        "Quinn"
+      ],
+      "synergy_good": [
+        "Veigar",
+        "Smolder",
+        "Karma"
+      ],
+      "synergy_bad": [
+        "Sivir",
+        "Lucian",
+        "Yunara"
+      ]
+    },
+    {
+      "key": 22,
+      "riot_id": "Ashe",
+      "name": "Ashe",
+      "title": "a Arqueira do Gelo",
+      "primary_role": "Marksman",
+      "tags": [
+        "Marksman",
+        "Support"
+      ],
+      "counters": [
+        "Thresh",
+        "Sejuani",
+        "Nunu e Willump",
+        "Braum",
+        "Tahm Kench"
+      ],
+      "against": [
+        "Shaco",
+        "Vayne",
+        "Samira",
+        "Quinn",
+        "Zed"
+      ],
+      "synergy_good": [
+        "Thresh",
+        "Cassiopeia",
+        "Rammus"
+      ],
+      "synergy_bad": [
+        "Graves",
+        "Lucian",
+        "Kindred"
+      ]
+    },
+    {
+      "key": 136,
+      "riot_id": "AurelionSol",
+      "name": "Aurelion Sol",
+      "title": "o Forjador de Estrelas",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage"
+      ],
+      "counters": [
+        "Illaoi",
+        "Irelia",
+        "Rengar",
+        "Riven",
+        "Trundle"
+      ],
+      "against": [
+        "Akali",
+        "Shaco",
+        "Talon",
+        "Zed",
+        "Pyke"
+      ],
+      "synergy_good": [
+        "Senna",
+        "Ashe",
+        "Rammus"
+      ],
+      "synergy_bad": [
+        "Corki",
+        "Akali",
+        "Lucian"
+      ]
+    },
+    {
+      "key": 893,
+      "riot_id": "Aurora",
+      "name": "Aurora",
+      "title": "a Bruxa Entre Mundos",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Assassin"
+      ],
+      "counters": [
+        "Ambessa",
+        "Nilah",
+        "Fiora",
+        "Gwen",
+        "Warwick"
+      ],
+      "against": [
+        "Vayne",
+        "Twitch",
+        "Pyke",
+        "Shaco",
+        "Kha'Zix"
+      ],
+      "synergy_good": [
+        "Ornn",
+        "Rakan",
+        "Graves"
+      ],
+      "synergy_bad": [
+        "Smolder",
+        "Renata Glasc",
+        "Syndra"
+      ]
+    },
+    {
+      "key": 268,
+      "riot_id": "Azir",
+      "name": "Azir",
+      "title": "o Imperador das Areias",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Marksman"
+      ],
+      "counters": [
+        "Gangplank",
+        "Vi",
+        "Naafiri",
+        "Fizz",
+        "Dr. Mundo"
+      ],
+      "against": [
+        "Vayne",
+        "Akshan",
+        "Kha'Zix",
+        "Lucian",
+        "Shaco"
+      ],
+      "synergy_good": [
+        "Amumu",
+        "Blitzcrank",
+        "Braum"
+      ],
+      "synergy_bad": [
+        "Veigar",
+        "Neeko",
+        "Brand"
+      ]
+    },
+    {
+      "key": 432,
+      "riot_id": "Bard",
+      "name": "Bardo",
+      "title": "o Protetor Andarilho",
+      "primary_role": "Mage",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "counters": [
+        "Shyvana",
+        "Yone",
+        "Wukong",
+        "Nocturne",
+        "Ambessa"
+      ],
+      "against": [
+        "Quinn",
+        "Talon",
+        "Shaco",
+        "Lucian",
+        "Samira"
+      ],
+      "synergy_good": [
+        "Tahm Kench",
+        "Nautilus",
+        "Zeri"
+      ],
+      "synergy_bad": [
+        "Taliyah",
+        "Anivia",
+        "Smolder"
+      ]
+    },
+    {
+      "key": 200,
+      "riot_id": "Belveth",
+      "name": "Bel'Veth",
+      "title": "a Imperatriz do Vazio",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter"
+      ],
+      "counters": [
+        "Nautilus",
+        "Tahm Kench",
+        "Maokai",
+        "Leona",
+        "Rell"
+      ],
+      "against": [
+        "Neeko",
+        "Orianna",
+        "LeBlanc",
+        "Vel'Koz",
+        "Smolder"
+      ],
+      "synergy_good": [
+        "Miss Fortune",
+        "Lissandra",
+        "Tahm Kench"
+      ],
+      "synergy_bad": [
+        "Irelia",
+        "Jarvan IV",
+        "Fizz"
+      ]
+    },
+    {
+      "key": 53,
+      "riot_id": "Blitzcrank",
+      "name": "Blitzcrank",
+      "title": "o Grande Golem a Vapor",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "counters": [
+        "Kha'Zix",
+        "Tristana",
+        "Lucian",
+        "Shaco",
+        "Talon"
+      ],
+      "against": [
+        "Tryndamere",
+        "Sion",
+        "Vi",
+        "Gangplank",
+        "Jinx"
+      ],
+      "synergy_good": [
+        "Karma",
+        "Kindred",
+        "Seraphine"
+      ],
+      "synergy_bad": [
+        "Maokai",
+        "Taric",
+        "Nautilus"
+      ]
+    },
+    {
+      "key": 63,
+      "riot_id": "Brand",
+      "name": "Brand",
+      "title": "a Vingança Flamejante",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "counters": [
+        "Gangplank",
+        "Jayce",
+        "Gragas",
+        "Rumble",
+        "Darius"
+      ],
+      "against": [
+        "Tristana",
+        "Vayne",
+        "Lucian",
+        "Pyke",
+        "Talon"
+      ],
+      "synergy_good": [
+        "Leona",
+        "Alistar",
+        "Caitlyn"
+      ],
+      "synergy_bad": [
+        "Malzahar",
+        "Kai'Sa",
+        "Ryze"
+      ]
+    },
+    {
+      "key": 201,
+      "riot_id": "Braum",
+      "name": "Braum",
+      "title": "o Coração de Freljord",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "counters": [
+        "Zed",
+        "Samira",
+        "Kha'Zix",
+        "Tristana",
+        "Akshan"
+      ],
+      "against": [
+        "Sion",
+        "Gwen",
+        "Senna",
+        "Graves",
+        "Nilah"
+      ],
+      "synergy_good": [
+        "Anivia",
+        "Sivir",
+        "Janna"
+      ],
+      "synergy_bad": [
+        "Shen",
+        "Tahm Kench",
+        "Rell"
+      ]
+    },
+    {
+      "key": 233,
+      "riot_id": "Briar",
+      "name": "Briar",
+      "title": "a Fome Contida",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Malphite",
+        "Shen",
+        "Braum",
+        "Maokai",
+        "Ornn"
+      ],
+      "against": [
+        "Sona",
+        "Katarina",
+        "Heimerdinger",
+        "Aurelion Sol",
+        "Seraphine"
+      ],
+      "synergy_good": [
+        "Morgana",
+        "Amumu",
+        "Maokai"
+      ],
+      "synergy_bad": [
+        "Pyke",
+        "Talon",
+        "Aatrox"
+      ]
+    },
+    {
+      "key": 51,
+      "riot_id": "Caitlyn",
+      "name": "Caitlyn",
+      "title": "a Xerife de Piltover",
+      "primary_role": "Marksman",
+      "tags": [
+        "Marksman"
+      ],
+      "counters": [
+        "Sejuani",
+        "Amumu",
+        "Singed",
+        "Blitzcrank",
+        "Nautilus"
+      ],
+      "against": [
+        "Twitch",
+        "Samira",
+        "Quinn",
+        "Zed",
+        "Akshan"
+      ],
+      "synergy_good": [
+        "Aurora",
+        "Cho'Gath",
+        "Ekko"
+      ],
+      "synergy_bad": [
+        "Zed",
+        "Yunara",
+        "Lucian"
+      ]
+    },
+    {
+      "key": 164,
+      "riot_id": "Camille",
+      "name": "Camille",
+      "title": "a Sombra de Aço",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Tahm Kench",
+        "Malphite",
+        "Rammus",
+        "Cho'Gath",
+        "Nautilus"
+      ],
+      "against": [
+        "Azir",
+        "Mel",
+        "Katarina",
+        "Brand",
+        "Sona"
+      ],
+      "synergy_good": [
+        "Syndra",
+        "Tahm Kench",
+        "Renata Glasc"
+      ],
+      "synergy_bad": [
+        "Gnar",
+        "Pantheon",
+        "Nocturne"
+      ]
+    },
+    {
+      "key": 69,
+      "riot_id": "Cassiopeia",
+      "name": "Cassiopeia",
+      "title": "o Abraço da Serpente",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage"
+      ],
+      "counters": [
+        "Rek'Sai",
+        "Pantheon",
+        "Renekton",
+        "Jarvan IV",
+        "Yasuo"
+      ],
+      "against": [
+        "Akali",
+        "Tristana",
+        "Shaco",
+        "Quinn",
+        "Twitch"
+      ],
+      "synergy_good": [
+        "Ornn",
+        "Nautilus",
+        "Alistar"
+      ],
+      "synergy_bad": [
+        "Taliyah",
+        "Teemo",
+        "Kog'Maw"
+      ]
+    },
+    {
+      "key": 31,
+      "riot_id": "Chogath",
+      "name": "Cho'Gath",
+      "title": "o Terror do Vazio",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
+      "counters": [
+        "Akshan",
+        "Tristana",
+        "Talon",
+        "Akali",
+        "Samira"
+      ],
+      "against": [
+        "Yorick",
+        "Jinx",
+        "Viego",
+        "Sivir",
+        "Urgot"
+      ],
+      "synergy_good": [
+        "Graves",
+        "Kindred",
+        "Elise"
+      ],
+      "synergy_bad": [
+        "Singed",
+        "Leona",
+        "Shen"
+      ]
+    },
+    {
+      "key": 42,
+      "riot_id": "Corki",
+      "name": "Corki",
+      "title": "o Bombardeiro Ousado",
+      "primary_role": "Mage",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "counters": [
+        "Diana",
+        "Riven",
+        "Mordekaiser",
+        "Fizz",
+        "Vi"
+      ],
+      "against": [
+        "Vayne",
+        "Tristana",
+        "Akali",
+        "Zed",
+        "Quinn"
+      ],
+      "synergy_good": [
+        "Leona",
+        "Jinx",
+        "Maokai"
+      ],
+      "synergy_bad": [
+        "Seraphine",
+        "Nami",
+        "Pyke"
+      ]
+    },
+    {
+      "key": 122,
+      "riot_id": "Darius",
+      "name": "Darius",
+      "title": "a Mão de Noxus",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Nautilus",
+        "Rammus",
+        "Leona",
+        "Shen",
+        "Nunu e Willump"
+      ],
+      "against": [
+        "Nidalee",
+        "Kennen",
+        "Vel'Koz",
+        "Sylas",
+        "Zilean"
+      ],
+      "synergy_good": [
+        "Varus",
+        "Miss Fortune",
+        "Vel'Koz"
+      ],
+      "synergy_bad": [
+        "Lillia",
+        "Poppy",
+        "Tryndamere"
+      ]
+    },
+    {
+      "key": 131,
+      "riot_id": "Diana",
+      "name": "Diana",
+      "title": "o Escárnio da Lua",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Amumu",
+        "Rammus",
+        "Nautilus",
+        "Malphite",
+        "Ornn"
+      ],
+      "against": [
+        "Annie",
+        "Ahri",
+        "Heimerdinger",
+        "Milio",
+        "Viktor"
+      ],
+      "synergy_good": [
+        "Jhin",
+        "Ryze",
+        "Karthus"
+      ],
+      "synergy_bad": [
+        "Lillia",
+        "Bel'Veth",
+        "Mordekaiser"
+      ]
+    },
+    {
+      "key": 36,
+      "riot_id": "DrMundo",
+      "name": "Dr. Mundo",
+      "title": "o Louco de Zaun",
+      "primary_role": "Fighter",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "counters": [
+        "Rell",
+        "Shen",
+        "Braum",
+        "Thresh",
+        "Sejuani"
+      ],
+      "against": [
+        "Seraphine",
+        "Sylas",
+        "Teemo",
+        "Janna",
+        "Twisted Fate"
+      ],
+      "synergy_good": [
+        "Yuumi",
+        "Singed",
+        "Kayle"
+      ],
+      "synergy_bad": [
+        "Tryndamere",
+        "Sett",
+        "Vayne"
+      ]
+    },
+    {
+      "key": 119,
+      "riot_id": "Draven",
+      "name": "Draven",
+      "title": "o Carrasco de Noxus",
+      "primary_role": "Marksman",
+      "tags": [
+        "Marksman"
+      ],
+      "counters": [
+        "Leona",
+        "Ornn",
+        "Alistar",
+        "Sejuani",
+        "Cho'Gath"
+      ],
+      "against": [
+        "Akshan",
+        "Samira",
+        "Lucian",
+        "Quinn",
+        "Qiyana"
+      ],
+      "synergy_good": [
+        "Cho'Gath",
+        "Neeko",
+        "Fiddlesticks"
+      ],
+      "synergy_bad": [
+        "Xayah",
+        "Akshan",
+        "Ashe"
+      ]
+    },
+    {
+      "key": 245,
+      "riot_id": "Ekko",
+      "name": "Ekko",
+      "title": "o Rapaz que Estilhaçou o Tempo",
+      "primary_role": "Mage",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "counters": [
+        "Yasuo",
+        "Aatrox",
+        "Urgot",
+        "Dr. Mundo",
+        "Hecarim"
+      ],
+      "against": [
+        "Kha'Zix",
+        "Akali",
+        "Lucian",
+        "Pyke",
+        "Zed"
+      ],
+      "synergy_good": [
+        "Yunara",
+        "Maokai",
+        "Draven"
+      ],
+      "synergy_bad": [
+        "Elise",
+        "Samira",
+        "Kai'Sa"
+      ]
+    },
+    {
+      "key": 60,
+      "riot_id": "Elise",
+      "name": "Elise",
+      "title": "a Aranha Rainha",
+      "primary_role": "Mage",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "counters": [
+        "Kled",
+        "Rek'Sai",
+        "Poppy",
+        "Jax",
+        "Gangplank"
+      ],
+      "against": [
+        "Akshan",
+        "Samira",
+        "Twitch",
+        "Lucian",
+        "Zed"
+      ],
+      "synergy_good": [
+        "Zeri",
+        "Ashe",
+        "Braum"
+      ],
+      "synergy_bad": [
+        "Vel'Koz",
+        "Soraka",
+        "Lissandra"
+      ]
+    },
+    {
+      "key": 28,
+      "riot_id": "Evelynn",
+      "name": "Evelynn",
+      "title": "o Abraço da Agonia",
+      "primary_role": "Mage",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "counters": [
+        "Skarner",
+        "Volibear",
+        "Lee Sin",
+        "Yasuo",
+        "Zaahen"
+      ],
+      "against": [
+        "Quinn",
+        "Akali",
+        "Twitch",
+        "Talon",
+        "Akshan"
+      ],
+      "synergy_good": [
+        "Cho'Gath",
+        "Ashe",
+        "Rakan"
+      ],
+      "synergy_bad": [
+        "Soraka",
+        "Syndra",
+        "Lulu"
+      ]
+    },
+    {
+      "key": 81,
+      "riot_id": "Ezreal",
+      "name": "Ezreal",
+      "title": "o Explorador Pródigo",
+      "primary_role": "Mage",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "counters": [
+        "Fizz",
+        "Ambessa",
+        "Gwen",
+        "Mordekaiser",
+        "Dr. Mundo"
+      ],
+      "against": [
+        "Tristana",
+        "Twitch",
+        "Quinn",
+        "Zed",
+        "Kha'Zix"
+      ],
+      "synergy_good": [
+        "Blitzcrank",
+        "Maokai",
+        "Singed"
+      ],
+      "synergy_bad": [
+        "Kayle",
+        "Ekko",
+        "Annie"
+      ]
+    },
+    {
+      "key": 9,
+      "riot_id": "Fiddlesticks",
+      "name": "Fiddlesticks",
+      "title": "o Terror Ancestral",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "counters": [
+        "Naafiri",
+        "K'Sante",
+        "Nocturne",
+        "Poppy",
+        "Hecarim"
+      ],
+      "against": [
+        "Samira",
+        "Twitch",
+        "Akali",
+        "Quinn",
+        "Lucian"
+      ],
+      "synergy_good": [
+        "Kindred",
+        "Ashe",
+        "Tahm Kench"
+      ],
+      "synergy_bad": [
+        "Corki",
+        "Elise",
+        "Milio"
+      ]
+    },
+    {
+      "key": 114,
+      "riot_id": "Fiora",
+      "name": "Fiora",
+      "title": "a Grande Duelista",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Rell",
+        "Shen",
+        "Malphite",
+        "Nautilus",
+        "Nunu e Willump"
+      ],
+      "against": [
+        "Malzahar",
+        "Ahri",
+        "Azir",
+        "Kassadin",
+        "Ezreal"
+      ],
+      "synergy_good": [
+        "Veigar",
+        "Kassadin",
+        "Milio"
+      ],
+      "synergy_bad": [
+        "Yone",
+        "Gwen",
+        "Trundle"
+      ]
+    },
+    {
+      "key": 105,
+      "riot_id": "Fizz",
+      "name": "Fizz",
+      "title": "o Trapaceiro das Marés",
+      "primary_role": "Fighter",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
+      "counters": [
+        "Singed",
+        "Blitzcrank",
+        "Taric",
+        "Amumu",
+        "Sejuani"
+      ],
+      "against": [
+        "Twisted Fate",
+        "Taliyah",
+        "Milio",
+        "Heimerdinger",
+        "Ryze"
+      ],
+      "synergy_good": [
+        "Evelynn",
+        "Orianna",
+        "Hwei"
+      ],
+      "synergy_bad": [
+        "Shaco",
+        "Sett",
+        "Darius"
+      ]
+    },
+    {
+      "key": 3,
+      "riot_id": "Galio",
+      "name": "Galio",
+      "title": "o Colosso",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
+      "counters": [
+        "Shaco",
+        "Samira",
+        "Akali",
+        "Vayne",
+        "Qiyana"
+      ],
+      "against": [
+        "Caitlyn",
+        "Gnar",
+        "Riven",
+        "Fiora",
+        "Dr. Mundo"
+      ],
+      "synergy_good": [
+        "Xayah",
+        "Renata Glasc",
+        "Vex"
+      ],
+      "synergy_bad": [
+        "Nautilus",
+        "Rell",
+        "Singed"
+      ]
+    },
+    {
+      "key": 41,
+      "riot_id": "Gangplank",
+      "name": "Gangplank",
+      "title": "o Terror dos Doze Mares",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter"
+      ],
+      "counters": [
+        "Alistar",
+        "Nunu e Willump",
+        "Amumu",
+        "Sejuani",
+        "Blitzcrank"
+      ],
+      "against": [
+        "Morgana",
+        "Katarina",
+        "Sylas",
+        "Aurelion Sol",
+        "Soraka"
+      ],
+      "synergy_good": [
+        "Leona",
+        "Anivia",
+        "Miss Fortune"
+      ],
+      "synergy_bad": [
+        "Garen",
+        "Jarvan IV",
+        "Master Yi"
+      ]
+    },
+    {
+      "key": 86,
+      "riot_id": "Garen",
+      "name": "Garen",
+      "title": "o Poder de Demacia",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Shen",
+        "Maokai",
+        "Amumu",
+        "Cho'Gath",
+        "Malphite"
+      ],
+      "against": [
+        "Ryze",
+        "Ahri",
+        "Heimerdinger",
+        "Veigar",
+        "Jhin"
+      ],
+      "synergy_good": [
+        "Galio",
+        "Veigar",
+        "Blitzcrank"
+      ],
+      "synergy_bad": [
+        "Ambessa",
+        "Vayne",
+        "Udyr"
+      ]
+    },
+    {
+      "key": 150,
+      "riot_id": "Gnar",
+      "name": "Gnar",
+      "title": "o Yordle Pré-Histórico",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Blitzcrank",
+        "Cho'Gath",
+        "Amumu",
+        "Alistar",
+        "Leona"
+      ],
+      "against": [
+        "Aurora",
+        "Miss Fortune",
+        "Teemo",
+        "Veigar",
+        "Corki"
+      ],
+      "synergy_good": [
+        "Alistar",
+        "Lissandra",
+        "Orianna"
+      ],
+      "synergy_bad": [
+        "Qiyana",
+        "Olaf",
+        "Warwick"
+      ]
+    },
+    {
+      "key": 79,
+      "riot_id": "Gragas",
+      "name": "Gragas",
+      "title": "o Badernista",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
+      "counters": [
+        "Taric",
+        "Sejuani",
+        "Rammus",
+        "Alistar",
+        "Nunu e Willump"
+      ],
+      "against": [
+        "Ziggs",
+        "Miss Fortune",
+        "LeBlanc",
+        "Aurora",
+        "Vel'Koz"
+      ],
+      "synergy_good": [
+        "Maokai",
+        "Leona",
+        "Miss Fortune"
+      ],
+      "synergy_bad": [
+        "Tristana",
+        "Vayne",
+        "Camille"
+      ]
+    },
+    {
+      "key": 104,
+      "riot_id": "Graves",
+      "name": "Graves",
+      "title": "o Foragido",
+      "primary_role": "Marksman",
+      "tags": [
+        "Marksman"
+      ],
+      "counters": [
+        "Tahm Kench",
+        "Galio",
+        "Amumu",
+        "Ornn",
+        "Leona"
+      ],
+      "against": [
+        "Lucian",
+        "Akshan",
+        "Samira",
+        "Qiyana",
+        "Talon"
+      ],
+      "synergy_good": [
+        "Blitzcrank",
+        "Corki",
+        "Ezreal"
+      ],
+      "synergy_bad": [
+        "Xayah",
+        "Zeri",
+        "Qiyana"
+      ]
+    },
+    {
+      "key": 887,
+      "riot_id": "Gwen",
+      "name": "Gwen",
+      "title": "A Costureira Encantada",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter"
+      ],
+      "counters": [
+        "Alistar",
+        "Malphite",
+        "Nunu e Willump",
+        "Sejuani",
+        "Shen"
+      ],
+      "against": [
+        "Milio",
+        "Swain",
+        "Elise",
+        "Lux",
+        "Karthus"
+      ],
+      "synergy_good": [
+        "Cho'Gath",
+        "Orianna",
+        "Syndra"
+      ],
+      "synergy_bad": [
+        "Lee Sin",
+        "Jayce",
+        "Poppy"
+      ]
+    },
+    {
+      "key": 120,
+      "riot_id": "Hecarim",
+      "name": "Hecarim",
+      "title": "a Sombra da Guerra",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Ornn",
+        "Leona",
+        "Shen",
+        "Blitzcrank",
+        "Malphite"
+      ],
+      "against": [
+        "Lissandra",
+        "Corki",
+        "Varus",
+        "Brand",
+        "Kai'Sa"
+      ],
+      "synergy_good": [
+        "Sylas",
+        "Karthus",
+        "Kayle"
+      ],
+      "synergy_bad": [
+        "Quinn",
+        "Zac",
+        "Gragas"
+      ]
+    },
+    {
+      "key": 74,
+      "riot_id": "Heimerdinger",
+      "name": "Heimerdinger",
+      "title": "o Inventor Idolatrado",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "counters": [
+        "Mordekaiser",
+        "Jax",
+        "Shyvana",
+        "Zaahen",
+        "Sett"
+      ],
+      "against": [
+        "Samira",
+        "Zed",
+        "Twitch",
+        "Talon",
+        "Vayne"
+      ],
+      "synergy_good": [
+        "Taric",
+        "Malphite",
+        "Maokai"
+      ],
+      "synergy_bad": [
+        "Vayne",
+        "Taliyah",
+        "Twitch"
+      ]
+    },
+    {
+      "key": 910,
+      "riot_id": "Hwei",
+      "name": "Hwei",
+      "title": "o Visionário",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "counters": [
+        "Kled",
+        "Yorick",
+        "Xin Zhao",
+        "Volibear",
+        "Kayn"
+      ],
+      "against": [
+        "Quinn",
+        "Zed",
+        "Akali",
+        "Lucian",
+        "Kha'Zix"
+      ],
+      "synergy_good": [
+        "Malphite",
+        "Kindred",
+        "Galio"
+      ],
+      "synergy_bad": [
+        "Jhin",
+        "Vex",
+        "Soraka"
+      ]
+    },
+    {
+      "key": 420,
+      "riot_id": "Illaoi",
+      "name": "Illaoi",
+      "title": "a Sacerdotisa Cráquem",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Sejuani",
+        "Ornn",
+        "Blitzcrank",
+        "Tahm Kench",
+        "Rell"
+      ],
+      "against": [
+        "Annie",
+        "Brand",
+        "Seraphine",
+        "Ekko",
+        "Elise"
+      ],
+      "synergy_good": [
+        "LeBlanc",
+        "Milio",
+        "Kai'Sa"
+      ],
+      "synergy_bad": [
+        "Fiora",
+        "Olaf",
+        "K'Sante"
+      ]
+    },
+    {
+      "key": 39,
+      "riot_id": "Irelia",
+      "name": "Irelia",
+      "title": "a Dançarina das Lâminas",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Sejuani",
+        "Leona",
+        "Malphite",
+        "Amumu",
+        "Nautilus"
+      ],
+      "against": [
+        "Ezreal",
+        "Fiddlesticks",
+        "Orianna",
+        "Neeko",
+        "Ziggs"
+      ],
+      "synergy_good": [
+        "Soraka",
+        "Aurora",
+        "Rakan"
+      ],
+      "synergy_bad": [
+        "Vladimir",
+        "Rumble",
+        "Xin Zhao"
+      ]
+    },
+    {
+      "key": 427,
+      "riot_id": "Ivern",
+      "name": "Ivern",
+      "title": "o Pai do Verde",
+      "primary_role": "Mage",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "counters": [
+        "Vladimir",
+        "Gnar",
+        "Zac",
+        "Fizz",
+        "Briar"
+      ],
+      "against": [
+        "Kha'Zix",
+        "Vayne",
+        "Pyke",
+        "Lucian",
+        "Akshan"
+      ],
+      "synergy_good": [
+        "Braum",
+        "Shen",
+        "Blitzcrank"
+      ],
+      "synergy_bad": [
+        "Yuumi",
+        "Zilean",
+        "Neeko"
+      ]
+    },
+    {
+      "key": 40,
+      "riot_id": "Janna",
+      "name": "Janna",
+      "title": "a Fúria da Tormenta",
+      "primary_role": "Mage",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "counters": [
+        "Illaoi",
+        "Jarvan IV",
+        "Lee Sin",
+        "Naafiri",
+        "Renekton"
+      ],
+      "against": [
+        "Akshan",
+        "Quinn",
+        "Qiyana",
+        "Twitch",
+        "Akali"
+      ],
+      "synergy_good": [
+        "Kalista",
+        "Galio",
+        "Rakan"
+      ],
+      "synergy_bad": [
+        "Annie",
+        "Kog'Maw",
+        "Aurora"
+      ]
+    },
+    {
+      "key": 59,
+      "riot_id": "JarvanIV",
+      "name": "Jarvan IV",
+      "title": "o Exemplo de Demacia",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Sejuani",
+        "Thresh",
+        "Alistar",
+        "Taric",
+        "Singed"
+      ],
+      "against": [
+        "Renata Glasc",
+        "Ivern",
+        "Viktor",
+        "Miss Fortune",
+        "Morgana"
+      ],
+      "synergy_good": [
+        "Blitzcrank",
+        "Ziggs",
+        "Sylas"
+      ],
+      "synergy_bad": [
+        "Tristana",
+        "Jax",
+        "Naafiri"
+      ]
+    },
+    {
+      "key": 24,
+      "riot_id": "Jax",
+      "name": "Jax",
+      "title": "o Grão-Mestre das Armas",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter"
+      ],
+      "counters": [
+        "Braum",
+        "Blitzcrank",
+        "Maokai",
+        "Shen",
+        "Thresh"
+      ],
+      "against": [
+        "Ryze",
+        "Zyra",
+        "LeBlanc",
+        "Kassadin",
+        "Zoe"
+      ],
+      "synergy_good": [
+        "Kennen",
+        "Viktor",
+        "Varus"
+      ],
+      "synergy_bad": [
+        "Rumble",
+        "Shyvana",
+        "Kha'Zix"
+      ]
+    },
+    {
+      "key": 126,
+      "riot_id": "Jayce",
+      "name": "Jayce",
+      "title": "o Defensor do Amanhã",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Marksman"
+      ],
+      "counters": [
+        "Ornn",
+        "Nautilus",
+        "Shen",
+        "Galio",
+        "Cho'Gath"
+      ],
+      "against": [
+        "Bardo",
+        "Sona",
+        "Swain",
+        "Miss Fortune",
+        "Twisted Fate"
+      ],
+      "synergy_good": [
+        "Neeko",
+        "Taric",
+        "Evelynn"
+      ],
+      "synergy_bad": [
+        "Garen",
+        "Tryndamere",
+        "Tristana"
+      ]
+    },
+    {
+      "key": 202,
+      "riot_id": "Jhin",
+      "name": "Jhin",
+      "title": "o Virtuoso",
+      "primary_role": "Mage",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "counters": [
+        "K'Sante",
+        "Urgot",
+        "Zaahen",
+        "Rumble",
+        "Poppy"
+      ],
+      "against": [
+        "Kha'Zix",
+        "Samira",
+        "Qiyana",
+        "Talon",
+        "Quinn"
+      ],
+      "synergy_good": [
+        "Thresh",
+        "Caitlyn",
+        "Amumu"
+      ],
+      "synergy_bad": [
+        "Lissandra",
+        "Tristana",
+        "Twisted Fate"
+      ]
+    },
+    {
+      "key": 222,
+      "riot_id": "Jinx",
+      "name": "Jinx",
+      "title": "o Gatilho Desenfreado",
+      "primary_role": "Marksman",
+      "tags": [
+        "Marksman"
+      ],
+      "counters": [
+        "Tahm Kench",
+        "Alistar",
+        "Taric",
+        "Rammus",
+        "Galio"
+      ],
+      "against": [
+        "Pyke",
+        "Lucian",
+        "Quinn",
+        "Zed",
+        "Tristana"
+      ],
+      "synergy_good": [
+        "Viktor",
+        "Janna",
+        "Kog'Maw"
+      ],
+      "synergy_bad": [
+        "Lucian",
+        "Tristana",
+        "Samira"
+      ]
+    },
+    {
+      "key": 897,
+      "riot_id": "KSante",
+      "name": "K'Sante",
+      "title": "o Orgulho de Nazumah.",
+      "primary_role": "Fighter",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "counters": [
+        "Shen",
+        "Nunu e Willump",
+        "Alistar",
+        "Tahm Kench",
+        "Maokai"
+      ],
+      "against": [
+        "Fiddlesticks",
+        "Soraka",
+        "Malzahar",
+        "Syndra",
+        "Lissandra"
+      ],
+      "synergy_good": [
+        "Aurora",
+        "Cho'Gath",
+        "Milio"
+      ],
+      "synergy_bad": [
+        "Mordekaiser",
+        "Lucian",
+        "Jayce"
+      ]
+    },
+    {
+      "key": 145,
+      "riot_id": "Kaisa",
+      "name": "Kai'Sa",
+      "title": "a Filha do Vazio",
+      "primary_role": "Mage",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "counters": [
+        "Volibear",
+        "Nocturne",
+        "Rek'Sai",
+        "Vi",
+        "Trundle"
+      ],
+      "against": [
+        "Tristana",
+        "Pyke",
+        "Vayne",
+        "Qiyana",
+        "Kha'Zix"
+      ],
+      "synergy_good": [
+        "Jinx",
+        "Alistar",
+        "Draven"
+      ],
+      "synergy_bad": [
+        "Twitch",
+        "Ryze",
+        "Tristana"
+      ]
+    },
+    {
+      "key": 429,
+      "riot_id": "Kalista",
+      "name": "Kalista",
+      "title": "a Lança da Vingança",
+      "primary_role": "Marksman",
+      "tags": [
+        "Marksman"
+      ],
+      "counters": [
+        "Taric",
+        "Sejuani",
+        "Alistar",
+        "Galio",
+        "Blitzcrank"
+      ],
+      "against": [
+        "Talon",
+        "Tristana",
+        "Pyke",
+        "Shaco",
+        "Kha'Zix"
+      ],
+      "synergy_good": [
+        "Syndra",
+        "Mel",
+        "Varus"
+      ],
+      "synergy_bad": [
+        "Samira",
+        "Yunara",
+        "Jinx"
+      ]
+    },
+    {
+      "key": 43,
+      "riot_id": "Karma",
+      "name": "Karma",
+      "title": "a Iluminada",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "counters": [
+        "Jax",
+        "Diana",
+        "Hecarim",
+        "Darius",
+        "Renekton"
+      ],
+      "against": [
+        "Kha'Zix",
+        "Tristana",
+        "Lucian",
+        "Shaco",
+        "Talon"
+      ],
+      "synergy_good": [
+        "Graves",
+        "Nunu e Willump",
+        "Kalista"
+      ],
+      "synergy_bad": [
+        "Miss Fortune",
+        "Brand",
+        "Vex"
+      ]
+    },
+    {
+      "key": 30,
+      "riot_id": "Karthus",
+      "name": "Karthus",
+      "title": "a Voz Mortal",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage"
+      ],
+      "counters": [
+        "Diana",
+        "Udyr",
+        "Tryndamere",
+        "Kled",
+        "Aatrox"
+      ],
+      "against": [
+        "Talon",
+        "Quinn",
+        "Shaco",
+        "Akshan",
+        "Kha'Zix"
+      ],
+      "synergy_good": [
+        "Yunara",
+        "Braum",
+        "Ashe"
+      ],
+      "synergy_bad": [
+        "Swain",
+        "Orianna",
+        "Samira"
+      ]
+    },
+    {
+      "key": 38,
+      "riot_id": "Kassadin",
+      "name": "Kassadin",
+      "title": "o Andarilho do Vazio",
+      "primary_role": "Mage",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "counters": [
+        "Xin Zhao",
+        "Urgot",
+        "Warwick",
+        "Garen",
+        "Master Yi"
+      ],
+      "against": [
+        "Shaco",
+        "Qiyana",
+        "Akshan",
+        "Pyke",
+        "Kha'Zix"
+      ],
+      "synergy_good": [
+        "Cho'Gath",
+        "Rammus",
+        "Ashe"
+      ],
+      "synergy_bad": [
+        "Ivern",
+        "Yuumi",
+        "Lissandra"
+      ]
+    },
+    {
+      "key": 55,
+      "riot_id": "Katarina",
+      "name": "Katarina",
+      "title": "a Lâmina Sinistra",
+      "primary_role": "Mage",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "counters": [
+        "Irelia",
+        "Fizz",
+        "Diana",
+        "Vi",
+        "Nocturne"
+      ],
+      "against": [
+        "Lucian",
+        "Akshan",
+        "Pyke",
+        "Vayne",
+        "Kha'Zix"
+      ],
+      "synergy_good": [
+        "Blitzcrank",
+        "Galio",
+        "Shen"
+      ],
+      "synergy_bad": [
+        "Cassiopeia",
+        "Vayne",
+        "Nami"
+      ]
+    },
+    {
+      "key": 10,
+      "riot_id": "Kayle",
+      "name": "Kayle",
+      "title": "a Justa",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Marksman"
+      ],
+      "counters": [
+        "Irelia",
+        "Vi",
+        "Darius",
+        "Xin Zhao",
+        "Riven"
+      ],
+      "against": [
+        "Kha'Zix",
+        "Samira",
+        "Quinn",
+        "Akshan",
+        "Qiyana"
+      ],
+      "synergy_good": [
+        "Rammus",
+        "Braum",
+        "Thresh"
+      ],
+      "synergy_bad": [
+        "Kassadin",
+        "Elise",
+        "Lucian"
+      ]
+    },
+    {
+      "key": 141,
+      "riot_id": "Kayn",
+      "name": "Kayn",
+      "title": "o Ceifador das Sombras",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Alistar",
+        "Galio",
+        "Cho'Gath",
+        "Maokai",
+        "Blitzcrank"
+      ],
+      "against": [
+        "Varus",
+        "Karma",
+        "Bardo",
+        "Jhin",
+        "Veigar"
+      ],
+      "synergy_good": [
+        "Anivia",
+        "Jhin",
+        "Ryze"
+      ],
+      "synergy_bad": [
+        "Sion",
+        "Darius",
+        "Garen"
+      ]
+    },
+    {
+      "key": 85,
+      "riot_id": "Kennen",
+      "name": "Kennen",
+      "title": "o Coração da Tempestade",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage"
+      ],
+      "counters": [
+        "Kayn",
+        "Udyr",
+        "Gragas",
+        "Dr. Mundo",
+        "Jarvan IV"
+      ],
+      "against": [
+        "Lucian",
+        "Shaco",
+        "Twitch",
+        "Samira",
+        "Quinn"
+      ],
+      "synergy_good": [
+        "Caitlyn",
+        "Maokai",
+        "Sejuani"
+      ],
+      "synergy_bad": [
+        "Nami",
+        "Teemo",
+        "Vayne"
+      ]
+    },
+    {
+      "key": 121,
+      "riot_id": "Khazix",
+      "name": "Kha'Zix",
+      "title": "o Ceifador do Vazio",
+      "primary_role": "Assassin",
+      "tags": [
+        "Assassin"
+      ],
+      "counters": [
+        "Sivir",
+        "Ryze",
+        "Mel",
+        "Janna",
+        "Yuumi"
+      ],
+      "against": [
+        "Amumu",
+        "Rammus",
+        "Nautilus",
+        "Malphite",
+        "Ornn"
+      ],
+      "synergy_good": [
+        "Cho'Gath",
+        "Bardo",
+        "Blitzcrank"
+      ],
+      "synergy_bad": [
+        "Qiyana",
+        "Talon",
+        "Pyke"
+      ]
+    },
+    {
+      "key": 203,
+      "riot_id": "Kindred",
+      "name": "Kindred",
+      "title": "os Caçadores Eternos",
+      "primary_role": "Marksman",
+      "tags": [
+        "Marksman"
+      ],
+      "counters": [
+        "Shen",
+        "Ornn",
+        "Sejuani",
+        "Singed",
+        "Tahm Kench"
+      ],
+      "against": [
+        "Twitch",
+        "Vayne",
+        "Tristana",
+        "Kha'Zix",
+        "Akali"
+      ],
+      "synergy_good": [
+        "Sona",
+        "Mel",
+        "Veigar"
+      ],
+      "synergy_bad": [
+        "Qiyana",
+        "Kalista",
+        "Vayne"
+      ]
+    },
+    {
+      "key": 240,
+      "riot_id": "Kled",
+      "name": "Kled",
+      "title": "o Cavaleiro Intratável",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter"
+      ],
+      "counters": [
+        "Shen",
+        "Alistar",
+        "Rell",
+        "Taric",
+        "Sejuani"
+      ],
+      "against": [
+        "Vex",
+        "Lux",
+        "Lissandra",
+        "Swain",
+        "Xerath"
+      ],
+      "synergy_good": [
+        "Galio",
+        "Ekko",
+        "Leona"
+      ],
+      "synergy_bad": [
+        "Renekton",
+        "Dr. Mundo",
+        "Camille"
+      ]
+    },
+    {
+      "key": 96,
+      "riot_id": "KogMaw",
+      "name": "Kog'Maw",
+      "title": "a Boca do Abismo",
+      "primary_role": "Mage",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "counters": [
+        "Yasuo",
+        "Jayce",
+        "Aatrox",
+        "Lee Sin",
+        "Sion"
+      ],
+      "against": [
+        "Kha'Zix",
+        "Quinn",
+        "Tristana",
+        "Vayne",
+        "Lucian"
+      ],
+      "synergy_good": [
+        "Ashe",
+        "Thresh",
+        "Amumu"
+      ],
+      "synergy_bad": [
+        "Heimerdinger",
+        "Cassiopeia",
+        "Viktor"
+      ]
+    },
+    {
+      "key": 7,
+      "riot_id": "Leblanc",
+      "name": "LeBlanc",
+      "title": "a Farsante",
+      "primary_role": "Mage",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "counters": [
+        "Vladimir",
+        "Nasus",
+        "Wukong",
+        "Naafiri",
+        "Warwick"
+      ],
+      "against": [
+        "Quinn",
+        "Shaco",
+        "Vayne",
+        "Qiyana",
+        "Talon"
+      ],
+      "synergy_good": [
+        "Malphite",
+        "Jinx",
+        "Shen"
+      ],
+      "synergy_bad": [
+        "Ziggs",
+        "Malzahar",
+        "Anivia"
+      ]
+    },
+    {
+      "key": 64,
+      "riot_id": "LeeSin",
+      "name": "Lee Sin",
+      "title": "o Monge Cego",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Alistar",
+        "Taric",
+        "Leona",
+        "Nautilus",
+        "Ornn"
+      ],
+      "against": [
+        "Kog'Maw",
+        "Jhin",
+        "Vex",
+        "Janna",
+        "Renata Glasc"
+      ],
+      "synergy_good": [
+        "Taliyah",
+        "Bardo",
+        "Ekko"
+      ],
+      "synergy_bad": [
+        "Jarvan IV",
+        "Darius",
+        "Vladimir"
+      ]
+    },
+    {
+      "key": 89,
+      "riot_id": "Leona",
+      "name": "Leona",
+      "title": "a Alvorada Radiante",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "counters": [
+        "Vayne",
+        "Qiyana",
+        "Pyke",
+        "Samira",
+        "Tristana"
+      ],
+      "against": [
+        "Jarvan IV",
+        "Yasuo",
+        "Lee Sin",
+        "Bel'Veth",
+        "Ashe"
+      ],
+      "synergy_good": [
+        "Nidalee",
+        "Lux",
+        "Ashe"
+      ],
+      "synergy_bad": [
+        "Alistar",
+        "Taric",
+        "Blitzcrank"
+      ]
+    },
+    {
+      "key": 876,
+      "riot_id": "Lillia",
+      "name": "Lillia",
+      "title": "o Florir Receoso",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
+      "counters": [
+        "Ornn",
+        "Maokai",
+        "Sejuani",
+        "Thresh",
+        "Galio"
+      ],
+      "against": [
+        "Ezreal",
+        "Sona",
+        "Teemo",
+        "Zyra",
+        "Nidalee"
+      ],
+      "synergy_good": [
+        "Vel'Koz",
+        "Cho'Gath",
+        "Kennen"
+      ],
+      "synergy_bad": [
+        "Shyvana",
+        "Warwick",
+        "Viego"
+      ]
+    },
+    {
+      "key": 127,
+      "riot_id": "Lissandra",
+      "name": "Lissandra",
+      "title": "a Bruxa Gélida",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage"
+      ],
+      "counters": [
+        "Jarvan IV",
+        "Sett",
+        "Vi",
+        "Irelia",
+        "Dr. Mundo"
+      ],
+      "against": [
+        "Pyke",
+        "Akali",
+        "Akshan",
+        "Lucian",
+        "Shaco"
+      ],
+      "synergy_good": [
+        "Yunara",
+        "Taric",
+        "Shen"
+      ],
+      "synergy_bad": [
+        "Ivern",
+        "Cassiopeia",
+        "Syndra"
+      ]
+    },
+    {
+      "key": 236,
+      "riot_id": "Lucian",
+      "name": "Lucian",
+      "title": "o Purificador",
+      "primary_role": "Assassin",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "counters": [
+        "Nidalee",
+        "Ashe",
+        "Soraka",
+        "Nami",
+        "Kai'Sa"
+      ],
+      "against": [
+        "Nunu e Willump",
+        "Tahm Kench",
+        "Amumu",
+        "Singed",
+        "Sejuani"
+      ],
+      "synergy_good": [
+        "Galio",
+        "Amumu",
+        "Sona"
+      ],
+      "synergy_bad": [
+        "Tristana",
+        "Akshan",
+        "Draven"
+      ]
+    },
+    {
+      "key": 117,
+      "riot_id": "Lulu",
+      "name": "Lulu",
+      "title": "a Fada Feiticeira",
+      "primary_role": "Mage",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "counters": [
+        "Yone",
+        "Gangplank",
+        "Urgot",
+        "Zac",
+        "Gragas"
+      ],
+      "against": [
+        "Tristana",
+        "Pyke",
+        "Zed",
+        "Twitch",
+        "Shaco"
+      ],
+      "synergy_good": [
+        "Taric",
+        "Leona",
+        "Cho'Gath"
+      ],
+      "synergy_bad": [
+        "Akali",
+        "Varus",
+        "Talon"
+      ]
+    },
+    {
+      "key": 99,
+      "riot_id": "Lux",
+      "name": "Lux",
+      "title": "a Dama da Luz",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "counters": [
+        "Kayn",
+        "Fizz",
+        "Bel'Veth",
+        "Shyvana",
+        "Xin Zhao"
+      ],
+      "against": [
+        "Talon",
+        "Vayne",
+        "Qiyana",
+        "Zed",
+        "Samira"
+      ],
+      "synergy_good": [
+        "Rell",
+        "Galio",
+        "Graves"
+      ],
+      "synergy_bad": [
+        "Malzahar",
+        "Nami",
+        "Tristana"
+      ]
+    },
+    {
+      "key": 54,
+      "riot_id": "Malphite",
+      "name": "Malphite",
+      "title": "o Fragmento do Monolito",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
+      "counters": [
+        "Qiyana",
+        "Lucian",
+        "Zed",
+        "Pyke",
+        "Twitch"
+      ],
+      "against": [
+        "Poppy",
+        "Xayah",
+        "Kindred",
+        "Yasuo",
+        "Lee Sin"
+      ],
+      "synergy_good": [
+        "Ryze",
+        "Yunara",
+        "Draven"
+      ],
+      "synergy_bad": [
+        "Nunu e Willump",
+        "Tahm Kench",
+        "Amumu"
+      ]
+    },
+    {
+      "key": 90,
+      "riot_id": "Malzahar",
+      "name": "Malzahar",
+      "title": "o Profeta do Vazio",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage"
+      ],
+      "counters": [
+        "Hecarim",
+        "Nocturne",
+        "Wukong",
+        "Ambessa",
+        "Vladimir"
+      ],
+      "against": [
+        "Twitch",
+        "Akshan",
+        "Kha'Zix",
+        "Tristana",
+        "Akali"
+      ],
+      "synergy_good": [
+        "Rell",
+        "Zeri",
+        "Xayah"
+      ],
+      "synergy_bad": [
+        "Nami",
+        "Ahri",
+        "Twisted Fate"
+      ]
+    },
+    {
+      "key": 57,
+      "riot_id": "Maokai",
+      "name": "Maokai",
+      "title": "o Ente Sinistro",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "counters": [
+        "Tristana",
+        "Akali",
+        "Qiyana",
+        "Vayne",
+        "Kha'Zix"
+      ],
+      "against": [
+        "Tryndamere",
+        "Fizz",
+        "Jax",
+        "Riven",
+        "Yorick"
+      ],
+      "synergy_good": [
+        "Milio",
+        "Katarina",
+        "Anivia"
+      ],
+      "synergy_bad": [
+        "Singed",
+        "Thresh",
+        "Blitzcrank"
+      ]
+    },
+    {
+      "key": 11,
+      "riot_id": "MasterYi",
+      "name": "Master Yi",
+      "title": "o Espadachim Wuju",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Cho'Gath",
+        "Amumu",
+        "Ornn",
+        "Singed",
+        "Thresh"
+      ],
+      "against": [
+        "Lissandra",
+        "Aurora",
+        "Orianna",
+        "Malzahar",
+        "Heimerdinger"
+      ],
+      "synergy_good": [
+        "Taliyah",
+        "Corki",
+        "Nami"
+      ],
+      "synergy_bad": [
+        "Zaahen",
+        "Quinn",
+        "Vladimir"
+      ]
+    },
+    {
+      "key": 800,
+      "riot_id": "Mel",
+      "name": "Mel",
+      "title": "o Reflexo da Alma",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "counters": [
+        "Yone",
+        "Riven",
+        "Fiora",
+        "Briar",
+        "Pantheon"
+      ],
+      "against": [
+        "Talon",
+        "Vayne",
+        "Tristana",
+        "Akali",
+        "Pyke"
+      ],
+      "synergy_good": [
+        "Draven",
+        "Zeri",
+        "Galio"
+      ],
+      "synergy_bad": [
+        "Vel'Koz",
+        "Zed",
+        "Swain"
+      ]
+    },
+    {
+      "key": 902,
+      "riot_id": "Milio",
+      "name": "Milio",
+      "title": "A Chama Gentil",
+      "primary_role": "Mage",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "counters": [
+        "Volibear",
+        "Skarner",
+        "Yasuo",
+        "Lillia",
+        "Riven"
+      ],
+      "against": [
+        "Pyke",
+        "Qiyana",
+        "Twitch",
+        "Vayne",
+        "Zed"
+      ],
+      "synergy_good": [
+        "Draven",
+        "Shen",
+        "Taric"
+      ],
+      "synergy_bad": [
+        "Neeko",
+        "Azir",
+        "Sona"
+      ]
+    },
+    {
+      "key": 21,
+      "riot_id": "MissFortune",
+      "name": "Miss Fortune",
+      "title": "a Caçadora de Recompensas",
+      "primary_role": "Mage",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "counters": [
+        "Urgot",
+        "Camille",
+        "Nocturne",
+        "Renekton",
+        "Mordekaiser"
+      ],
+      "against": [
+        "Akshan",
+        "Tristana",
+        "Talon",
+        "Akali",
+        "Samira"
+      ],
+      "synergy_good": [
+        "Kindred",
+        "Nautilus",
+        "Ashe"
+      ],
+      "synergy_bad": [
+        "Aurora",
+        "Brand",
+        "Katarina"
+      ]
+    },
+    {
+      "key": 82,
+      "riot_id": "Mordekaiser",
+      "name": "Mordekaiser",
+      "title": "o Revenã de Ferro",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
+      "counters": [
+        "Shen",
+        "Thresh",
+        "Ornn",
+        "Cho'Gath",
+        "Nunu e Willump"
+      ],
+      "against": [
+        "Taliyah",
+        "Smolder",
+        "Sylas",
+        "Xerath",
+        "Ahri"
+      ],
+      "synergy_good": [
+        "Ekko",
+        "Maokai",
+        "Cho'Gath"
+      ],
+      "synergy_bad": [
+        "Ambessa",
+        "Volibear",
+        "Fiora"
+      ]
+    },
+    {
+      "key": 25,
+      "riot_id": "Morgana",
+      "name": "Morgana",
+      "title": "a Caída",
+      "primary_role": "Mage",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "counters": [
+        "Tryndamere",
+        "Nilah",
+        "Gnar",
+        "Gragas",
+        "Nasus"
+      ],
+      "against": [
+        "Kha'Zix",
+        "Talon",
+        "Shaco",
+        "Twitch",
+        "Lucian"
+      ],
+      "synergy_good": [
+        "Rakan",
+        "Kindred",
+        "Sejuani"
+      ],
+      "synergy_bad": [
+        "Elise",
+        "Jhin",
+        "Heimerdinger"
+      ]
+    },
+    {
+      "key": 950,
+      "riot_id": "Naafiri",
+      "name": "Naafiri",
+      "title": "Fera das Cem Mordidas",
+      "primary_role": "Fighter",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
+      "counters": [
+        "Braum",
+        "Singed",
+        "Nunu e Willump",
+        "Alistar",
+        "Taric"
+      ],
+      "against": [
+        "LeBlanc",
+        "Teemo",
+        "Mel",
+        "Zyra",
+        "Lissandra"
+      ],
+      "synergy_good": [
+        "Annie",
+        "Amumu",
+        "Azir"
+      ],
+      "synergy_bad": [
+        "Kayn",
+        "Zac",
+        "Vayne"
+      ]
+    },
+    {
+      "key": 267,
+      "riot_id": "Nami",
+      "name": "Nami",
+      "title": "a Conjuradora das Marés",
+      "primary_role": "Mage",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "counters": [
+        "Viego",
+        "Zaahen",
+        "Briar",
+        "Zac",
+        "Irelia"
+      ],
+      "against": [
+        "Lucian",
+        "Zed",
+        "Vayne",
+        "Talon",
+        "Twitch"
+      ],
+      "synergy_good": [
+        "Ornn",
+        "Taric",
+        "Tahm Kench"
+      ],
+      "synergy_bad": [
+        "Renata Glasc",
+        "Xerath",
+        "Morgana"
+      ]
+    },
+    {
+      "key": 75,
+      "riot_id": "Nasus",
+      "name": "Nasus",
+      "title": "o Curador das Areias",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Alistar",
+        "Amumu",
+        "Blitzcrank",
+        "Sejuani",
+        "Cho'Gath"
+      ],
+      "against": [
+        "Zoe",
+        "Taliyah",
+        "Sona",
+        "LeBlanc",
+        "Ryze"
+      ],
+      "synergy_good": [
+        "Milio",
+        "Corki",
+        "Taliyah"
+      ],
+      "synergy_bad": [
+        "Lucian",
+        "Nilah",
+        "Sett"
+      ]
+    },
+    {
+      "key": 111,
+      "riot_id": "Nautilus",
+      "name": "Nautilus",
+      "title": "o Titã das Profundezas",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "counters": [
+        "Qiyana",
+        "Pyke",
+        "Akali",
+        "Vayne",
+        "Zed"
+      ],
+      "against": [
+        "Pantheon",
+        "Master Yi",
+        "Kled",
+        "Xayah",
+        "Fiora"
+      ],
+      "synergy_good": [
+        "Zyra",
+        "Malzahar",
+        "Senna"
+      ],
+      "synergy_bad": [
+        "Taric",
+        "Thresh",
+        "Cho'Gath"
+      ]
+    },
+    {
+      "key": 518,
+      "riot_id": "Neeko",
+      "name": "Neeko",
+      "title": "a Camaleoa Curiosa",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "counters": [
+        "Illaoi",
+        "Gangplank",
+        "Sion",
+        "Wukong",
+        "Urgot"
+      ],
+      "against": [
+        "Lucian",
+        "Qiyana",
+        "Tristana",
+        "Akshan",
+        "Talon"
+      ],
+      "synergy_good": [
+        "Jinx",
+        "Kindred",
+        "Malphite"
+      ],
+      "synergy_bad": [
+        "Twitch",
+        "Varus",
+        "Brand"
+      ]
+    },
+    {
+      "key": 76,
+      "riot_id": "Nidalee",
+      "name": "Nidalee",
+      "title": "a Caçadora Bestial",
+      "primary_role": "Mage",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "counters": [
+        "Irelia",
+        "Gwen",
+        "Yorick",
+        "Gangplank",
+        "Pantheon"
+      ],
+      "against": [
+        "Pyke",
+        "Kha'Zix",
+        "Talon",
+        "Shaco",
+        "Samira"
+      ],
+      "synergy_good": [
+        "Caitlyn",
+        "Braum",
+        "Alistar"
+      ],
+      "synergy_bad": [
+        "Tristana",
+        "Soraka",
+        "Elise"
+      ]
+    },
+    {
+      "key": 895,
+      "riot_id": "Nilah",
+      "name": "Nilah",
+      "title": "a Alegria Irrestrita",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Galio",
+        "Amumu",
+        "Malphite",
+        "Cho'Gath",
+        "Taric"
+      ],
+      "against": [
+        "Janna",
+        "LeBlanc",
+        "Ryze",
+        "Heimerdinger",
+        "Ekko"
+      ],
+      "synergy_good": [
+        "Veigar",
+        "Katarina",
+        "Ryze"
+      ],
+      "synergy_bad": [
+        "Lucian",
+        "Warwick",
+        "Renekton"
+      ]
+    },
+    {
+      "key": 56,
+      "riot_id": "Nocturne",
+      "name": "Nocturne",
+      "title": "o Eterno Pesadelo",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Galio",
+        "Leona",
+        "Braum",
+        "Ornn",
+        "Alistar"
+      ],
+      "against": [
+        "Soraka",
+        "Cassiopeia",
+        "Ekko",
+        "Miss Fortune",
+        "Malzahar"
+      ],
+      "synergy_good": [
+        "Ekko",
+        "Cassiopeia",
+        "Lux"
+      ],
+      "synergy_bad": [
+        "Pyke",
+        "Mordekaiser",
+        "Quinn"
+      ]
+    },
+    {
+      "key": 20,
+      "riot_id": "Nunu",
+      "name": "Nunu e Willump",
+      "title": "o Garoto e seu Yeti",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
+      "counters": [
+        "Kha'Zix",
+        "Samira",
+        "Quinn",
+        "Akshan",
+        "Qiyana"
+      ],
+      "against": [
+        "Xin Zhao",
+        "Irelia",
+        "Viego",
+        "Lee Sin",
+        "Nilah"
+      ],
+      "synergy_good": [
+        "Lulu",
+        "Zilean",
+        "Veigar"
+      ],
+      "synergy_bad": [
+        "Ornn",
+        "Tahm Kench",
+        "Rammus"
+      ]
+    },
+    {
+      "key": 2,
+      "riot_id": "Olaf",
+      "name": "Olaf",
+      "title": "o Berserker",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Blitzcrank",
+        "Nautilus",
+        "Sejuani",
+        "Taric",
+        "Amumu"
+      ],
+      "against": [
+        "Katarina",
+        "Kassadin",
+        "Malzahar",
+        "Annie",
+        "Zoe"
+      ],
+      "synergy_good": [
+        "Kassadin",
+        "Cho'Gath",
+        "Hwei"
+      ],
+      "synergy_bad": [
+        "Warwick",
+        "Jarvan IV",
+        "Yone"
+      ]
+    },
+    {
+      "key": 61,
+      "riot_id": "Orianna",
+      "name": "Orianna",
+      "title": "a Donzela Mecânica",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "counters": [
+        "Poppy",
+        "Lillia",
+        "Hecarim",
+        "Master Yi",
+        "Sion"
+      ],
+      "against": [
+        "Kha'Zix",
+        "Twitch",
+        "Lucian",
+        "Pyke",
+        "Akshan"
+      ],
+      "synergy_good": [
+        "Alistar",
+        "Taric",
+        "Zeri"
+      ],
+      "synergy_bad": [
+        "Corki",
+        "Miss Fortune",
+        "Janna"
+      ]
+    },
+    {
+      "key": 516,
+      "riot_id": "Ornn",
+      "name": "Ornn",
+      "title": "O Fogo sob a Montanha",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank"
+      ],
+      "counters": [
+        "Qiyana",
+        "Samira",
+        "Twitch",
+        "Akshan",
+        "Tristana"
+      ],
+      "against": [
+        "Trundle",
+        "Sivir",
+        "Fizz",
+        "Garen",
+        "Caitlyn"
+      ],
+      "synergy_good": [
+        "Janna",
+        "Caitlyn",
+        "Xerath"
+      ],
+      "synergy_bad": [
+        "Malphite",
+        "Nunu e Willump",
+        "Amumu"
+      ]
+    },
+    {
+      "key": 80,
+      "riot_id": "Pantheon",
+      "name": "Pantheon",
+      "title": "a Lança Indestrutível",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Braum",
+        "Sejuani",
+        "Taric",
+        "Thresh",
+        "Amumu"
+      ],
+      "against": [
+        "Heimerdinger",
+        "Katarina",
+        "Vel'Koz",
+        "Anivia",
+        "LeBlanc"
+      ],
+      "synergy_good": [
+        "Amumu",
+        "Evelynn",
+        "Anivia"
+      ],
+      "synergy_bad": [
+        "Briar",
+        "Master Yi",
+        "Urgot"
+      ]
+    },
+    {
+      "key": 78,
+      "riot_id": "Poppy",
+      "name": "Poppy",
+      "title": "a Guardiã do Martelo",
+      "primary_role": "Fighter",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "counters": [
+        "Taric",
+        "Sejuani",
+        "Nautilus",
+        "Cho'Gath",
+        "Amumu"
+      ],
+      "against": [
+        "Corki",
+        "Fiddlesticks",
+        "Nidalee",
+        "Heimerdinger",
+        "Zyra"
+      ],
+      "synergy_good": [
+        "Zyra",
+        "Alistar",
+        "Syndra"
+      ],
+      "synergy_bad": [
+        "Lillia",
+        "Yone",
+        "Sion"
+      ]
+    },
+    {
+      "key": 555,
+      "riot_id": "Pyke",
+      "name": "Pyke",
+      "title": "o Estripador das Águas Sangrentas",
+      "primary_role": "Assassin",
+      "tags": [
+        "Support",
+        "Assassin"
+      ],
+      "counters": [
+        "Nami",
+        "Aphelios",
+        "Elise",
+        "Evelynn",
+        "Neeko"
+      ],
+      "against": [
+        "Ornn",
+        "Alistar",
+        "Shen",
+        "Sejuani",
+        "Blitzcrank"
+      ],
+      "synergy_good": [
+        "Galio",
+        "Anivia",
+        "Blitzcrank"
+      ],
+      "synergy_bad": [
+        "Qiyana",
+        "Quinn",
+        "Kalista"
+      ]
+    },
+    {
+      "key": 246,
+      "riot_id": "Qiyana",
+      "name": "Qiyana",
+      "title": "a Imperatriz dos Elementos",
+      "primary_role": "Assassin",
+      "tags": [
+        "Assassin"
+      ],
+      "counters": [
+        "Elise",
+        "Graves",
+        "Caitlyn",
+        "Fiddlesticks",
+        "Bardo"
+      ],
+      "against": [
+        "Singed",
+        "Taric",
+        "Galio",
+        "Malphite",
+        "Nunu e Willump"
+      ],
+      "synergy_good": [
+        "Ornn",
+        "Syndra",
+        "Lulu"
+      ],
+      "synergy_bad": [
+        "Tristana",
+        "Shaco",
+        "Zed"
+      ]
+    },
+    {
+      "key": 133,
+      "riot_id": "Quinn",
+      "name": "Quinn",
+      "title": "as Asas de Demacia",
+      "primary_role": "Assassin",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "counters": [
+        "Sivir",
+        "Zoe",
+        "Anivia",
+        "Swain",
+        "Kennen"
+      ],
+      "against": [
+        "Tahm Kench",
+        "Alistar",
+        "Malphite",
+        "Taric",
+        "Ornn"
+      ],
+      "synergy_good": [
+        "Fiddlesticks",
+        "Blitzcrank",
+        "Lux"
+      ],
+      "synergy_bad": [
+        "Jinx",
+        "Zeri",
+        "Qiyana"
+      ]
+    },
+    {
+      "key": 497,
+      "riot_id": "Rakan",
+      "name": "Rakan",
+      "title": "O Charmoso",
+      "primary_role": "Support",
+      "tags": [
+        "Support"
+      ],
+      "counters": [
+        "Ashe",
+        "Azir",
+        "Bardo",
+        "Lulu",
+        "Sylas"
+      ],
+      "against": [
+        "Ivern",
+        "Ryze",
+        "Kha'Zix",
+        "Soraka",
+        "Aurelion Sol"
+      ],
+      "synergy_good": [
+        "Zeri",
+        "Malzahar",
+        "Bardo"
+      ],
+      "synergy_bad": [
+        "Zed",
+        "Ryze",
+        "Trundle"
+      ]
+    },
+    {
+      "key": 33,
+      "riot_id": "Rammus",
+      "name": "Rammus",
+      "title": "o Tatu Blindado",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank"
+      ],
+      "counters": [
+        "Shaco",
+        "Talon",
+        "Tristana",
+        "Zed",
+        "Quinn"
+      ],
+      "against": [
+        "Xin Zhao",
+        "Rengar",
+        "Renekton",
+        "Nilah",
+        "Warwick"
+      ],
+      "synergy_good": [
+        "Jinx",
+        "Taliyah",
+        "Graves"
+      ],
+      "synergy_bad": [
+        "Galio",
+        "Sejuani",
+        "Alistar"
+      ]
+    },
+    {
+      "key": 421,
+      "riot_id": "RekSai",
+      "name": "Rek'Sai",
+      "title": "a Escavadora do Vazio",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Tahm Kench",
+        "Cho'Gath",
+        "Galio",
+        "Malphite",
+        "Thresh"
+      ],
+      "against": [
+        "Milio",
+        "Fiddlesticks",
+        "Yuumi",
+        "Evelynn",
+        "Annie"
+      ],
+      "synergy_good": [
+        "Zyra",
+        "Tahm Kench",
+        "Viktor"
+      ],
+      "synergy_bad": [
+        "Akshan",
+        "Sett",
+        "K'Sante"
+      ]
+    },
+    {
+      "key": 526,
+      "riot_id": "Rell",
+      "name": "Rell",
+      "title": "a Dama de Ferro",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "counters": [
+        "Kha'Zix",
+        "Akshan",
+        "Talon",
+        "Pyke",
+        "Samira"
+      ],
+      "against": [
+        "Mordekaiser",
+        "Kalista",
+        "Garen",
+        "Lee Sin",
+        "Olaf"
+      ],
+      "synergy_good": [
+        "Ashe",
+        "Vex",
+        "Aphelios"
+      ],
+      "synergy_bad": [
+        "Braum",
+        "Nunu e Willump",
+        "Thresh"
+      ]
+    },
+    {
+      "key": 888,
+      "riot_id": "Renata",
+      "name": "Renata Glasc",
+      "title": "a Baronesa da Química",
+      "primary_role": "Mage",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "counters": [
+        "Vladimir",
+        "Warwick",
+        "Trundle",
+        "Lillia",
+        "K'Sante"
+      ],
+      "against": [
+        "Akshan",
+        "Talon",
+        "Shaco",
+        "Zed",
+        "Lucian"
+      ],
+      "synergy_good": [
+        "Yunara",
+        "Singed",
+        "Cho'Gath"
+      ],
+      "synergy_bad": [
+        "Lulu",
+        "Samira",
+        "Smolder"
+      ]
+    },
+    {
+      "key": 58,
+      "riot_id": "Renekton",
+      "name": "Renekton",
+      "title": "o Carniceiro das Areias",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Tahm Kench",
+        "Leona",
+        "Blitzcrank",
+        "Nautilus",
+        "Alistar"
+      ],
+      "against": [
+        "Ekko",
+        "Taliyah",
+        "Ivern",
+        "Malzahar",
+        "Neeko"
+      ],
+      "synergy_good": [
+        "Janna",
+        "Taliyah",
+        "Mel"
+      ],
+      "synergy_bad": [
+        "Ambessa",
+        "Tristana",
+        "Master Yi"
+      ]
+    },
+    {
+      "key": 107,
+      "riot_id": "Rengar",
+      "name": "Rengar",
+      "title": "o Acossador da Alcateia",
+      "primary_role": "Fighter",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
+      "counters": [
+        "Cho'Gath",
+        "Sejuani",
+        "Ornn",
+        "Nunu e Willump",
+        "Alistar"
+      ],
+      "against": [
+        "Renata Glasc",
+        "Ekko",
+        "Mel",
+        "Veigar",
+        "Neeko"
+      ],
+      "synergy_good": [
+        "Aurora",
+        "Kennen",
+        "Malzahar"
+      ],
+      "synergy_bad": [
+        "Vayne",
+        "Udyr",
+        "Mordekaiser"
+      ]
+    },
+    {
+      "key": 92,
+      "riot_id": "Riven",
+      "name": "Riven",
+      "title": "a Exilada",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Sejuani",
+        "Nunu e Willump",
+        "Malphite",
+        "Amumu",
+        "Shen"
+      ],
+      "against": [
+        "Malzahar",
+        "Elise",
+        "Azir",
+        "Lux",
+        "Swain"
+      ],
+      "synergy_good": [
+        "Zoe",
+        "Smolder",
+        "Teemo"
+      ],
+      "synergy_bad": [
+        "Irelia",
+        "Aatrox",
+        "Master Yi"
+      ]
+    },
+    {
+      "key": 68,
+      "riot_id": "Rumble",
+      "name": "Rumble",
+      "title": "a Ameaça Mecânica",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
+      "counters": [
+        "Tahm Kench",
+        "Galio",
+        "Ornn",
+        "Amumu",
+        "Shen"
+      ],
+      "against": [
+        "Ryze",
+        "Corki",
+        "Lulu",
+        "Lux",
+        "Katarina"
+      ],
+      "synergy_good": [
+        "Singed",
+        "Swain",
+        "Cassiopeia"
+      ],
+      "synergy_bad": [
+        "Irelia",
+        "Volibear",
+        "Warwick"
+      ]
+    },
+    {
+      "key": 13,
+      "riot_id": "Ryze",
+      "name": "Ryze",
+      "title": "o Mago Rúnico",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage"
+      ],
+      "counters": [
+        "Vi",
+        "Sion",
+        "Briar",
+        "Urgot",
+        "Camille"
+      ],
+      "against": [
+        "Akali",
+        "Akshan",
+        "Twitch",
+        "Shaco",
+        "Quinn"
+      ],
+      "synergy_good": [
+        "Rammus",
+        "Maokai",
+        "Galio"
+      ],
+      "synergy_bad": [
+        "Twisted Fate",
+        "Shaco",
+        "Ezreal"
+      ]
+    },
+    {
+      "key": 360,
+      "riot_id": "Samira",
+      "name": "Samira",
+      "title": "a Rosa do Deserto",
+      "primary_role": "Assassin",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "counters": [
+        "Jinx",
+        "Yuumi",
+        "Xayah",
+        "Mel",
+        "Ashe"
+      ],
+      "against": [
+        "Alistar",
+        "Singed",
+        "Amumu",
+        "Blitzcrank",
+        "Taric"
+      ],
+      "synergy_good": [
+        "Lulu",
+        "Karthus",
+        "Karma"
+      ],
+      "synergy_bad": [
+        "Qiyana",
+        "Kalista",
+        "Vayne"
+      ]
+    },
+    {
+      "key": 113,
+      "riot_id": "Sejuani",
+      "name": "Sejuani",
+      "title": "a Fúria do Norte",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank"
+      ],
+      "counters": [
+        "Tristana",
+        "Samira",
+        "Shaco",
+        "Kha'Zix",
+        "Qiyana"
+      ],
+      "against": [
+        "Nilah",
+        "Warwick",
+        "Senna",
+        "Wukong",
+        "Yorick"
+      ],
+      "synergy_good": [
+        "Zilean",
+        "Kalista",
+        "Ashe"
+      ],
+      "synergy_bad": [
+        "Malphite",
+        "Alistar",
+        "Rammus"
+      ]
+    },
+    {
+      "key": 235,
+      "riot_id": "Senna",
+      "name": "Senna",
+      "title": "A Redentora",
+      "primary_role": "Marksman",
+      "tags": [
+        "Support",
+        "Marksman"
+      ],
+      "counters": [
+        "Maokai",
+        "Thresh",
+        "Tahm Kench",
+        "Rell",
+        "Amumu"
+      ],
+      "against": [
+        "Shaco",
+        "Lucian",
+        "Samira",
+        "Kha'Zix",
+        "Quinn"
+      ],
+      "synergy_good": [
+        "Katarina",
+        "Kai'Sa",
+        "Singed"
+      ],
+      "synergy_bad": [
+        "Talon",
+        "Lucian",
+        "Caitlyn"
+      ]
+    },
+    {
+      "key": 147,
+      "riot_id": "Seraphine",
+      "name": "Seraphine",
+      "title": "a Cantora Sonhadora",
+      "primary_role": "Mage",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "counters": [
+        "Hecarim",
+        "Warwick",
+        "Rengar",
+        "Kled",
+        "Briar"
+      ],
+      "against": [
+        "Talon",
+        "Kha'Zix",
+        "Samira",
+        "Shaco",
+        "Tristana"
+      ],
+      "synergy_good": [
+        "Alistar",
+        "Singed",
+        "Cho'Gath"
+      ],
+      "synergy_bad": [
+        "Twitch",
+        "Shaco",
+        "Kennen"
+      ]
+    },
+    {
+      "key": 875,
+      "riot_id": "Sett",
+      "name": "Sett",
+      "title": "o Chefe",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Leona",
+        "Thresh",
+        "Braum",
+        "Alistar",
+        "Malphite"
+      ],
+      "against": [
+        "Evelynn",
+        "Heimerdinger",
+        "Orianna",
+        "Brand",
+        "Ryze"
+      ],
+      "synergy_good": [
+        "Leona",
+        "Rammus",
+        "Ahri"
+      ],
+      "synergy_bad": [
+        "Jayce",
+        "K'Sante",
+        "Volibear"
+      ]
+    },
+    {
+      "key": 35,
+      "riot_id": "Shaco",
+      "name": "Shaco",
+      "title": "o Bufão Demoníaco",
+      "primary_role": "Assassin",
+      "tags": [
+        "Assassin"
+      ],
+      "counters": [
+        "Zeri",
+        "Soraka",
+        "Ryze",
+        "Lulu",
+        "Janna"
+      ],
+      "against": [
+        "Alistar",
+        "Sejuani",
+        "Nunu e Willump",
+        "Rell",
+        "Singed"
+      ],
+      "synergy_good": [
+        "Kog'Maw",
+        "Leona",
+        "Ivern"
+      ],
+      "synergy_bad": [
+        "Senna",
+        "Tristana",
+        "Kalista"
+      ]
+    },
+    {
+      "key": 98,
+      "riot_id": "Shen",
+      "name": "Shen",
+      "title": "o Olho do Crepúsculo",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank"
+      ],
+      "counters": [
+        "Lucian",
+        "Shaco",
+        "Qiyana",
+        "Samira",
+        "Zed"
+      ],
+      "against": [
+        "Lillia",
+        "Yasuo",
+        "Shyvana",
+        "Yone",
+        "Poppy"
+      ],
+      "synergy_good": [
+        "Ryze",
+        "Syndra",
+        "Caitlyn"
+      ],
+      "synergy_bad": [
+        "Ornn",
+        "Taric",
+        "Thresh"
+      ]
+    },
+    {
+      "key": 102,
+      "riot_id": "Shyvana",
+      "name": "Shyvana",
+      "title": "a Meio-Dragão",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Tahm Kench",
+        "Singed",
+        "Ornn",
+        "Leona",
+        "Amumu"
+      ],
+      "against": [
+        "Lux",
+        "Cassiopeia",
+        "Janna",
+        "Malzahar",
+        "Kai'Sa"
+      ],
+      "synergy_good": [
+        "Evelynn",
+        "Corki",
+        "Singed"
+      ],
+      "synergy_bad": [
+        "Yorick",
+        "Sett",
+        "Gwen"
+      ]
+    },
+    {
+      "key": 27,
+      "riot_id": "Singed",
+      "name": "Singed",
+      "title": "o Químico Louco",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
+      "counters": [
+        "Samira",
+        "Twitch",
+        "Kha'Zix",
+        "Quinn",
+        "Zed"
+      ],
+      "against": [
+        "Kalista",
+        "Trundle",
+        "Zac",
+        "Ashe",
+        "Volibear"
+      ],
+      "synergy_good": [
+        "Draven",
+        "Renata Glasc",
+        "Malzahar"
+      ],
+      "synergy_bad": [
+        "Maokai",
+        "Nunu e Willump",
+        "Ornn"
+      ]
+    },
+    {
+      "key": 14,
+      "riot_id": "Sion",
+      "name": "Sion",
+      "title": "o Colosso Morto-Vivo",
+      "primary_role": "Fighter",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "counters": [
+        "Ornn",
+        "Shen",
+        "Nautilus",
+        "Maokai",
+        "Malphite"
+      ],
+      "against": [
+        "Elise",
+        "Kennen",
+        "Morgana",
+        "Annie",
+        "Cassiopeia"
+      ],
+      "synergy_good": [
+        "Seraphine",
+        "Braum",
+        "Evelynn"
+      ],
+      "synergy_bad": [
+        "Garen",
+        "Olaf",
+        "Ambessa"
+      ]
+    },
+    {
+      "key": 15,
+      "riot_id": "Sivir",
+      "name": "Sivir",
+      "title": "a Mestra da Batalha",
+      "primary_role": "Marksman",
+      "tags": [
+        "Marksman"
+      ],
+      "counters": [
+        "Galio",
+        "Braum",
+        "Blitzcrank",
+        "Malphite",
+        "Maokai"
+      ],
+      "against": [
+        "Tristana",
+        "Akshan",
+        "Lucian",
+        "Samira",
+        "Akali"
+      ],
+      "synergy_good": [
+        "Lissandra",
+        "Teemo",
+        "Yuumi"
+      ],
+      "synergy_bad": [
+        "Draven",
+        "Qiyana",
+        "Quinn"
+      ]
+    },
+    {
+      "key": 72,
+      "riot_id": "Skarner",
+      "name": "Skarner",
+      "title": "o Soberano Primordial",
+      "primary_role": "Fighter",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "counters": [
+        "Maokai",
+        "Taric",
+        "Braum",
+        "Sejuani",
+        "Amumu"
+      ],
+      "against": [
+        "Zyra",
+        "Milio",
+        "Twisted Fate",
+        "Kassadin",
+        "Malzahar"
+      ],
+      "synergy_good": [
+        "Rakan",
+        "Sona",
+        "Yuumi"
+      ],
+      "synergy_bad": [
+        "Lee Sin",
+        "Bel'Veth",
+        "Zaahen"
+      ]
+    },
+    {
+      "key": 901,
+      "riot_id": "Smolder",
+      "name": "Smolder",
+      "title": "o Filhote Flamejante",
+      "primary_role": "Mage",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "counters": [
+        "Volibear",
+        "Warwick",
+        "Kayn",
+        "Jayce",
+        "Rengar"
+      ],
+      "against": [
+        "Shaco",
+        "Pyke",
+        "Samira",
+        "Lucian",
+        "Twitch"
+      ],
+      "synergy_good": [
+        "Aphelios",
+        "Alistar",
+        "Cho'Gath"
+      ],
+      "synergy_bad": [
+        "Akshan",
+        "Shaco",
+        "Vel'Koz"
+      ]
+    },
+    {
+      "key": 37,
+      "riot_id": "Sona",
+      "name": "Sona",
+      "title": "a Mestra das Cordas",
+      "primary_role": "Mage",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "counters": [
+        "Briar",
+        "Rengar",
+        "Wukong",
+        "Urgot",
+        "Gragas"
+      ],
+      "against": [
+        "Akshan",
+        "Samira",
+        "Tristana",
+        "Pyke",
+        "Quinn"
+      ],
+      "synergy_good": [
+        "Ornn",
+        "Rammus",
+        "Graves"
+      ],
+      "synergy_bad": [
+        "Jhin",
+        "Kha'Zix",
+        "Twitch"
+      ]
+    },
+    {
+      "key": 16,
+      "riot_id": "Soraka",
+      "name": "Soraka",
+      "title": "a Filha das Estrelas",
+      "primary_role": "Mage",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "counters": [
+        "Tryndamere",
+        "Naafiri",
+        "Camille",
+        "Nocturne",
+        "Jayce"
+      ],
+      "against": [
+        "Shaco",
+        "Quinn",
+        "Tristana",
+        "Zed",
+        "Lucian"
+      ],
+      "synergy_good": [
+        "Thresh",
+        "Rell",
+        "Nautilus"
+      ],
+      "synergy_bad": [
+        "Annie",
+        "Xerath",
+        "Fiddlesticks"
+      ]
+    },
+    {
+      "key": 50,
+      "riot_id": "Swain",
+      "name": "Swain",
+      "title": "o Grande General Noxiano",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "counters": [
+        "Udyr",
+        "Vladimir",
+        "Urgot",
+        "Riven",
+        "Nocturne"
+      ],
+      "against": [
+        "Quinn",
+        "Lucian",
+        "Shaco",
+        "Talon",
+        "Vayne"
+      ],
+      "synergy_good": [
+        "Aphelios",
+        "Shen",
+        "Leona"
+      ],
+      "synergy_bad": [
+        "LeBlanc",
+        "Neeko",
+        "Lux"
+      ]
+    },
+    {
+      "key": 517,
+      "riot_id": "Sylas",
+      "name": "Sylas",
+      "title": "o Abjugado",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Assassin"
+      ],
+      "counters": [
+        "Illaoi",
+        "Shyvana",
+        "Nocturne",
+        "Briar",
+        "Volibear"
+      ],
+      "against": [
+        "Tristana",
+        "Talon",
+        "Shaco",
+        "Kha'Zix",
+        "Pyke"
+      ],
+      "synergy_good": [
+        "Singed",
+        "Jinx",
+        "Senna"
+      ],
+      "synergy_bad": [
+        "Brand",
+        "Evelynn",
+        "Milio"
+      ]
+    },
+    {
+      "key": 134,
+      "riot_id": "Syndra",
+      "name": "Syndra",
+      "title": "a Soberana Sombria",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage"
+      ],
+      "counters": [
+        "Viego",
+        "Irelia",
+        "Kled",
+        "Aatrox",
+        "Sett"
+      ],
+      "against": [
+        "Akshan",
+        "Shaco",
+        "Qiyana",
+        "Pyke",
+        "Twitch"
+      ],
+      "synergy_good": [
+        "Senna",
+        "Xayah",
+        "Kindred"
+      ],
+      "synergy_bad": [
+        "Veigar",
+        "Kog'Maw",
+        "Karthus"
+      ]
+    },
+    {
+      "key": 223,
+      "riot_id": "TahmKench",
+      "name": "Tahm Kench",
+      "title": "o Rei do Rio",
+      "primary_role": "Tank",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "counters": [
+        "Twitch",
+        "Talon",
+        "Qiyana",
+        "Quinn",
+        "Akali"
+      ],
+      "against": [
+        "Zeri",
+        "Vi",
+        "Ashe",
+        "Nilah",
+        "Nocturne"
+      ],
+      "synergy_good": [
+        "Jhin",
+        "Brand",
+        "Sylas"
+      ],
+      "synergy_bad": [
+        "Nautilus",
+        "Galio",
+        "Braum"
+      ]
+    },
+    {
+      "key": 163,
+      "riot_id": "Taliyah",
+      "name": "Taliyah",
+      "title": "a Tecelã de Pedras",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "counters": [
+        "Yone",
+        "Trundle",
+        "Garen",
+        "K'Sante",
+        "Irelia"
+      ],
+      "against": [
+        "Vayne",
+        "Kha'Zix",
+        "Samira",
+        "Talon",
+        "Shaco"
+      ],
+      "synergy_good": [
+        "Jinx",
+        "Taric",
+        "Kalista"
+      ],
+      "synergy_bad": [
+        "Teemo",
+        "Ryze",
+        "Pyke"
+      ]
+    },
+    {
+      "key": 91,
+      "riot_id": "Talon",
+      "name": "Talon",
+      "title": "a Sombra da Lâmina",
+      "primary_role": "Assassin",
+      "tags": [
+        "Assassin"
+      ],
+      "counters": [
+        "Corki",
+        "Miss Fortune",
+        "Janna",
+        "Senna",
+        "Varus"
+      ],
+      "against": [
+        "Alistar",
+        "Ornn",
+        "Maokai",
+        "Cho'Gath",
+        "Malphite"
+      ],
+      "synergy_good": [
+        "Cho'Gath",
+        "Katarina",
+        "Kog'Maw"
+      ],
+      "synergy_bad": [
+        "Aphelios",
+        "Qiyana",
+        "Zeri"
+      ]
+    },
+    {
+      "key": 44,
+      "riot_id": "Taric",
+      "name": "Taric",
+      "title": "o Escudo de Valoran",
+      "primary_role": "Tank",
+      "tags": [
+        "Support",
+        "Tank"
+      ],
+      "counters": [
+        "Twitch",
+        "Tristana",
+        "Akali",
+        "Qiyana",
+        "Zed"
+      ],
+      "against": [
+        "Riven",
+        "Sett",
+        "Ashe",
+        "Trundle",
+        "Urgot"
+      ],
+      "synergy_good": [
+        "Janna",
+        "Kai'Sa",
+        "Neeko"
+      ],
+      "synergy_bad": [
+        "Singed",
+        "Thresh",
+        "Ornn"
+      ]
+    },
+    {
+      "key": 17,
+      "riot_id": "Teemo",
+      "name": "Teemo",
+      "title": "o Explorador Veloz",
+      "primary_role": "Mage",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "counters": [
+        "Diana",
+        "Gragas",
+        "Rengar",
+        "Yone",
+        "Udyr"
+      ],
+      "against": [
+        "Samira",
+        "Twitch",
+        "Kha'Zix",
+        "Quinn",
+        "Zed"
+      ],
+      "synergy_good": [
+        "Aphelios",
+        "Senna",
+        "Caitlyn"
+      ],
+      "synergy_bad": [
+        "Aurelion Sol",
+        "Vel'Koz",
+        "Sona"
+      ]
+    },
+    {
+      "key": 412,
+      "riot_id": "Thresh",
+      "name": "Thresh",
+      "title": "o Guardião das Correntes",
+      "primary_role": "Tank",
+      "tags": [
+        "Support",
+        "Tank"
+      ],
+      "counters": [
+        "Talon",
+        "Vayne",
+        "Tristana",
+        "Zed",
+        "Samira"
+      ],
+      "against": [
+        "Fizz",
+        "Master Yi",
+        "Vladimir",
+        "Darius",
+        "Rengar"
+      ],
+      "synergy_good": [
+        "Ziggs",
+        "Brand",
+        "Caitlyn"
+      ],
+      "synergy_bad": [
+        "Leona",
+        "Blitzcrank",
+        "Galio"
+      ]
+    },
+    {
+      "key": 18,
+      "riot_id": "Tristana",
+      "name": "Tristana",
+      "title": "a Artilheira Yordle",
+      "primary_role": "Assassin",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "counters": [
+        "Katarina",
+        "Ekko",
+        "Milio",
+        "Sona",
+        "Kassadin"
+      ],
+      "against": [
+        "Sejuani",
+        "Tahm Kench",
+        "Amumu",
+        "Cho'Gath",
+        "Leona"
+      ],
+      "synergy_good": [
+        "LeBlanc",
+        "Blitzcrank",
+        "Sejuani"
+      ],
+      "synergy_bad": [
+        "Draven",
+        "Kha'Zix",
+        "Qiyana"
+      ]
+    },
+    {
+      "key": 48,
+      "riot_id": "Trundle",
+      "name": "Trundle",
+      "title": "o Rei dos Trolls",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Maokai",
+        "Sejuani",
+        "Shen",
+        "Ornn",
+        "Alistar"
+      ],
+      "against": [
+        "Nidalee",
+        "Ryze",
+        "Corki",
+        "Cassiopeia",
+        "Mel"
+      ],
+      "synergy_good": [
+        "Brand",
+        "Milio",
+        "Mel"
+      ],
+      "synergy_bad": [
+        "Viego",
+        "Tristana",
+        "Vi"
+      ]
+    },
+    {
+      "key": 23,
+      "riot_id": "Tryndamere",
+      "name": "Tryndamere",
+      "title": "o Rei Bárbaro",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Ornn",
+        "Alistar",
+        "Amumu",
+        "Leona",
+        "Braum"
+      ],
+      "against": [
+        "Seraphine",
+        "Heimerdinger",
+        "Sona",
+        "Karma",
+        "Syndra"
+      ],
+      "synergy_good": [
+        "Leona",
+        "Braum",
+        "Rakan"
+      ],
+      "synergy_bad": [
+        "Kayn",
+        "Poppy",
+        "Akali"
+      ]
+    },
+    {
+      "key": 4,
+      "riot_id": "TwistedFate",
+      "name": "Twisted Fate",
+      "title": "o Mestre das Cartas",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Marksman"
+      ],
+      "counters": [
+        "Nilah",
+        "Wukong",
+        "Volibear",
+        "Garen",
+        "Renekton"
+      ],
+      "against": [
+        "Pyke",
+        "Samira",
+        "Shaco",
+        "Vayne",
+        "Akali"
+      ],
+      "synergy_good": [
+        "Leona",
+        "Thresh",
+        "Caitlyn"
+      ],
+      "synergy_bad": [
+        "Ziggs",
+        "Miss Fortune",
+        "Kog'Maw"
+      ]
+    },
+    {
+      "key": 29,
+      "riot_id": "Twitch",
+      "name": "Twitch",
+      "title": "o Semeador da Peste",
+      "primary_role": "Assassin",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "counters": [
+        "Twisted Fate",
+        "Yunara",
+        "Zoe",
+        "Vex",
+        "Lux"
+      ],
+      "against": [
+        "Sejuani",
+        "Leona",
+        "Malphite",
+        "Amumu",
+        "Nautilus"
+      ],
+      "synergy_good": [
+        "Nautilus",
+        "Ryze",
+        "Rell"
+      ],
+      "synergy_bad": [
+        "Pyke",
+        "Zeri",
+        "Caitlyn"
+      ]
+    },
+    {
+      "key": 77,
+      "riot_id": "Udyr",
+      "name": "Udyr",
+      "title": "o Andarilho Espiritual",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Nautilus",
+        "Thresh",
+        "Taric",
+        "Ornn",
+        "Malphite"
+      ],
+      "against": [
+        "Renata Glasc",
+        "Lux",
+        "Azir",
+        "Neeko",
+        "Kayle"
+      ],
+      "synergy_good": [
+        "Zilean",
+        "Vel'Koz",
+        "Leona"
+      ],
+      "synergy_bad": [
+        "Jarvan IV",
+        "Vladimir",
+        "Urgot"
+      ]
+    },
+    {
+      "key": 6,
+      "riot_id": "Urgot",
+      "name": "Urgot",
+      "title": "o Encouraçado",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Amumu",
+        "Thresh",
+        "Tahm Kench",
+        "Singed",
+        "Galio"
+      ],
+      "against": [
+        "Azir",
+        "Twisted Fate",
+        "Lissandra",
+        "Karthus",
+        "LeBlanc"
+      ],
+      "synergy_good": [
+        "Kennen",
+        "Ahri",
+        "Annie"
+      ],
+      "synergy_bad": [
+        "Lucian",
+        "Aatrox",
+        "Jayce"
+      ]
+    },
+    {
+      "key": 110,
+      "riot_id": "Varus",
+      "name": "Varus",
+      "title": "a Flecha da Vingança",
+      "primary_role": "Mage",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "counters": [
+        "Renekton",
+        "Garen",
+        "Ambessa",
+        "Nocturne",
+        "Skarner"
+      ],
+      "against": [
+        "Lucian",
+        "Qiyana",
+        "Zed",
+        "Vayne",
+        "Twitch"
+      ],
+      "synergy_good": [
+        "Sejuani",
+        "Ashe",
+        "Blitzcrank"
+      ],
+      "synergy_bad": [
+        "Syndra",
+        "Pyke",
+        "Evelynn"
+      ]
+    },
+    {
+      "key": 67,
+      "riot_id": "Vayne",
+      "name": "Vayne",
+      "title": "a Caçadora Noturna",
+      "primary_role": "Assassin",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "counters": [
+        "Jhin",
+        "Ashe",
+        "Xayah",
+        "Nidalee",
+        "Syndra"
+      ],
+      "against": [
+        "Nautilus",
+        "Thresh",
+        "Taric",
+        "Ornn",
+        "Malphite"
+      ],
+      "synergy_good": [
+        "Ryze",
+        "Thresh",
+        "Nunu e Willump"
+      ],
+      "synergy_bad": [
+        "Zeri",
+        "Zed",
+        "Kha'Zix"
+      ]
+    },
+    {
+      "key": 45,
+      "riot_id": "Veigar",
+      "name": "Veigar",
+      "title": "o Pequeno Mestre do Mal",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage"
+      ],
+      "counters": [
+        "Gangplank",
+        "Kled",
+        "Sett",
+        "Briar",
+        "Tryndamere"
+      ],
+      "against": [
+        "Akali",
+        "Akshan",
+        "Qiyana",
+        "Kha'Zix",
+        "Zed"
+      ],
+      "synergy_good": [
+        "Sivir",
+        "Rammus",
+        "Taric"
+      ],
+      "synergy_bad": [
+        "Kassadin",
+        "Neeko",
+        "Taliyah"
+      ]
+    },
+    {
+      "key": 161,
+      "riot_id": "Velkoz",
+      "name": "Vel'Koz",
+      "title": "o Olho do Vazio",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "counters": [
+        "Shyvana",
+        "Sion",
+        "Renekton",
+        "Sett",
+        "Urgot"
+      ],
+      "against": [
+        "Tristana",
+        "Pyke",
+        "Samira",
+        "Vayne",
+        "Shaco"
+      ],
+      "synergy_good": [
+        "Sejuani",
+        "Malphite",
+        "Tahm Kench"
+      ],
+      "synergy_bad": [
+        "Twitch",
+        "Karma",
+        "Seraphine"
+      ]
+    },
+    {
+      "key": 711,
+      "riot_id": "Vex",
+      "name": "Vex",
+      "title": "a Melancolista",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage"
+      ],
+      "counters": [
+        "Irelia",
+        "Zaahen",
+        "Diana",
+        "Gwen",
+        "Sion"
+      ],
+      "against": [
+        "Qiyana",
+        "Talon",
+        "Kha'Zix",
+        "Samira",
+        "Pyke"
+      ],
+      "synergy_good": [
+        "Senna",
+        "Singed",
+        "Tahm Kench"
+      ],
+      "synergy_bad": [
+        "Jhin",
+        "Varus",
+        "Sylas"
+      ]
+    },
+    {
+      "key": 254,
+      "riot_id": "Vi",
+      "name": "Vi",
+      "title": "a Defensora de Piltover",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Maokai",
+        "Blitzcrank",
+        "Singed",
+        "Malphite",
+        "Rammus"
+      ],
+      "against": [
+        "Nidalee",
+        "Ekko",
+        "Milio",
+        "Zoe",
+        "Ziggs"
+      ],
+      "synergy_good": [
+        "Tahm Kench",
+        "Zoe",
+        "Taric"
+      ],
+      "synergy_bad": [
+        "Sion",
+        "Urgot",
+        "Aatrox"
+      ]
+    },
+    {
+      "key": 234,
+      "riot_id": "Viego",
+      "name": "Viego",
+      "title": "O Rei Destruído",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Maokai",
+        "Thresh",
+        "Nautilus",
+        "Alistar",
+        "Leona"
+      ],
+      "against": [
+        "Miss Fortune",
+        "Varus",
+        "Corki",
+        "Sylas",
+        "Teemo"
+      ],
+      "synergy_good": [
+        "Thresh",
+        "Milio",
+        "Veigar"
+      ],
+      "synergy_bad": [
+        "Vayne",
+        "Nocturne",
+        "Gnar"
+      ]
+    },
+    {
+      "key": 112,
+      "riot_id": "Viktor",
+      "name": "Viktor",
+      "title": "o Arauto do Arcano",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage"
+      ],
+      "counters": [
+        "Renekton",
+        "Volibear",
+        "Rumble",
+        "Pantheon",
+        "Briar"
+      ],
+      "against": [
+        "Qiyana",
+        "Talon",
+        "Lucian",
+        "Akshan",
+        "Twitch"
+      ],
+      "synergy_good": [
+        "Malphite",
+        "Rakan",
+        "Cho'Gath"
+      ],
+      "synergy_bad": [
+        "Karma",
+        "Vex",
+        "Miss Fortune"
+      ]
+    },
+    {
+      "key": 8,
+      "riot_id": "Vladimir",
+      "name": "Vladimir",
+      "title": "o Sanguinário Escarlate",
+      "primary_role": "Fighter",
+      "tags": [
+        "Mage",
+        "Fighter"
+      ],
+      "counters": [
+        "Maokai",
+        "Tahm Kench",
+        "Thresh",
+        "Alistar",
+        "Leona"
+      ],
+      "against": [
+        "Janna",
+        "Morgana",
+        "Soraka",
+        "Kog'Maw",
+        "Ryze"
+      ],
+      "synergy_good": [
+        "Taric",
+        "Viktor",
+        "Leona"
+      ],
+      "synergy_bad": [
+        "Zed",
+        "Kayn",
+        "Volibear"
+      ]
+    },
+    {
+      "key": 106,
+      "riot_id": "Volibear",
+      "name": "Volibear",
+      "title": "a Tempestade Implacável",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Rell",
+        "Amumu",
+        "Galio",
+        "Nunu e Willump",
+        "Singed"
+      ],
+      "against": [
+        "Viktor",
+        "Nidalee",
+        "Teemo",
+        "Jhin",
+        "Kog'Maw"
+      ],
+      "synergy_good": [
+        "Renata Glasc",
+        "Brand",
+        "Thresh"
+      ],
+      "synergy_bad": [
+        "Pantheon",
+        "Nocturne",
+        "Kled"
+      ]
+    },
+    {
+      "key": 19,
+      "riot_id": "Warwick",
+      "name": "Warwick",
+      "title": "a Ira Desimpedida de Zaun",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Braum",
+        "Cho'Gath",
+        "Thresh",
+        "Singed",
+        "Shen"
+      ],
+      "against": [
+        "Aurelion Sol",
+        "Zilean",
+        "Lux",
+        "Miss Fortune",
+        "Milio"
+      ],
+      "synergy_good": [
+        "Cassiopeia",
+        "Ekko",
+        "Karthus"
+      ],
+      "synergy_bad": [
+        "Hecarim",
+        "Briar",
+        "Zed"
+      ]
+    },
+    {
+      "key": 62,
+      "riot_id": "MonkeyKing",
+      "name": "Wukong",
+      "title": "o Macaco Rei",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Rammus",
+        "Cho'Gath",
+        "Maokai",
+        "Malphite",
+        "Alistar"
+      ],
+      "against": [
+        "Kassadin",
+        "Nidalee",
+        "Yuumi",
+        "Karma",
+        "Zoe"
+      ],
+      "synergy_good": [
+        "Zyra",
+        "Brand",
+        "Milio"
+      ],
+      "synergy_bad": [
+        "Aatrox",
+        "Rek'Sai",
+        "Qiyana"
+      ]
+    },
+    {
+      "key": 498,
+      "riot_id": "Xayah",
+      "name": "Xayah",
+      "title": "a Rebelde",
+      "primary_role": "Marksman",
+      "tags": [
+        "Marksman"
+      ],
+      "counters": [
+        "Thresh",
+        "Ornn",
+        "Alistar",
+        "Singed",
+        "Nautilus"
+      ],
+      "against": [
+        "Kha'Zix",
+        "Quinn",
+        "Akali",
+        "Lucian",
+        "Twitch"
+      ],
+      "synergy_good": [
+        "Corki",
+        "Elise",
+        "Seraphine"
+      ],
+      "synergy_bad": [
+        "Vayne",
+        "Lucian",
+        "Graves"
+      ]
+    },
+    {
+      "key": 101,
+      "riot_id": "Xerath",
+      "name": "Xerath",
+      "title": "o Mago Ascendente",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "counters": [
+        "Ambessa",
+        "Kled",
+        "Viego",
+        "Poppy",
+        "K'Sante"
+      ],
+      "against": [
+        "Qiyana",
+        "Pyke",
+        "Akali",
+        "Vayne",
+        "Zed"
+      ],
+      "synergy_good": [
+        "Rell",
+        "Amumu",
+        "Nunu e Willump"
+      ],
+      "synergy_bad": [
+        "Vayne",
+        "Lissandra",
+        "Cassiopeia"
+      ]
+    },
+    {
+      "key": 5,
+      "riot_id": "XinZhao",
+      "name": "Xin Zhao",
+      "title": "o Senescal de Demacia",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Thresh",
+        "Cho'Gath",
+        "Tahm Kench",
+        "Maokai",
+        "Malphite"
+      ],
+      "against": [
+        "Soraka",
+        "Katarina",
+        "Ekko",
+        "Kassadin",
+        "Lissandra"
+      ],
+      "synergy_good": [
+        "Viktor",
+        "Morgana",
+        "Taric"
+      ],
+      "synergy_bad": [
+        "Tristana",
+        "Pantheon",
+        "Sett"
+      ]
+    },
+    {
+      "key": 157,
+      "riot_id": "Yasuo",
+      "name": "Yasuo",
+      "title": "o Imperdoável",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Thresh",
+        "Galio",
+        "Taric",
+        "Nautilus",
+        "Shen"
+      ],
+      "against": [
+        "Katarina",
+        "Xerath",
+        "Syndra",
+        "Viktor",
+        "LeBlanc"
+      ],
+      "synergy_good": [
+        "LeBlanc",
+        "Anivia",
+        "Sejuani"
+      ],
+      "synergy_bad": [
+        "Briar",
+        "Pantheon",
+        "Aatrox"
+      ]
+    },
+    {
+      "key": 777,
+      "riot_id": "Yone",
+      "name": "Yone",
+      "title": "o Inesquecido",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Maokai",
+        "Leona",
+        "Rell",
+        "Galio",
+        "Alistar"
+      ],
+      "against": [
+        "Vex",
+        "Miss Fortune",
+        "Fiddlesticks",
+        "Vel'Koz",
+        "Kassadin"
+      ],
+      "synergy_good": [
+        "Katarina",
+        "Cassiopeia",
+        "Bardo"
+      ],
+      "synergy_bad": [
+        "Ambessa",
+        "Sion",
+        "Shaco"
+      ]
+    },
+    {
+      "key": 83,
+      "riot_id": "Yorick",
+      "name": "Yorick",
+      "title": "o Pastor de Almas",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "counters": [
+        "Malphite",
+        "Tahm Kench",
+        "Maokai",
+        "Singed",
+        "Nautilus"
+      ],
+      "against": [
+        "Syndra",
+        "Kassadin",
+        "Vex",
+        "Ekko",
+        "Orianna"
+      ],
+      "synergy_good": [
+        "Katarina",
+        "Cho'Gath",
+        "Ivern"
+      ],
+      "synergy_bad": [
+        "Kha'Zix",
+        "Sett",
+        "Twitch"
+      ]
+    },
+    {
+      "key": 804,
+      "riot_id": "Yunara",
+      "name": "Yunara",
+      "title": "a Fé Inabalável",
+      "primary_role": "Marksman",
+      "tags": [
+        "Marksman"
+      ],
+      "counters": [
+        "Nunu e Willump",
+        "Tahm Kench",
+        "Shen",
+        "Rammus",
+        "Ornn"
+      ],
+      "against": [
+        "Akshan",
+        "Samira",
+        "Lucian",
+        "Pyke",
+        "Quinn"
+      ],
+      "synergy_good": [
+        "Azir",
+        "Veigar",
+        "Rakan"
+      ],
+      "synergy_bad": [
+        "Tristana",
+        "Kalista",
+        "Quinn"
+      ]
+    },
+    {
+      "key": 350,
+      "riot_id": "Yuumi",
+      "name": "Yuumi",
+      "title": "a Gata Mágica",
+      "primary_role": "Mage",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "counters": [
+        "Viego",
+        "Shyvana",
+        "Pantheon",
+        "K'Sante",
+        "Lillia"
+      ],
+      "against": [
+        "Lucian",
+        "Akali",
+        "Quinn",
+        "Samira",
+        "Qiyana"
+      ],
+      "synergy_good": [
+        "Amumu",
+        "Rakan",
+        "Alistar"
+      ],
+      "synergy_bad": [
+        "Taliyah",
+        "Morgana",
+        "Shaco"
+      ]
+    },
+    {
+      "key": 904,
+      "riot_id": "Zaahen",
+      "name": "Zaahen",
+      "title": "O Indissociável",
+      "primary_role": "Fighter",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "counters": [
+        "Leona",
+        "Taric",
+        "Rell",
+        "Alistar",
+        "Braum"
+      ],
+      "against": [
+        "Janna",
+        "Lux",
+        "Malzahar",
+        "Ekko",
+        "Viktor"
+      ],
+      "synergy_good": [
+        "Morgana",
+        "Thresh",
+        "Corki"
+      ],
+      "synergy_bad": [
+        "Volibear",
+        "Akali",
+        "Samira"
+      ]
+    },
+    {
+      "key": 154,
+      "riot_id": "Zac",
+      "name": "Zac",
+      "title": "a Arma Secreta",
+      "primary_role": "Fighter",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "counters": [
+        "Cho'Gath",
+        "Malphite",
+        "Singed",
+        "Tahm Kench",
+        "Galio"
+      ],
+      "against": [
+        "Annie",
+        "Corki",
+        "Mel",
+        "Teemo",
+        "Malzahar"
+      ],
+      "synergy_good": [
+        "Blitzcrank",
+        "Ekko",
+        "Zyra"
+      ],
+      "synergy_bad": [
+        "Samira",
+        "Aatrox",
+        "Ambessa"
+      ]
+    },
+    {
+      "key": 238,
+      "riot_id": "Zed",
+      "name": "Zed",
+      "title": "o Mestre das Sombras",
+      "primary_role": "Assassin",
+      "tags": [
+        "Assassin"
+      ],
+      "counters": [
+        "Janna",
+        "Sylas",
+        "Kog'Maw",
+        "Katarina",
+        "Azir"
+      ],
+      "against": [
+        "Malphite",
+        "Singed",
+        "Maokai",
+        "Ornn",
+        "Amumu"
+      ],
+      "synergy_good": [
+        "Syndra",
+        "Zoe",
+        "Ornn"
+      ],
+      "synergy_bad": [
+        "Zeri",
+        "Jinx",
+        "Kha'Zix"
+      ]
+    },
+    {
+      "key": 221,
+      "riot_id": "Zeri",
+      "name": "Zeri",
+      "title": "A Faísca de Zaun",
+      "primary_role": "Marksman",
+      "tags": [
+        "Marksman"
+      ],
+      "counters": [
+        "Amumu",
+        "Ornn",
+        "Thresh",
+        "Sejuani",
+        "Blitzcrank"
+      ],
+      "against": [
+        "Talon",
+        "Akali",
+        "Vayne",
+        "Pyke",
+        "Quinn"
+      ],
+      "synergy_good": [
+        "Tahm Kench",
+        "Vex",
+        "Sylas"
+      ],
+      "synergy_bad": [
+        "Shaco",
+        "Pyke",
+        "Sivir"
+      ]
+    },
+    {
+      "key": 115,
+      "riot_id": "Ziggs",
+      "name": "Ziggs",
+      "title": "o Especialista em Hexplosivos",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage"
+      ],
+      "counters": [
+        "Pantheon",
+        "Lillia",
+        "Rek'Sai",
+        "K'Sante",
+        "Naafiri"
+      ],
+      "against": [
+        "Quinn",
+        "Shaco",
+        "Akshan",
+        "Lucian",
+        "Akali"
+      ],
+      "synergy_good": [
+        "Rell",
+        "Rammus",
+        "Xayah"
+      ],
+      "synergy_bad": [
+        "Kennen",
+        "Teemo",
+        "Pyke"
+      ]
+    },
+    {
+      "key": 26,
+      "riot_id": "Zilean",
+      "name": "Zilean",
+      "title": "o Guardião do Tempo",
+      "primary_role": "Mage",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "counters": [
+        "Rumble",
+        "Yorick",
+        "Fiora",
+        "Jayce",
+        "Viego"
+      ],
+      "against": [
+        "Samira",
+        "Zed",
+        "Shaco",
+        "Qiyana",
+        "Twitch"
+      ],
+      "synergy_good": [
+        "Graves",
+        "Cho'Gath",
+        "Rammus"
+      ],
+      "synergy_bad": [
+        "Tristana",
+        "Ziggs",
+        "Milio"
+      ]
+    },
+    {
+      "key": 142,
+      "riot_id": "Zoe",
+      "name": "Zoe",
+      "title": "o Aspecto do Crepúsculo",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage"
+      ],
+      "counters": [
+        "Gangplank",
+        "Skarner",
+        "Renekton",
+        "Wukong",
+        "Sion"
+      ],
+      "against": [
+        "Qiyana",
+        "Zed",
+        "Akshan",
+        "Samira",
+        "Kha'Zix"
+      ],
+      "synergy_good": [
+        "Nunu e Willump",
+        "Senna",
+        "Aphelios"
+      ],
+      "synergy_bad": [
+        "Hwei",
+        "Ziggs",
+        "Varus"
+      ]
+    },
+    {
+      "key": 143,
+      "riot_id": "Zyra",
+      "name": "Zyra",
+      "title": "a Ascensão dos Espinhos",
+      "primary_role": "Mage",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "counters": [
+        "Poppy",
+        "Lee Sin",
+        "Fizz",
+        "Lillia",
+        "Dr. Mundo"
+      ],
+      "against": [
+        "Zed",
+        "Lucian",
+        "Akali",
+        "Qiyana",
+        "Quinn"
+      ],
+      "synergy_good": [
+        "Maokai",
+        "Rammus",
+        "Taric"
+      ],
+      "synergy_bad": [
+        "Swain",
+        "Orianna",
+        "Nami"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6049 @@
+{
+  "Aatrox": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Fiora",
+          "Irelia",
+          "Kled",
+          "Singed",
+          "Malphite"
+        ],
+        "against": [
+          "Sion",
+          "Dr. Mundo",
+          "Maokai",
+          "Cho'Gath",
+          "Nasus"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "Aplica muito controle de grupo, facilitando pro Aatrox acertar os pontos criticos do Q."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O engage de longa distancia do Zac permite que o Aatrox chegue na luta facilmente sem ser explodido."
+          },
+          {
+            "champion": "Elise",
+            "reason": "Excelente dupla para dar dive no early game com atordoamento longo e dano explosivo no topo."
+          }
+        ]
+      }
+    ]
+  },
+  "Ahri": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Yasuo",
+          "Zed",
+          "Fizz",
+          "Katarina",
+          "Kassadin"
+        ],
+        "against": [
+          "Xerath",
+          "Vel'Koz",
+          "Azir",
+          "Orianna",
+          "Ryze"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Vi",
+            "reason": "A Vi ulta no alvo isolando-o, garantindo que a Ahri acerte o Charme (E) de graca e despeje todo o combo."
+          },
+          {
+            "champion": "Lee Sin",
+            "reason": "Dano explosivo insano no early game; o Charme da Ahri e a configuracao perfeita para o Q do Lee Sin conectar."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "Ahri tem muita mobilidade para acompanhar os ganks rapidamente e aplicar dano nos alvos congelados."
+          }
+        ]
+      }
+    ]
+  },
+  "Akali": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Vex",
+          "Malzahar",
+          "Galio",
+          "Pantheon",
+          "Annie"
+        ],
+        "against": [
+          "Yasuo",
+          "Yone",
+          "Katarina",
+          "Syndra",
+          "Veigar"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "Prende os inimigos em area, deixando a Akali invisivel na fumaca e livre para fatiar todo mundo sem sofrer dano."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O caos que o Zac causa na linha de tras tira o foco da Akali, criando a brecha perfeita para ela explodir os atiradores."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "Como Akali e assassina melee e bate rapido, ela ajuda a estacar a passiva da Sejuani em um piscar de olhos."
+          }
+        ]
+      }
+    ]
+  },
+  "Akshan": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Yasuo",
+          "Irelia",
+          "Zed",
+          "Syndra",
+          "Anivia"
+        ],
+        "against": [
+          "Kassadin",
+          "Sylas",
+          "Yone",
+          "Katarina",
+          "Galio"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Xin Zhao",
+            "reason": "Uma das duplas mais fortes no early game; juntos eles invadem a selva inimiga e dominam o jogo muito cedo."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "J4 prende o alvo na arena, permitindo que o Akshan use sua ultimate com clareza."
+          },
+          {
+            "champion": "Nunu",
+            "reason": "O controle de grupo e a lentidao do Nunu seguram o alvo pro Akshan conseguir balancar na corda e atirar ao mesmo tempo."
+          }
+        ]
+      }
+    ]
+  },
+  "Alistar": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Morgana",
+          "Janna",
+          "Lulu",
+          "Vayne",
+          "Sylas"
+        ],
+        "against": [
+          "Leona",
+          "Nautilus",
+          "Blitzcrank",
+          "Pyke",
+          "Rell"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Samira",
+            "reason": "Alistar levanta e empurra os alvos, dando o engajamento perfeito e o tempo necessario pra Samira ultar."
+          },
+          {
+            "champion": "Yasuo",
+            "reason": "O combo W+Q do Alistar e um dos levantamentos em area mais dificeis de desviar e prato cheio pro Yasuo ultar."
+          },
+          {
+            "champion": "Kai'Sa",
+            "reason": "O combo do Alistar aplica multiplas marcas de plasma da passiva da Kai'Sa quase que instantaneamente."
+          }
+        ]
+      }
+    ]
+  },
+  "Amumu": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Lee Sin",
+          "Xin Zhao",
+          "Nidalee",
+          "Olaf",
+          "Elise"
+        ],
+        "against": [
+          "Rammus",
+          "Zac",
+          "Sejuani",
+          "Nunu",
+          "Master Yi"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Katarina",
+            "reason": "Amumu prende todo mundo na ultimate, impedindo que interrompam a Katarina rodando a ultimate dela."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "Amumu entra no meio de todos os adversarios carregando a bola da Orianna para um wombo combo destruidor."
+          },
+          {
+            "champion": "Malzahar",
+            "reason": "Malzahar ulta em um, e o Amumu garante que o resto do time fique atordoado e nao possa ajudar."
+          }
+        ]
+      }
+    ]
+  },
+  "Anivia": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Kassadin",
+          "Fizz",
+          "Zed",
+          "Katarina",
+          "Yasuo"
+        ],
+        "against": [
+          "Vladimir",
+          "Ryze",
+          "Cassiopeia",
+          "Annie",
+          "Malzahar"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Trundle",
+            "reason": "O pilar do Trundle comba com a parede de gelo da Anivia, criando quinas que bloqueiam passagens inteiras na selva."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "A arena do J4 prende os inimigos perfeitamente dentro da tempestade da Anivia."
+          },
+          {
+            "champion": "Amumu",
+            "reason": "O enraizamento em area segura os alvos dentro do R da Anivia, garantindo que ela aplique o dano dobrado do seu E."
+          }
+        ]
+      }
+    ]
+  },
+  "Annie": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Syndra",
+          "Orianna",
+          "Xerath",
+          "Vel'Koz",
+          "Zed"
+        ],
+        "against": [
+          "Yasuo",
+          "Yone",
+          "Ahri",
+          "Katarina",
+          "Akali"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "Flash + Tibbers combado sequencialmente com a ultimate do Amumu derrete o time inteiro sem chance de reacao."
+          },
+          {
+            "champion": "Lee Sin",
+            "reason": "O atordoamento da Annie e a configuracao perfeita para garantir que o Lee Sin nao erre suas habilidades no gank."
+          },
+          {
+            "champion": "Vi",
+            "reason": "Lockdown absoluto. Quando as duas ultam no mesmo carregador inimigo, ele morre antes de tocar no chao."
+          }
+        ]
+      }
+    ]
+  },
+  "Aphelios": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Ashe",
+          "Caitlyn",
+          "Jhin",
+          "Miss Fortune",
+          "Varus"
+        ],
+        "against": [
+          "Vayne",
+          "Ezreal",
+          "Sivir",
+          "Xayah",
+          "Kai'Sa"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Thresh",
+            "reason": "O Aphelios nao tem dash; a lanterna do Thresh e sua principal e melhor ferramenta de fuga."
+          },
+          {
+            "champion": "Lulu",
+            "reason": "Buffs absurdos que mantem o Aphelios vivo enquanto ele causa dano brutal em area nas lutas."
+          },
+          {
+            "champion": "Nautilus",
+            "reason": "Muito controle de grupo pesado para manter os inimigos longe, permitindo que o Aphelios limpe a luta com o chakram."
+          }
+        ]
+      }
+    ]
+  },
+  "Ashe": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Draven",
+          "Lucian",
+          "Tristana",
+          "Caitlyn",
+          "Jhin"
+        ],
+        "against": [
+          "Vayne",
+          "Ezreal",
+          "Kalista",
+          "Zeri",
+          "Xayah"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Braum",
+            "reason": "Ashe aplica lentidao no primeiro ataque, permitindo que o Braum chegue perto facilmente para estacar sua passiva."
+          },
+          {
+            "champion": "Leona",
+            "reason": "A flecha da Ashe inicia o atordoamento de muito longe, e a Leona estende o controle por uma eternidade."
+          },
+          {
+            "champion": "Zyra",
+            "reason": "Muito poke na fase de rotas. Se a Ashe acerta a ultimate, a Zyra comba em cima do alvo parado."
+          }
+        ]
+      }
+    ]
+  },
+  "Aurelion Sol": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Zed",
+          "Fizz",
+          "Yone",
+          "Irelia",
+          "Katarina"
+        ],
+        "against": [
+          "Veigar",
+          "Malzahar",
+          "Annie",
+          "Ryze",
+          "Vladimir"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Jarvan IV",
+            "reason": "A arena do J4 prende os alvos dentro do buraco negro e da ultimate colossal do Aurelion Sol."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O engage longo do Zac da o tempo necessario pro Aurelion chegar voando pelo mapa e despejar seu dano em area."
+          },
+          {
+            "champion": "Amumu",
+            "reason": "Outro cacador que segura os inimigos no mesmo lugar para o Aurelion estacar sua poeira estelar."
+          }
+        ]
+      }
+    ]
+  },
+  "Aurora": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Syndra",
+          "Orianna",
+          "Zed",
+          "Akali",
+          "Vex"
+        ],
+        "against": [
+          "Yasuo",
+          "Yone",
+          "Sylas",
+          "Talon",
+          "Annie"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Jarvan IV",
+            "reason": "A ultimate da Aurora prende os inimigos em uma dimensao que comba de forma claustrofobica com a arena do J4."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "Como Aurora tem mobilidade e dano magico de aproximacao, ela ajuda a focar o alvo congelado com facilidade."
+          },
+          {
+            "champion": "Vi",
+            "reason": "A Vi mergulha em um alvo preso na ultimate da Aurora, focando e explodindo a prioridade antes que o time adversario possa ajudar."
+          }
+        ]
+      }
+    ]
+  },
+  "Azir": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Xerath",
+          "Vel'Koz",
+          "Zed",
+          "Kassadin",
+          "Syndra"
+        ],
+        "against": [
+          "Heimerdinger",
+          "Ryze",
+          "Annie",
+          "Cassiopeia",
+          "Malzahar"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "Azir comanda os soldados para atacarem rapido e a distancia, estacando a passiva de congelamento da Sejuani em segundos."
+          },
+          {
+            "champion": "Gragas",
+            "reason": "Azir pode empurrar o time inimigo inteiro com o muro diretamente para os barris explosivos do Gragas."
+          },
+          {
+            "champion": "Lee Sin",
+            "reason": "Ambos podem chutar e empurrar os inimigos para baixo da propria torre desde os primeiros niveis."
+          }
+        ]
+      }
+    ]
+  },
+  "Bardo": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Nautilus",
+          "Leona",
+          "Blitzcrank",
+          "Pyke",
+          "Thresh"
+        ],
+        "against": [
+          "Janna",
+          "Lulu",
+          "Soraka",
+          "Sona",
+          "Yuumi"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Ezreal",
+            "reason": "O Ezreal e seguro o suficiente para ficar sozinho na rota enquanto o Bardo sai pelo mapa para coletar sinos e gankar."
+          },
+          {
+            "champion": "Caitlyn",
+            "reason": "Se o Bardo ultar alguem, a Caitlyn tem tempo de sobra para garantir uma armadilha embaixo do alvo."
+          },
+          {
+            "champion": "Jhin",
+            "reason": "O Bardo acerta o Q com lentidao, e o Jhin acompanha com o W enraizando de muito longe."
+          }
+        ]
+      }
+    ]
+  },
+  "Bel'Veth": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Rammus",
+          "Amumu",
+          "Sejuani",
+          "Poppy",
+          "Xin Zhao"
+        ],
+        "against": [
+          "Master Yi",
+          "Karthus",
+          "Shyvana",
+          "Nidalee",
+          "Evelynn"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Lissandra",
+            "reason": "Lissandra trava o alvo no lugar por muito tempo, permitindo que a Bel'Veth acerte seu W e descarregue os ataques."
+          },
+          {
+            "champion": "Galio",
+            "reason": "Bel'Veth vai com tudo para cima e o Galio acompanha jogando a ultimate em cima dela."
+          },
+          {
+            "champion": "Ahri",
+            "reason": "O charme da Ahri garante que a Bel'Veth conecte todas as suas multiplas investidas na direcao certa."
+          }
+        ]
+      }
+    ]
+  },
+  "Blitzcrank": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Leona",
+          "Alistar",
+          "Braum",
+          "Taric",
+          "Morgana"
+        ],
+        "against": [
+          "Sona",
+          "Soraka",
+          "Nami",
+          "Yuumi",
+          "Janna"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Jinx",
+            "reason": "O Blitzcrank puxa o alvo, e a Jinx joga as armadilhas exatamente onde ele vai cair."
+          },
+          {
+            "champion": "Draven",
+            "reason": "Um puxao bem dado no early game do Blitzcrank e quase sempre uma eliminacao garantida para o dano do Draven."
+          },
+          {
+            "champion": "Kai'Sa",
+            "reason": "Tanto o puxao quanto o levantamento do Blitzcrank contam como controle de grupo, estacando a passiva da Kai'Sa rapidamente."
+          }
+        ]
+      }
+    ]
+  },
+  "Brand": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Blitzcrank",
+          "Pyke",
+          "Leona",
+          "Nautilus",
+          "Xerath"
+        ],
+        "against": [
+          "Janna",
+          "Lulu",
+          "Soraka",
+          "Braum",
+          "Taric"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Ashe",
+            "reason": "A lentidao continua da Ashe torna incrivelmente facil para o Brand acertar o seu Q e atordoar."
+          },
+          {
+            "champion": "Jhin",
+            "reason": "O poke absurdo do Brand prepara os inimigos perfeitamente para serem finalizados pela ultimate do Jhin."
+          },
+          {
+            "champion": "Varus",
+            "reason": "E uma rota infernal para o inimigo, com chuva de dano magico e fisico misturados de longe."
+          }
+        ]
+      }
+    ]
+  },
+  "Braum": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Morgana",
+          "Karma",
+          "Janna",
+          "Zyra",
+          "Lulu"
+        ],
+        "against": [
+          "Leona",
+          "Nautilus",
+          "Thresh",
+          "Pyke",
+          "Rell"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Lucian",
+            "reason": "A passiva de tiro duplo do Lucian ativa as quatro marcas do atordoamento do Braum quase no mesmo instante."
+          },
+          {
+            "champion": "Ashe",
+            "reason": "Ashe deixa todo mundo lento no ataque basico, garantindo que o Braum consiga dar o primeiro soco."
+          },
+          {
+            "champion": "Ezreal",
+            "reason": "Pode jogar na covardia com muito poke e seguranca, aproveitando o escudo do Braum."
+          }
+        ]
+      }
+    ]
+  },
+  "Briar": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Rammus",
+          "Nocturne",
+          "Jax",
+          "Shaco",
+          "Amumu"
+        ],
+        "against": [
+          "Nidalee",
+          "Karthus",
+          "Evelynn",
+          "Lee Sin",
+          "Kha'Zix"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Vex",
+            "reason": "A Vex entra junto nas lutas assim que a Briar acerta a ultimate global, causando terror com dano em area."
+          },
+          {
+            "champion": "Lissandra",
+            "reason": "Lissandra prende o alvo sob o gelo, impedindo que ele fuja ou aplique controles na Briar."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "A Briar entra correndo com a bola da Orianna para o meio do time rival, e a Orianna so precisa apertar R."
+          }
+        ]
+      }
+    ]
+  },
+  "Caitlyn": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Sivir",
+          "Jhin",
+          "Varus",
+          "Ashe",
+          "Tristana"
+        ],
+        "against": [
+          "Vayne",
+          "Draven",
+          "Lucian",
+          "Ezreal",
+          "Kai'Sa"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Morgana",
+            "reason": "A Ligacao das Trevas prende o alvo tempo suficiente para a Caitlyn colocar uma armadilha logo embaixo dele."
+          },
+          {
+            "champion": "Lux",
+            "reason": "Se a Lux acerta o Q, e armadilha da Caitlyn seguida das duas ultimates disparando de longe."
+          },
+          {
+            "champion": "Thresh",
+            "reason": "O puxao do Thresh garante a armadilha, e a lanterna resolve a falta de dash da Caitlyn."
+          }
+        ]
+      }
+    ]
+  },
+  "Camille": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Jax",
+          "Fiora",
+          "Shen",
+          "Darius",
+          "Mordekaiser"
+        ],
+        "against": [
+          "Gnar",
+          "Aatrox",
+          "Sion",
+          "Kayle",
+          "Yasuo"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "A Camille pode travar o adversario em sua ultimate, facilitando muito o dive com o congelamento em cadeia."
+          },
+          {
+            "champion": "Vi",
+            "reason": "A Camille prende o alvo principal na sua ultimate, e a Vi aplica a propria ultimate logo em seguida."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O salto do Zac da selva acompanha o tempo e a distancia enormes do gancho da Camille."
+          }
+        ]
+      }
+    ]
+  },
+  "Cassiopeia": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Syndra",
+          "Orianna",
+          "Xerath",
+          "Vel'Koz",
+          "Zed"
+        ],
+        "against": [
+          "Yasuo",
+          "Yone",
+          "Sylas",
+          "Ryze",
+          "Vladimir"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Jarvan IV",
+            "reason": "Os alvos ficam presos na arena de pedra em cima da Miasma da Cassiopeia, impedindo o uso do flash."
+          },
+          {
+            "champion": "Amumu",
+            "reason": "Segura varios membros do time adversario, garantindo que a Cassiopeia tenha tempo para virar e soltar o atordoamento."
+          },
+          {
+            "champion": "Zac",
+            "reason": "Mantem a linha de frente inimiga pulando e recebendo lentidao constante, protegendo a Cassiopeia."
+          }
+        ]
+      }
+    ]
+  },
+  "Cho'Gath": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Fiora",
+          "Darius",
+          "Kled",
+          "Sett",
+          "Vayne"
+        ],
+        "against": [
+          "Malphite",
+          "Sion",
+          "Maokai",
+          "Nasus",
+          "Vladimir"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "Dois tanques com muito controle em area para fechar passagem na selva e absorver todo o dano da luta."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O levantamento inicial do Zac garante que o Cho'Gath consiga mirar e acertar a sua ruptura."
+          },
+          {
+            "champion": "Elise",
+            "reason": "O casulo da Elise paralisa logo no early game, sendo o encaixe necessario para o Cho alinhar as habilidades."
+          }
+        ]
+      }
+    ]
+  },
+  "Corki": {
+    "note": "Corki tem duas leituras importantes no Champion Deck: ADC e Mid.",
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Kai'Sa",
+          "Vayne",
+          "Ezreal",
+          "Smolder",
+          "Zeri"
+        ],
+        "against": [
+          "Draven",
+          "Lucian",
+          "Tristana",
+          "Samira",
+          "Caitlyn"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Lulu",
+            "reason": "Protecao e scaling absurdo para deixar o Corki escalar e bater livre."
+          },
+          {
+            "champion": "Nami",
+            "reason": "Sustain, poke e buff de troca curta que combinam bem com o estilo seguro do Corki."
+          },
+          {
+            "champion": "Janna",
+            "reason": "Peel forte e disengage excelente para manter o Corki vivo nas lutas."
+          }
+        ],
+        "warning": "Existem anotacoes antigas misturadas com Aphelios nesse bloco, entao esta leitura prioriza a ideia de suportes protetores para Corki ADC."
+      },
+      {
+        "label": "Mid",
+        "counters": [
+          "Zed",
+          "Yasuo",
+          "Yone",
+          "Talon",
+          "Qiyana"
+        ],
+        "against": [
+          "Kassadin",
+          "Azir",
+          "Ryze",
+          "Cassiopeia",
+          "Vladimir"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "O dano constante do Corki acompanha os ganks agressivos da Sejuani e estaca a passiva dela com eficiencia."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "J4 tranca os alvos com seu cataclismo, criando a area ideal para o Corki soltar todas as bombas."
+          },
+          {
+            "champion": "Amumu",
+            "reason": "A ultimate do Amumu enraiza os inimigos em grande area, o cenario dos sonhos para o Corki vir com o Pacote."
+          }
+        ]
+      }
+    ]
+  },
+  "Darius": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Quinn",
+          "Vayne",
+          "Teemo",
+          "Jayce",
+          "Wukong"
+        ],
+        "against": [
+          "Sion",
+          "Nasus",
+          "Yasuo",
+          "Garen",
+          "Mordekaiser"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Xin Zhao",
+            "reason": "Potencial de 2v2 no early game fortissimo para invadir a selva inimiga e lutar por todos os aronguejos."
+          },
+          {
+            "champion": "Hecarim",
+            "reason": "O engage muito rapido do Hecarim compensa a falta de velocidade e dash do Darius para chegar nos inimigos."
+          },
+          {
+            "champion": "Nunu",
+            "reason": "A lentidao absurda das bolas de neve garante que o Darius grude no alvo e consiga empilhar as 5 marcas de sangramento sem ser caitado."
+          }
+        ]
+      }
+    ]
+  },
+  "Diana": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Xin Zhao",
+          "Udyr",
+          "Rammus",
+          "Warwick",
+          "Trundle"
+        ],
+        "against": [
+          "Evelynn",
+          "Nidalee",
+          "Karthus",
+          "Master Yi",
+          "Shaco"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Yasuo",
+            "reason": "O classico do LoL. A Diana puxa todo mundo pro centro jogando pro ar, ativando a ultimate do Yasuo instantaneamente em varios alvos."
+          },
+          {
+            "champion": "Yone",
+            "reason": "Combo de aglomeracao letal. Ambos juntam o time inimigo no mesmo pixel com muito dano em area, sem deixar ninguem respirar."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "A Diana e o veiculo perfeito. Ela entra com a bola da Orianna anexada, puxa todos, e a Orianna explode sua propria ultimate por cima."
+          }
+        ]
+      }
+    ]
+  },
+  "Dr. Mundo": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Aatrox",
+          "Kled",
+          "Gwen",
+          "Fiora",
+          "Illaoi"
+        ],
+        "against": [
+          "Teemo",
+          "Malphite",
+          "Maokai",
+          "Sion",
+          "Cho'Gath"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "O Mundo fica na linha de frente batendo corpo a corpo, ajudando a estacar o congelamento dela enquanto os dois absorvem todo o dano do mundo."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O salto longo do Zac inicia a luta para o Mundo vir correndo enlouquecido logo de tras, ativando a ultimate sem ser focado primeiro."
+          },
+          {
+            "champion": "Amumu",
+            "reason": "Prende o time inimigo inteiro em uma grande area, facilitando muito para o Mundo acertar os cutelos repetidamente."
+          }
+        ]
+      }
+    ]
+  },
+  "Draven": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Caitlyn",
+          "Ashe",
+          "Varus",
+          "Miss Fortune",
+          "Jhin"
+        ],
+        "against": [
+          "Vayne",
+          "Ezreal",
+          "Sivir",
+          "Kai'Sa",
+          "Lucian"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Thresh",
+            "reason": "Protege o Draven e fornece o puxao e controle exato para que ele comece a descarregar as machadadas com agressividade total na rota."
+          },
+          {
+            "champion": "Pyke",
+            "reason": "Sinergia financeira absoluta. A passiva de adoracao do Draven comba com a divisao de ouro da ultimate do Pyke, acelerando a build dos dois."
+          },
+          {
+            "champion": "Leona",
+            "reason": "Tranca o alvo no chao por muito tempo. O Draven so precisa ficar quase parado pegando os machados e derretendo a barra de vida do inimigo."
+          }
+        ]
+      }
+    ]
+  },
+  "Ekko": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Rengar",
+          "Rek'Sai",
+          "Xin Zhao",
+          "Lee Sin",
+          "Kha'Zix"
+        ],
+        "against": [
+          "Amumu",
+          "Zac",
+          "Sejuani",
+          "Karthus",
+          "Shyvana"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Talon",
+            "reason": "Muito burst misturando dano magico do Ekko com o fisico do Talon, alem de mobilidade extrema para invadir a selva inimiga juntos."
+          },
+          {
+            "champion": "LeBlanc",
+            "reason": "Facilidade tremenda para dar dive. Ambos entram debaixo da torre, explodem o alvo e usam suas habilidades para voltar para um local seguro."
+          },
+          {
+            "champion": "Ahri",
+            "reason": "O charme da Ahri mantem o inimigo andando lentamente e sem reacao, o tempo exato pro Ekko posicionar a convergencia paralela e atordoar em cheio."
+          }
+        ]
+      }
+    ]
+  },
+  "Elise": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Rengar",
+          "Xin Zhao",
+          "Udyr",
+          "Olaf",
+          "Lee Sin"
+        ],
+        "against": [
+          "Zac",
+          "Sejuani",
+          "Amumu",
+          "Rammus",
+          "Nunu"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Syndra",
+            "reason": "As duas juntas possuem muito dano magico explosivo e controle de grupo focado num alvo so logo nos primeiros niveis."
+          },
+          {
+            "champion": "Zed",
+            "reason": "O melhor duo para anular o inimigo debaixo da torre. Elise toma o dano da torre e sobe inalvejavel no rapel, enquanto o Zed finaliza o alvo e sai na sombra."
+          },
+          {
+            "champion": "Lissandra",
+            "reason": "Lockdown point-and-click. Lissandra prende o alvo na ultimate ou no enraizamento, garantindo que a Elise acerte o casulo sem chance de erro."
+          }
+        ]
+      }
+    ]
+  },
+  "Evelynn": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Rengar",
+          "Rek'Sai",
+          "Lee Sin",
+          "Xin Zhao",
+          "Kha'Zix"
+        ],
+        "against": [
+          "Nunu",
+          "Ivern",
+          "Zac",
+          "Rammus",
+          "Amumu"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Qiyana",
+            "reason": "A Evelynn entra com dano magico e a Qiyana com dano fisico. Ambas sao assassinas que apagam alvos frageis antes que eles consigam clicar em qualquer coisa."
+          },
+          {
+            "champion": "Galio",
+            "reason": "O Galio fornece o controle de grupo massivo e a protecao que a Evelynn precisa caso ela seja descoberta e perca a invisibilidade antes de estourar o alvo."
+          },
+          {
+            "champion": "Ahri",
+            "reason": "Mais uma vez, o charme brilha. A Ahri controla a movimentacao do inimigo, facilitando para a Evelynn carregar o charme de sua propria marca."
+          }
+        ]
+      }
+    ]
+  },
+  "Ezreal": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Vayne",
+          "Draven",
+          "Kalista",
+          "Tristana",
+          "Lucian"
+        ],
+        "against": [
+          "Jinx",
+          "Aphelios",
+          "Ashe",
+          "Varus",
+          "Xayah"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Karma",
+            "reason": "Rota focada em irritar o inimigo com poke de longe. A Karma da escudo e velocidade extra para o Ezreal se reposicionar e continuar atirando os Qs."
+          },
+          {
+            "champion": "Bardo",
+            "reason": "Como o Ezreal e super seguro sozinho gracas ao E, o Bardo pode sair pelo mapa coletando sinos e ajudando o time sem que a torre do bot caia."
+          },
+          {
+            "champion": "Braum",
+            "reason": "Joga na seguranca absoluta. O Ezreal farma protegido pela barricada do Braum e ativa a passiva de atordoamento de uma distancia segura usando o Q."
+          }
+        ]
+      }
+    ]
+  },
+  "Fiddlesticks": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Xin Zhao",
+          "Lee Sin",
+          "Rek'Sai",
+          "Olaf",
+          "Udyr"
+        ],
+        "against": [
+          "Master Yi",
+          "Zac",
+          "Nunu",
+          "Rammus",
+          "Amumu"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Galio",
+            "reason": "O Fiddle entra ultando por cima da parede de um ponto cego, causando terror. O Galio logo em seguida usa a ultimate caindo em cima dele, estendendo o controle em area."
+          },
+          {
+            "champion": "Yone",
+            "reason": "O Yone puxa todo o time inimigo pra linha reta com a ultimate, criando o bolinho perfeito pro Fiddle pular do mato e drenar a vida de todos juntos."
+          },
+          {
+            "champion": "Lissandra",
+            "reason": "Ela trava o alvo principal e aplica lentidao em area, dando o tempo precioso que o Fiddle precisa para canalizar a Tempestade de Corvos."
+          }
+        ]
+      }
+    ]
+  },
+  "Fiora": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Malphite",
+          "Pantheon",
+          "Kennen",
+          "Teemo",
+          "Akali"
+        ],
+        "against": [
+          "Aatrox",
+          "Kled",
+          "Sion",
+          "Mordekaiser",
+          "Ornn"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Vi",
+            "reason": "O isolamento e o lockdown garantidos pela ultimate da Vi seguram o alvo imovel, permitindo que a Fiora circule e estoure todas as marcas da ultimate dela."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "Como a Fiora ataca muito rapido corpo a corpo para estourar os pontos vitais, ela estaca a passiva de congelamento da Sejuani em questao de segundos."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "A parede gerada pela arena do Jarvan tira o espaco de fuga do inimigo, forcando o duelo de perto exatamente no cenario onde a Fiora e imbativel."
+          }
+        ]
+      }
+    ]
+  },
+  "Fizz": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Kassadin",
+          "Vex",
+          "Pantheon",
+          "Galio",
+          "Lissandra"
+        ],
+        "against": [
+          "Syndra",
+          "Vel'Koz",
+          "Xerath",
+          "Veigar",
+          "Twisted Fate"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Vi",
+            "reason": "E uma sentenca de morte pro atirador inimigo. A Vi trava o alvo levantando-o, e o Fizz joga o tubarao gigante com dano maximo."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "O Fizz escorrega usando o Q direto no inimigo, o que inicia o combo do proprio dano e ja ajuda a empilhar as marcas de gelo da Sejuani quase no mesmo instante."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O estilingue elastico do Zac vindo da selva joga o alvo pra cima, o que facilita imensamente para o Fizz arremessar a ultimate da distancia maxima."
+          }
+        ]
+      }
+    ]
+  },
+  "Galio": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Vex",
+          "Yasuo",
+          "Zed",
+          "Talon",
+          "Lucian"
+        ],
+        "against": [
+          "Katarina",
+          "Akali",
+          "Fizz",
+          "Syndra",
+          "LeBlanc"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Jarvan IV",
+            "reason": "O J4 entra prendendo todo mundo na arena e o Galio usa a ultimate nele, criando um controle de grupo massivo de onde ninguem foge."
+          },
+          {
+            "champion": "Nocturne",
+            "reason": "A paranoia do Nocturne escurece o mapa enquanto ele mergulha no alvo, sendo o passageiro perfeito para a ultimate heroica do Galio."
+          },
+          {
+            "champion": "Vi",
+            "reason": "A Vi foca o atirador inimigo com a ultimate e o Galio cai logo em seguida, garantindo a morte do carregador antes de ele tocar no chao."
+          }
+        ]
+      }
+    ]
+  },
+  "Gangplank": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Riven",
+          "Irelia",
+          "Quinn",
+          "Tryndamere",
+          "Vladimir"
+        ],
+        "against": [
+          "Teemo",
+          "Renekton",
+          "Shen",
+          "Kennen",
+          "Malphite"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Zac",
+            "reason": "O levantamento e a confusao causados pelo Zac dao o tempo que o Gangplank precisa para armar a corrente de barris sem que o inimigo os destrua."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "A arena do cataclismo prende os alvos no mesmo lugar, o cenario dos sonhos para o GP despejar a ultimate e explodir barris ali dentro."
+          },
+          {
+            "champion": "Karthus",
+            "reason": "Uma combinacao letal de duas ultimates globais. Os dois podem apertar R da base e acabar com uma luta no bot sem nem estarem la."
+          }
+        ]
+      }
+    ]
+  },
+  "Garen": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Teemo",
+          "Quinn",
+          "Vayne",
+          "Camille",
+          "Darius"
+        ],
+        "against": [
+          "Jax",
+          "Renekton",
+          "Riven",
+          "Irelia",
+          "Nasus"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Nunu",
+            "reason": "A lentidao extrema da bola de neve do Nunu garante que o inimigo nao consiga fugir do giro continuo do Garen."
+          },
+          {
+            "champion": "Vi",
+            "reason": "O atordoamento direto da Vi prende o alvo perfeitamente para o Garen chegar silenciando e finalizar com a espada de Demacia."
+          },
+          {
+            "champion": "Xin Zhao",
+            "reason": "Uma dupla de early game muito agressiva. Excelentes para lutas 2v2 no rio garantindo os aronguejos e dominio da selva inimiga."
+          }
+        ]
+      }
+    ]
+  },
+  "Gnar": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Irelia",
+          "Yasuo",
+          "Sylas",
+          "Wukong",
+          "Riven"
+        ],
+        "against": [
+          "Garen",
+          "Darius",
+          "Teemo",
+          "Shen",
+          "Renekton"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Jarvan IV",
+            "reason": "O J4 prende todo mundo no cataclismo, e o Mega Gnar chega logo em seguida empurrando e atordoando todos na parede criada pelo proprio J4."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O engage longo do Zac inicia a luta de longe, dando o tempo certinho que o Mini Gnar precisa para encher a barra de furia e se transformar pulando na briga."
+          },
+          {
+            "champion": "Lee Sin",
+            "reason": "Alta mobilidade e combos plasticos. O Lee Sin pode chutar um inimigo importante diretamente na direcao da parede onde o Mega Gnar esta pronto para atordoar."
+          }
+        ]
+      }
+    ]
+  },
+  "Gragas": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Xin Zhao",
+          "Lee Sin",
+          "Olaf",
+          "Rek'Sai",
+          "Jarvan IV"
+        ],
+        "against": [
+          "Zac",
+          "Rammus",
+          "Sejuani",
+          "Amumu",
+          "Nunu"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Yasuo",
+            "reason": "O classico do competitivo. O Gragas usa o barril explosivo para levantar multiplos alvos, servindo o Yasuo de bandeja para a ultimate."
+          },
+          {
+            "champion": "Yone",
+            "reason": "O Yone puxa todo o time inimigo para uma linha reta, e o Gragas complementa explodindo todos os alvos no mesmo lugar."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "O Gragas entra dando a barrigada com a bola da Orianna presa a ele, sendo um excelente iniciador para a onda de choque dela."
+          }
+        ]
+      }
+    ]
+  },
+  "Graves": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Elise",
+          "Nidalee",
+          "Rammus",
+          "Zac",
+          "Nunu"
+        ],
+        "against": [
+          "Lee Sin",
+          "Xin Zhao",
+          "Kha'Zix",
+          "Viego",
+          "Jarvan IV"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Galio",
+            "reason": "O Galio provoca os inimigos em area, segurando-os no lugar exato para o Graves acertar a ida e a volta explosiva do seu Q."
+          },
+          {
+            "champion": "Twisted Fate",
+            "reason": "A carta dourada do TF e a garantia de que o inimigo ficara parado tempo suficiente para o Graves colar nele e descarregar a espingarda."
+          },
+          {
+            "champion": "Lissandra",
+            "reason": "Assim como o TF, a Lissandra tem um lockdown pesado que trava o alvo, permitindo que o Graves maximize seu dano a curta distancia."
+          }
+        ]
+      }
+    ]
+  },
+  "Gwen": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Fiora",
+          "Riven",
+          "Jax",
+          "Tryndamere",
+          "Renekton"
+        ],
+        "against": [
+          "Dr. Mundo",
+          "Sion",
+          "Cho'Gath",
+          "Maokai",
+          "Ornn"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "A Gwen e corpo a corpo e bate rapido com as tesouradas, o que ajuda a empilhar o congelamento da Sejuani rapidamente enquanto derrete a armadura do alvo."
+          },
+          {
+            "champion": "Maokai",
+            "reason": "O enraizamento forte do Maokai segura os inimigos presos na area central do Q da Gwen, onde ela causa o dano verdadeiro."
+          },
+          {
+            "champion": "Zac",
+            "reason": "Ele joga a linha de tras inimiga pro ar e causa caos, permitindo que a Gwen use sua nevoa sagrada com calma para avancar cortando a linha de frente."
+          }
+        ]
+      }
+    ]
+  },
+  "Hecarim": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Kha'Zix",
+          "Shaco",
+          "Rengar",
+          "Master Yi",
+          "Nocturne"
+        ],
+        "against": [
+          "Nunu",
+          "Zac",
+          "Amumu",
+          "Sejuani",
+          "Rammus"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Orianna",
+            "reason": "O Hecarim entra correndo a 1000 km/h pelo flanco carregando a bola da Orianna, puxando e destruindo todos na luta de equipe."
+          },
+          {
+            "champion": "Galio",
+            "reason": "O Hecarim inicia o ataque assustando todos com a ultimate, e o Galio coroa a jogada caindo em cima dele com a propria ultimate."
+          },
+          {
+            "champion": "Zilean",
+            "reason": "O buff de velocidade do Zilean alem de fazer o ponei voar, aumenta muito o dano base dele e ainda da uma segunda vida de garantia."
+          }
+        ]
+      }
+    ]
+  },
+  "Heimerdinger": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Syndra",
+          "Yasuo",
+          "Irelia",
+          "Zed",
+          "Xerath"
+        ],
+        "against": [
+          "Fizz",
+          "Katarina",
+          "LeBlanc",
+          "Vex",
+          "Akali"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "O Amumu trava os inimigos no chao exatamente no meio do ninho de torres do Heimerdinger, fazendo eles levarem dano continuo sem poder reagir."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O Zac mergulha na linha de tras e fica arremessando os inimigos que tentam fugir de volta para a linha de tiro do Heimerdinger."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "Os inimigos presos na arena do J4 ficam trancados em um espaco pequeno tomando tiros dos canhoes e foguetes sem escapatoria."
+          }
+        ]
+      }
+    ]
+  },
+  "Hwei": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Zed",
+          "Yasuo",
+          "Fizz",
+          "Yone",
+          "Katarina"
+        ],
+        "against": [
+          "Azir",
+          "Orianna",
+          "Malzahar",
+          "Annie",
+          "Ryze"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Vi",
+            "reason": "A Vi isola e derruba um alvo importante, dando o tempo claro e facil para o Hwei combinar as tintas certas sem errar."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "Pela falta de mobilidade, o Hwei depende de alvos agrupados. A arena do J4 e a tela em branco perfeita para ele despejar todo o seu arsenal de magias em area."
+          },
+          {
+            "champion": "Amumu",
+            "reason": "A ultimate do Amumu enraiza o time adversario em grande area, combinando perfeitamente com a ultimate de desespero do Hwei."
+          }
+        ]
+      }
+    ]
+  },
+  "Illaoi": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Yorick",
+          "Mordekaiser",
+          "Tryndamere",
+          "Quinn",
+          "Teemo"
+        ],
+        "against": [
+          "Urgot",
+          "Sion",
+          "Renekton",
+          "Garen",
+          "Jax"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "Se o Amumu prender 4 ou 5 pessoas na ultimate, a Illaoi pode pular com a dela gerando um numero absurdo de tentaculos destruindo todos em segundos."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "Ele obriga os inimigos a gastarem o flash ou ficarem trancados na arena apanhando dos tentaculos enlouquecidos da Illaoi."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "Fornece o controle de grupo pesado no gank para garantir que a Illaoi nao erre o Teste de Espirito, que e sua habilidade mais importante na rota."
+          }
+        ]
+      }
+    ]
+  },
+  "Irelia": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Vex",
+          "Cassiopeia",
+          "Annie",
+          "Malzahar",
+          "Yasuo"
+        ],
+        "against": [
+          "Zed",
+          "Talon",
+          "Katarina",
+          "Syndra",
+          "Orianna"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "A Irelia e absurdamente veloz nos ataques corpo a corpo, conseguindo estacar o congelamento da Sejuani de forma quase que instantanea na rota."
+          },
+          {
+            "champion": "Diana",
+            "reason": "A Diana engaja agrupando todo mundo no centro, o que e um prato cheio para a Irelia espalhar as laminas da ultimate e atordoar todos juntos."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "O J4 forca os inimigos a gastarem seus feiticos de fuga para sair da arena, deixando-os vulneraveis para a Irelia deslizar de alvo em alvo."
+          }
+        ]
+      }
+    ]
+  },
+  "Ivern": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Rengar",
+          "Kha'Zix",
+          "Lee Sin",
+          "Xin Zhao",
+          "Nidalee"
+        ],
+        "against": [
+          "Rammus",
+          "Amumu",
+          "Sejuani",
+          "Zac",
+          "Nunu"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Yasuo",
+            "reason": "O Ivern invoca a Margarida, e no terceiro acerto ela joga o alvo para o ar, servindo como ativador para a ultimate do Yasuo."
+          },
+          {
+            "champion": "Annie",
+            "reason": "Rota do caos total com mascotes. Uma briga de equipe com a Margarida do Ivern e o Tibbers da Annie cria uma confusao gigante na linha de frente inimiga."
+          },
+          {
+            "champion": "Cassiopeia",
+            "reason": "O enraizamento longo do Ivern da a Cassiopeia um alvo facil e estatico para derreter de perto, enquanto o Ivern da escudo continuo para ela sobreviver."
+          }
+        ]
+      }
+    ]
+  },
+  "Janna": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Blitzcrank",
+          "Pyke",
+          "Nami",
+          "Sona",
+          "Senna"
+        ],
+        "against": [
+          "Leona",
+          "Alistar",
+          "Rell",
+          "Nautilus",
+          "Tahm Kench"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Vayne",
+            "reason": "O escudo da Janna da muito AD extra para a Vayne trocar tiros, e o furacao impede que assassinos pulem nela."
+          },
+          {
+            "champion": "Draven",
+            "reason": "Muito escudo para o Draven jogar de forma agressiva e o feitico de lentidao perfeito para ele alcancar o alvo e descarregar as machadadas."
+          },
+          {
+            "champion": "Jinx",
+            "reason": "A Janna protege a Jinx durante a fase mais fraca dela e garante a velocidade de movimento que ela precisa para nao ser pega."
+          }
+        ]
+      }
+    ]
+  },
+  "Jarvan IV": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Lee Sin",
+          "Xin Zhao",
+          "Graves",
+          "Elise",
+          "Nidalee"
+        ],
+        "against": [
+          "Zac",
+          "Sejuani",
+          "Amumu",
+          "Rammus",
+          "Nunu"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Orianna",
+            "reason": "O Wombo Combo classico. Jarvan prende todos no cataclismo, e a Orianna puxa todo mundo dentro da arena, sem chance de fuga."
+          },
+          {
+            "champion": "Galio",
+            "reason": "Jarvan pula, prende os alvos na arena, e o Galio usa a ultimate caindo em cima dele, criando uma zona de controle de grupo absoluta."
+          },
+          {
+            "champion": "Qiyana",
+            "reason": "O cataclismo do J4 funciona como um terreno artificial, que a Qiyana pode usar para explodir a propria ultimate e atordoar o time todo."
+          }
+        ]
+      }
+    ]
+  },
+  "Jax": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Malphite",
+          "Garen",
+          "Jayce",
+          "Kennen",
+          "Akali"
+        ],
+        "against": [
+          "Irelia",
+          "Camille",
+          "Fiora",
+          "Gwen",
+          "Tryndamere"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "O Jax bate muito rapido no corpo a corpo, estacando a marca de congelamento da Sejuani quase que instantaneamente."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O levantamento longo do Zac da todo o tempo que o Jax precisa para ligar o helicoptero, pular e atordoar o inimigo na queda."
+          },
+          {
+            "champion": "Elise",
+            "reason": "Excelente duo para mergulhar debaixo da torre. Elise atordoa e tira o foco da torre, enquanto o Jax explode o alvo e ignora ataques basicos."
+          }
+        ]
+      }
+    ]
+  },
+  "Jayce": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Irelia",
+          "Wukong",
+          "Malphite",
+          "Yorick",
+          "Sion"
+        ],
+        "against": [
+          "Teemo",
+          "Gnar",
+          "Darius",
+          "Renekton",
+          "Singed"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Elise",
+            "reason": "Combo brutal de early game. Muito dano hibrido que derrete qualquer top laner adversario nos primeiros niveis."
+          },
+          {
+            "champion": "Nidalee",
+            "reason": "Rota do poke extremo. Os dois podem bombardear o inimigo a distancia antes mesmo da luta comecar."
+          },
+          {
+            "champion": "Lee Sin",
+            "reason": "Alta mobilidade e letalidade; o Lee Sin consegue acompanhar os pulos do Jayce e garantir abates rapidos na parte de cima do mapa."
+          }
+        ]
+      }
+    ]
+  },
+  "Jhin": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Tristana",
+          "Vayne",
+          "Lucian",
+          "Draven",
+          "Twitch"
+        ],
+        "against": [
+          "Caitlyn",
+          "Ashe",
+          "Miss Fortune",
+          "Ezreal",
+          "Varus"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Nautilus",
+            "reason": "O Jhin aproveita a ancora pesada do Nautilus para atirar de longe e estender o enraizamento usando o seu W confortavelmente."
+          },
+          {
+            "champion": "Leona",
+            "reason": "A Leona paralisa o alvo no chao por muito tempo, permitindo que o Jhin acerte o 4 tiro critico sem que o inimigo reaja."
+          },
+          {
+            "champion": "Zyra",
+            "reason": "Rota da opressao. A Zyra da muito dano magico e, quando ela prende o alvo, o Jhin tambem o enraiza logo em seguida."
+          }
+        ]
+      }
+    ]
+  },
+  "Jinx": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Twitch",
+          "Draven",
+          "Tristana",
+          "Lucian",
+          "Miss Fortune"
+        ],
+        "against": [
+          "Aphelios",
+          "Zeri",
+          "Sivir",
+          "Xayah",
+          "Vayne"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Thresh",
+            "reason": "O Thresh puxa o alvo garantindo as armadilhas da Jinx no chao, e a lanterna salva ela da sua maior fraqueza: a falta de mobilidade para fugir."
+          },
+          {
+            "champion": "Lulu",
+            "reason": "Velocidade de ataque insana, escudos enormes e ultimate salva-vidas. Transforma a Jinx numa verdadeira maquina de guerra no final do jogo."
+          },
+          {
+            "champion": "Blitzcrank",
+            "reason": "Qualquer puxao do Blitzcrank debaixo da torre e garantia de que a Jinx colocara as armadilhas onde o inimigo cair, garantindo o abate."
+          }
+        ]
+      }
+    ]
+  },
+  "K'Sante": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Garen",
+          "Fiora",
+          "Darius",
+          "Gwen",
+          "Jax"
+        ],
+        "against": [
+          "Sion",
+          "Ornn",
+          "Maokai",
+          "Malphite",
+          "Cho'Gath"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "Muito tempo de controle de grupo na linha de frente; o K'Sante segura e empurra o alvo, facilitando o congelamento e o dive."
+          },
+          {
+            "champion": "Vi",
+            "reason": "Isolamento puro. A Vi foca o atirador inimigo e o K'Sante usa a ultimate dele para empurrar e sumir com o outro carregador pelo muro."
+          },
+          {
+            "champion": "Lee Sin",
+            "reason": "O Lee Sin chuta o alvo para o alcance do K'Sante, que o empurra ainda mais para tras, isolando completamente um inimigo importante."
+          }
+        ]
+      }
+    ]
+  },
+  "Kai'Sa": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Caitlyn",
+          "Ashe",
+          "Draven",
+          "Miss Fortune",
+          "Jhin"
+        ],
+        "against": [
+          "Ezreal",
+          "Vayne",
+          "Sivir",
+          "Lucian",
+          "Zeri"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Nautilus",
+            "reason": "A melhor sinergia nativa dela. Todos os ataques e controles de grupo do Nautilus aplicam marcas de plasma, ativando a passiva da Kai'Sa em segundos."
+          },
+          {
+            "champion": "Leona",
+            "reason": "Assim como o Nautilus, a Leona tem 3 habilidades de controle que empilham as marcas da Kai'Sa muito rapido, alem de segurar o alvo parado."
+          },
+          {
+            "champion": "Alistar",
+            "reason": "O combo de levantar do Alistar permite que a Kai'Sa use a ultimate de longe voando para explodir o alvo com a chuva icathiana."
+          }
+        ]
+      }
+    ]
+  },
+  "Kalista": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Ashe",
+          "Draven",
+          "Caitlyn",
+          "Twitch",
+          "Vayne"
+        ],
+        "against": [
+          "Ezreal",
+          "Sivir",
+          "Zeri",
+          "Lucian",
+          "Xayah"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Thresh",
+            "reason": "Dupla lendaria. A Kalista salva o Thresh puxando-o com a ultimate, e ele salva a Kalista puxando-a com a lanterna."
+          },
+          {
+            "champion": "Alistar",
+            "reason": "A Kalista arremessa o Alistar como uma bola de boliche no meio dos inimigos, e ele finaliza a jogada levantando todo mundo no ar."
+          },
+          {
+            "champion": "Leona",
+            "reason": "Muito agressivo no nivel 2. Kalista joga a Leona com a ultimate e nao da qualquer janela para o alvo escapar do atordoamento."
+          }
+        ]
+      }
+    ]
+  },
+  "Karma": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Nami",
+          "Sona",
+          "Soraka",
+          "Yuumi",
+          "Senna"
+        ],
+        "against": [
+          "Leona",
+          "Braum",
+          "Alistar",
+          "Tahm Kench",
+          "Nautilus"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Ezreal",
+            "reason": "Rota extremamente irritante de poke. O Ezreal atira de longe, e a Karma inferniza o atirador adversario com os feiticos turbinados pela ultimate dela."
+          },
+          {
+            "champion": "Caitlyn",
+            "reason": "As duas espremem o inimigo debaixo da torre e punem qualquer passo errado, destruindo barricadas rapidamente e ganhando vantagem de ouro."
+          },
+          {
+            "champion": "Ashe",
+            "reason": "A lentidao da Ashe comba perfeitamente com a lentidao da Karma, forcando o enraizamento da corrente sem que o alvo consiga correr."
+          }
+        ]
+      }
+    ]
+  },
+  "Karthus": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Xin Zhao",
+          "Lee Sin",
+          "Rengar",
+          "Kha'Zix",
+          "Nidalee"
+        ],
+        "against": [
+          "Amumu",
+          "Sejuani",
+          "Rammus",
+          "Zac",
+          "Nunu"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Galio",
+            "reason": "O Galio prende todo mundo no chao, enquanto o Karthus farma tranquilamente do outro lado do mapa, apenas esperando os inimigos ficarem com pouca vida para ultar."
+          },
+          {
+            "champion": "Lissandra",
+            "reason": "A Lissandra trava o alvo fugao, dando o tempo exato para o Karthus isolar seus Qs no chao e explodir a barra de vida dele."
+          },
+          {
+            "champion": "Twisted Fate",
+            "reason": "Controle global de mapa. Ambos ultam, dao visao de todos os inimigos, e punem quem tentar fugir com pouca vida."
+          }
+        ]
+      }
+    ]
+  },
+  "Kassadin": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Zed",
+          "Talon",
+          "Pantheon",
+          "Qiyana",
+          "Yasuo"
+        ],
+        "against": [
+          "Katarina",
+          "Fizz",
+          "Ekko",
+          "Veigar",
+          "Aurelion Sol"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Vi",
+            "reason": "A Vi foca o atirador de longa distancia com a ultimate, dando o espaco que o Kassadin precisa para pular em cima e aplicar todo o dano sem ser focado."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O caos do Zac na linha de tras tira a atencao do time inimigo, abrindo a porta para o Kassadin limpar a luta no final."
+          },
+          {
+            "champion": "Lee Sin",
+            "reason": "Como o Kassadin e fraco no comeco do jogo, o Lee Sin agressivo o protege de invasoes, garantindo que o Kassadin escale ate o nivel 16."
+          }
+        ]
+      }
+    ]
+  },
+  "Katarina": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Kassadin",
+          "Annie",
+          "Malzahar",
+          "Galio",
+          "Vex"
+        ],
+        "against": [
+          "Veigar",
+          "Vel'Koz",
+          "Xerath",
+          "Lux",
+          "Syndra"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "Segura todo o time adversario em area, deixando a Katarina girar a ultimate inteira livre de cancelamentos e garantindo multiplos abates."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O levantar e bater do Zac tambem tira a atencao, permitindo que a Katarina pule resetando as adagas sem ser parada por controles de grupo."
+          },
+          {
+            "champion": "Hecarim",
+            "reason": "O Hecarim entra causando terror, baguncando o posicionamento adversario, que e tudo que a Katarina precisa para limpar quem sobrar vivo."
+          }
+        ]
+      }
+    ]
+  },
+  "Kayle": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Irelia",
+          "Jax",
+          "Renekton",
+          "Camille",
+          "Riven"
+        ],
+        "against": [
+          "Garen",
+          "Darius",
+          "Mordekaiser",
+          "Illaoi",
+          "Singed"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "A Sejuani protege a fragil Kayle no inicio do jogo, e depois a Kayle, quando corpo a corpo, empilha rapidamente o gelo da parceira."
+          },
+          {
+            "champion": "Zac",
+            "reason": "A Kayle pode usar sua ultimate de invencibilidade no Zac assim que ele pular no meio de 5 inimigos, causando muito dano em area com seguranca."
+          },
+          {
+            "champion": "Rammus",
+            "reason": "O tatu provoca e segura o inimigo no lugar apanhando, dando espaco livre para a Kayle bater sem parar de tras."
+          }
+        ]
+      }
+    ]
+  },
+  "Kayn": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Graves",
+          "Xin Zhao",
+          "Lee Sin",
+          "Nidalee",
+          "Rek'Sai"
+        ],
+        "against": [
+          "Zac",
+          "Amumu",
+          "Rammus",
+          "Sejuani",
+          "Nunu"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Galio",
+            "reason": "O Kayn pode entrar no corpo do alvo inimigo pela ultimate, e o Galio pode ultar diretamente no Kayn, jogando todo o time inimigo pro alto assim que o Kayn sair."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "O Kayn entra pelas paredes correndo super rapido para iniciar o combate, servindo como o portador perfeito para a bola letal da Orianna."
+          },
+          {
+            "champion": "Lissandra",
+            "reason": "A rainha de gelo prende o alvo, deixando facil para o Kayn acertar o W com forma Azul ou Vermelha."
+          }
+        ]
+      }
+    ]
+  },
+  "Kennen": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Sylas",
+          "Irelia",
+          "Jayce",
+          "Ryze",
+          "Vladimir"
+        ],
+        "against": [
+          "Garen",
+          "Darius",
+          "Renekton",
+          "Jax",
+          "Fiora"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "Amumu prende todo mundo na ultimate, e o Kennen entra como um raio usando a dele logo em cima. O time inimigo morre atordoado sem se mexer."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "A arena do Jarvan prende os alvos dentro do pequeno circulo eletrico do Kennen, forcando eles a tomarem todo o dano e o atordoamento."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "Como o Kennen quer focar nas lutas de equipe, a Sejuani facilita os combates absorvendo dano de frente enquanto ele atira shurikens e flanqueia pelas costas."
+          }
+        ]
+      }
+    ]
+  },
+  "Kha'Zix": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Rengar",
+          "Lee Sin",
+          "Xin Zhao",
+          "Udyr",
+          "Elise"
+        ],
+        "against": [
+          "Evelynn",
+          "Karthus",
+          "Nidalee",
+          "Lillia",
+          "Zac"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Malzahar",
+            "reason": "O Malzahar trava o inimigo na ultimate isolando-o das tropas, criando a mecanica perfeita para o Kha'Zix aplicar o dano extra de alvo isolado no seu Q."
+          },
+          {
+            "champion": "Lissandra",
+            "reason": "Similar ao Malzahar, ela congela e isola. O Kha'Zix so precisa pular da escuridao e finalizar o inimigo sem levar retaliacao."
+          },
+          {
+            "champion": "Galio",
+            "reason": "Se o Kha'Zix ficar em apuros depois de pular, a ultimate do Galio traz a linha de frente e a salvacao necessarias para ele fugir usando a invisibilidade."
+          }
+        ]
+      }
+    ]
+  },
+  "Kindred": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Lee Sin",
+          "Xin Zhao",
+          "Kha'Zix",
+          "Rengar",
+          "Elise"
+        ],
+        "against": [
+          "Zac",
+          "Sejuani",
+          "Rammus",
+          "Amumu",
+          "Nunu"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Galio",
+            "reason": "A ultimate da Kindred cria um circulo de invencibilidade. Quando o circulo acaba, o Galio ulta no meio jogando todo o time inimigo para cima."
+          },
+          {
+            "champion": "Lissandra",
+            "reason": "A Lissandra trava alvos permitindo que a Kindred marque e ataque de longe, estacando marcas livremente no inicio do jogo."
+          },
+          {
+            "champion": "Zilean",
+            "reason": "Com as duas ultimates e as marcas sendo bem empilhadas, e quase impossivel matar algum membro desse time se eles jogarem agrupados."
+          }
+        ]
+      }
+    ]
+  },
+  "Kled": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Fiora",
+          "Shen",
+          "Jax",
+          "Poppy",
+          "Teemo"
+        ],
+        "against": [
+          "Aatrox",
+          "Sion",
+          "Vladimir",
+          "Irelia",
+          "Darius"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "Muito engajamento corpo a corpo e desespero. Kled avanca puxando a Sejuani com a ultimate, estacando o atordoamento muito rapido."
+          },
+          {
+            "champion": "Elise",
+            "reason": "O Kled puxa com a armadilha na corda, e a Elise atira o casulo com garantia total de acerto, punindo o alvo de forma fatal no early game."
+          },
+          {
+            "champion": "Hecarim",
+            "reason": "Os dois ativam suas ultimates em alta velocidade e cruzam o mapa juntos destruindo completamente a teamfight inimiga em poucos segundos."
+          }
+        ]
+      }
+    ]
+  },
+  "Kog'Maw": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Draven",
+          "Caitlyn",
+          "Lucian",
+          "Tristana",
+          "Jhin"
+        ],
+        "against": [
+          "Vayne",
+          "Ezreal",
+          "Sivir",
+          "Zeri",
+          "Aphelios"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Lulu",
+            "reason": "A maior e mais classica sinergia do jogo. A Lulu buffa o Kog'Maw com escudos, vida extra e velocidade de ataque absurda, tornando-o um canhao intocavel."
+          },
+          {
+            "champion": "Braum",
+            "reason": "O Braum fica na frente levantando o escudo enquanto o Kog'Maw vomita de longe livremente, alem de aplicar o atordoamento nos inimigos facilmente."
+          },
+          {
+            "champion": "Janna",
+            "reason": "Traz a protecao de peel necessaria para o Kog'Maw, que e muito fragil e nao tem habilidades de fuga."
+          }
+        ]
+      }
+    ]
+  },
+  "LeBlanc": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Vex",
+          "Malzahar",
+          "Lissandra",
+          "Galio",
+          "Syndra"
+        ],
+        "against": [
+          "Akali",
+          "Katarina",
+          "Ekko",
+          "Veigar",
+          "Ahri"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Lee Sin",
+            "reason": "Muito dano explosivo e muita mobilidade no early game. Um gank deles e mortal em qualquer parte do mapa e facilita muito vitorias rapidas."
+          },
+          {
+            "champion": "Elise",
+            "reason": "E a morte certa. A LeBlanc enraiza o inimigo com a corrente, o que garante 100% de acerto no casulo de paralisacao da Elise."
+          },
+          {
+            "champion": "Vi",
+            "reason": "A Vi ultando no alvo tira completamente qualquer chance do inimigo esquivar do burst da LeBlanc, derretendo o adversario na hora."
+          }
+        ]
+      }
+    ]
+  },
+  "Lee Sin": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Rek'Sai",
+          "Elise",
+          "Udyr",
+          "Warwick",
+          "Nocturne"
+        ],
+        "against": [
+          "Zac",
+          "Amumu",
+          "Sejuani",
+          "Rammus",
+          "Evelynn"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "LeBlanc",
+            "reason": "Dupla super agressiva e rapida. Dominam os primeiros 15 minutos de jogo invadindo as selvas e garantindo first blood com facilidade."
+          },
+          {
+            "champion": "Ahri",
+            "reason": "O charme da Ahri obriga o alvo a andar em uma linha reta previsivel, tornando impossivel para o Lee Sin errar seu Q de aproximacao."
+          },
+          {
+            "champion": "Syndra",
+            "reason": "Um alvo que sofre o atordoamento e e focado pela ultimate de esferas da Syndra morre instantaneamente quando o Lee Sin complementa o combo."
+          }
+        ]
+      }
+    ]
+  },
+  "Leona": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Morgana",
+          "Janna",
+          "Thresh",
+          "Alistar",
+          "Taric"
+        ],
+        "against": [
+          "Sona",
+          "Soraka",
+          "Yuumi",
+          "Nami",
+          "Senna"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Draven",
+            "reason": "A Leona enraiza o inimigo por tempo suficiente para que as machadadas monstruosas do Draven aniquilem o alvo ainda na fase de rotas."
+          },
+          {
+            "champion": "Samira",
+            "reason": "Extrema agressividade em grupo; o atordoamento longo da Leona permite que a Samira empilhe sua nota para atingir o nivel S da ultimate com muita folga."
+          },
+          {
+            "champion": "Jhin",
+            "reason": "A Leona engaja e o Jhin estende o tempo parado enraizando com a marca de seu tiro no chao, trancando o atirador inimigo a merce dos tiros criticos."
+          }
+        ]
+      }
+    ]
+  },
+  "Lillia": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Kha'Zix",
+          "Rengar",
+          "Lee Sin",
+          "Xin Zhao",
+          "Jarvan IV"
+        ],
+        "against": [
+          "Rammus",
+          "Sejuani",
+          "Zac",
+          "Amumu",
+          "Nunu"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Yasuo",
+            "reason": "A Lillia usa o boliche e adormece varios, criando lutas desengajadas perfeitas pro Yasuo."
+          },
+          {
+            "champion": "Yone",
+            "reason": "O sono em area de 5 pessoas da Lillia e uma configuracao de ouro para que o Yone acerte sua ultimate destruindo todo o time inimigo agrupado."
+          },
+          {
+            "champion": "Galio",
+            "reason": "A Lillia corre rapido pro meio adormecendo todo mundo; o Galio usa a ultimate por cima cravando todos no chao assim que acordam."
+          }
+        ]
+      }
+    ]
+  },
+  "Lissandra": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Syndra",
+          "Orianna",
+          "Xerath",
+          "Vel'Koz",
+          "Cassiopeia"
+        ],
+        "against": [
+          "Zed",
+          "LeBlanc",
+          "Fizz",
+          "Katarina",
+          "Akali"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Elise",
+            "reason": "A Lissandra tem controle garantido. Ao usar a ultimate no inimigo, a Elise tem a chance perfeita de colar e aplicar todo seu combo com o casulo."
+          },
+          {
+            "champion": "Vi",
+            "reason": "A Vi e a Lissandra tem ultimates impossiveis de desviar. Juntas, podem travar o atirador inimigo morto no mesmo local por varios segundos."
+          },
+          {
+            "champion": "Lee Sin",
+            "reason": "A Lissandra avanca enraizando, dando um alvo estatico e livre de problemas para o Lee Sin dar gank com seguranca nas primeiras levas."
+          }
+        ]
+      }
+    ]
+  },
+  "Lucian": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Caitlyn",
+          "Ashe",
+          "Draven",
+          "Miss Fortune",
+          "Jhin"
+        ],
+        "against": [
+          "Vayne",
+          "Ezreal",
+          "Sivir",
+          "Kai'Sa",
+          "Zeri"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Nami",
+            "reason": "E o duo padrao mais forte dele no competitivo. A bencao da mare da Nami aumenta muito o dano da passiva de tiros rapidos do Lucian no inicio do jogo."
+          },
+          {
+            "champion": "Braum",
+            "reason": "A passiva do Lucian aplica o atordoamento de quatro marcas do Braum de forma incrivelmente rapida e constante."
+          },
+          {
+            "champion": "Leona",
+            "reason": "Pressao imediata de matar. Quando a Leona aponta e paralisa, o Lucian so precisa descarregar a rajada completa para finalizar a jogada."
+          }
+        ]
+      }
+    ]
+  },
+  "Lulu": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Blitzcrank",
+          "Pyke",
+          "Leona",
+          "Nautilus",
+          "Zyra"
+        ],
+        "against": [
+          "Janna",
+          "Soraka",
+          "Sona",
+          "Yuumi",
+          "Karma"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Vayne",
+            "reason": "Buffs massivos transformam a Vayne em um monstro rapido e imorrivel, dando velocidade de ataque, movimento, vida e um escudo espesso."
+          },
+          {
+            "champion": "Kog'Maw",
+            "reason": "A dupla classica; protege perfeitamente o atirador sem mobilidade enquanto aumenta assustadoramente a cadencia de disparos dele de longe."
+          },
+          {
+            "champion": "Jinx",
+            "reason": "Igual a Vayne, os esteroides que a Lulu entrega para uma Jinx engatilhada tornam o efeito cascata dela uma sentenca de morte."
+          }
+        ]
+      }
+    ]
+  },
+  "Lux": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Fizz",
+          "Zed",
+          "Yasuo",
+          "Katarina",
+          "Irelia"
+        ],
+        "against": [
+          "Veigar",
+          "Annie",
+          "Ryze",
+          "Cassiopeia",
+          "Malzahar"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "A ultimate em area do Amumu garante que ninguem do time inimigo consiga desviar da centelha final de luz gigante que a Lux lancara pela tela inteira."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "A arena de pedra prende os inimigos perfeitamente fechados para tomarem o atordoamento de luz da Lux e em seguida a ultimate no mesmo pixel."
+          },
+          {
+            "champion": "Vi",
+            "reason": "A Vi isola jogando o inimigo pro ar, tempo suficiente para a Lux mirar, lancar todas as suas habilidades no chao e apertar R explodindo o alvo."
+          }
+        ]
+      }
+    ]
+  },
+  "Malphite": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Sylas",
+          "Mordekaiser",
+          "Rumble",
+          "Vladimir",
+          "Cho'Gath"
+        ],
+        "against": [
+          "Jax",
+          "Tryndamere",
+          "Fiora",
+          "Irelia",
+          "Jayce"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "O pesadelo das lutas de equipe. Malphite levanta todos com a Forca Incontrolavel e o Amumu prende todos no chao logo em seguida."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "A arena do J4 junta os inimigos em um espaco minusculo, o cenario perfeito para o Malphite entrar voando e aplicar dano maximo em area."
+          },
+          {
+            "champion": "Zac",
+            "reason": "Outra dupla de iniciacao a longa distancia. O Zac mergulha jogando a linha de tras pro alto, dando espaco para o Malphite isolar e explodir os atiradores."
+          }
+        ]
+      }
+    ]
+  },
+  "Malzahar": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Syndra",
+          "Orianna",
+          "Xerath",
+          "Vel'Koz",
+          "Viktor"
+        ],
+        "against": [
+          "Yasuo",
+          "Yone",
+          "Zed",
+          "Katarina",
+          "LeBlanc"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Vi",
+            "reason": "As duas ultimates sao de clique direto e nao podem ser esquivadas. Se a Vi ou o Malzahar ultarem no alvo, e abate garantido."
+          },
+          {
+            "champion": "Kha'Zix",
+            "reason": "O Malzahar trava o inimigo na ultimate, isolando-o do proprio time. O Kha'Zix pula para aplicar o dano isolado massivo sem chance de reacao."
+          },
+          {
+            "champion": "Rengar",
+            "reason": "A supressao do Malzahar tira qualquer chance do alvo usar Zhonya ou flash, sendo o tapete vermelho pro Rengar pular e explodir."
+          }
+        ]
+      }
+    ]
+  },
+  "Maokai": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Mordekaiser",
+          "Darius",
+          "Illaoi",
+          "Kled",
+          "Aatrox"
+        ],
+        "against": [
+          "Malphite",
+          "Teemo",
+          "Kennen",
+          "Jayce",
+          "Quinn"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "Muito controle de grupo. O Maokai avanca enraizando o alvo, garantindo tempo de sobra para a Sejuani chegar e aplicar o congelamento completo."
+          },
+          {
+            "champion": "Elise",
+            "reason": "O Maokai empurra o alvo e o prende no chao com o avancar, dando um alvo totalmente estatico para a Elise acertar o casulo e o dano explosivo."
+          },
+          {
+            "champion": "Lee Sin",
+            "reason": "O Maokai trava o adversario, facilitando imensamente o acerto do Q do Lee Sin logo nos primeiros niveis para garantir bola de neve na rota."
+          }
+        ]
+      }
+    ]
+  },
+  "Master Yi": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Rammus",
+          "Udyr",
+          "Jax",
+          "Xin Zhao",
+          "Shaco"
+        ],
+        "against": [
+          "Amumu",
+          "Zac",
+          "Sejuani",
+          "Nunu",
+          "Karthus"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Lulu",
+            "reason": "A estrategia classica de funneling. A Lulu da escudos, velocidade e vida extra, transformando o Master Yi em um hypercarry imortal."
+          },
+          {
+            "champion": "Galio",
+            "reason": "O Master Yi entra correndo no meio de 5 para fatiar os inimigos, e o Galio usa a ultimate caindo em cima dele para dar controle de grupo e protecao."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "Igual ao Galio, o Master Yi carrega a bola da Orianna para o meio da equipe inimiga com sua velocidade absurda, garantindo uma onda de choque devastadora."
+          }
+        ]
+      }
+    ]
+  },
+  "Milio": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Blitzcrank",
+          "Pyke",
+          "Nautilus",
+          "Leona",
+          "Thresh"
+        ],
+        "against": [
+          "Lulu",
+          "Janna",
+          "Soraka",
+          "Sona",
+          "Yuumi"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Lucian",
+            "reason": "A fogueira do Milio aumenta o alcance e o dano do Lucian, permitindo que ele jogue de forma opressiva na rota sem se expor tanto."
+          },
+          {
+            "champion": "Aphelios",
+            "reason": "O Milio fornece protecao contra controle de grupo e um aumento de alcance que torna as armas do Aphelios ainda mais mortais de longe."
+          },
+          {
+            "champion": "Jinx",
+            "reason": "A fogueira do Milio faz a Jinx atirar de uma distancia quase fora da tela, batendo livremente nas lutas de equipe."
+          }
+        ]
+      }
+    ]
+  },
+  "Miss Fortune": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Draven",
+          "Tristana",
+          "Lucian",
+          "Samira",
+          "Nilah"
+        ],
+        "against": [
+          "Vayne",
+          "Ezreal",
+          "Aphelios",
+          "Jinx",
+          "Ashe"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Leona",
+            "reason": "A Leona tranca o alvo no chao por muito tempo com seu combo de atordoamentos, permitindo que a Miss Fortune descarregue a ultimate inteira nele."
+          },
+          {
+            "champion": "Amumu",
+            "reason": "A ultimate em area do Amumu prende multiplos alvos perfeitamente alinhados para a ultimate em cone destruidora da Miss Fortune."
+          },
+          {
+            "champion": "Nautilus",
+            "reason": "O controle de grupo longo e pesado do Nautilus segura os inimigos no lugar exato onde a chuva de balas da MF vai cair com dano maximo."
+          }
+        ]
+      }
+    ]
+  },
+  "Mordekaiser": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Fiora",
+          "Vayne",
+          "Olaf",
+          "Jax",
+          "Tryndamere"
+        ],
+        "against": [
+          "Malphite",
+          "Sion",
+          "Maokai",
+          "Cho'Gath",
+          "Garen"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "Ambos fornecem dano magico alto e muita resistencia; a Sejuani ajuda a segurar o alvo para o Mordekaiser esmagar com o Q sem errar."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O engajamento do Zac cria confusao suficiente para que o Mordekaiser caminhe calmamente e escolha quem ele vai levar para o Reino da Morte."
+          },
+          {
+            "champion": "Amumu",
+            "reason": "O Amumu enraiza todo mundo do lado de fora, permitindo que o Mordekaiser isole o atirador inimigo na sua ultimate e vença a luta 1v1."
+          }
+        ]
+      }
+    ]
+  },
+  "Morgana": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Karma",
+          "Sona",
+          "Soraka",
+          "Yuumi",
+          "Nami"
+        ],
+        "against": [
+          "Leona",
+          "Nautilus",
+          "Blitzcrank",
+          "Thresh",
+          "Pyke"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Caitlyn",
+            "reason": "A Ligacao das Trevas da Morgana prende o alvo tempo suficiente para a Caitlyn colocar uma armadilha embaixo dele com tranquilidade."
+          },
+          {
+            "champion": "Jhin",
+            "reason": "A Morgana acerta a poca ou o Q, ativando a marca pro Jhin usar o W dele, criando uma cadeia de enraizamentos."
+          },
+          {
+            "champion": "Ashe",
+            "reason": "A lentidao constante das flechas da Ashe torna incrivelmente facil para a Morgana acertar o seu atordoamento longo na fase de rotas."
+          }
+        ]
+      }
+    ]
+  },
+  "Nami": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Blitzcrank",
+          "Pyke",
+          "Leona",
+          "Nautilus",
+          "Thresh"
+        ],
+        "against": [
+          "Janna",
+          "Lulu",
+          "Soraka",
+          "Sona",
+          "Yuumi"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Lucian",
+            "reason": "Sinergia nativa fortissima. A bencao da mare da Nami comba perfeitamente com a passiva de tiros duplos do Lucian para dar burst no early game."
+          },
+          {
+            "champion": "Draven",
+            "reason": "A bolha da Nami garante que o Draven acerte suas machadadas, e a cura mantem o Draven agressivo durante toda a fase de rotas."
+          },
+          {
+            "champion": "Jhin",
+            "reason": "A ultimate da Nami joga os alvos pro alto e aplica lentidao, o cenario ideal pro Jhin abrir a propria ultimate de tras."
+          }
+        ]
+      }
+    ]
+  },
+  "Nasus": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Darius",
+          "Teemo",
+          "Camille",
+          "Illaoi",
+          "Aatrox"
+        ],
+        "against": [
+          "Malphite",
+          "Maokai",
+          "Sion",
+          "Kayle",
+          "Vladimir"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Zac",
+            "reason": "O Zac pula da selva e levanta o inimigo, dando tempo pro Nasus aplicar a lentidao extrema do murchar e comecar a bater com o Q empilhado."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "Muito dano no gank e controle de grupo; a Sejuani compensa a falta de mobilidade do Nasus segurando o alvo no lugar."
+          },
+          {
+            "champion": "Elise",
+            "reason": "A Elise traz o dano magico e a paralisacao precoce no early game para garantir que o Nasus consiga farmar os primeiros minutos com seguranca."
+          }
+        ]
+      }
+    ]
+  },
+  "Nautilus": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Morgana",
+          "Janna",
+          "Braum",
+          "Taric",
+          "Rell"
+        ],
+        "against": [
+          "Yuumi",
+          "Sona",
+          "Soraka",
+          "Nami",
+          "Pyke"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Samira",
+            "reason": "O Nautilus fornece o controle de grupo pesado e longo necessario para a Samira empilhar seu rank S e pular na luta rodando a ultimate."
+          },
+          {
+            "champion": "Kai'Sa",
+            "reason": "Todos os puxoes, lentidoes e atordoamentos do Nautilus aplicam marcas de plasma da passiva da Kai'Sa de forma quase instantanea."
+          },
+          {
+            "champion": "Jhin",
+            "reason": "O Nautilus prende o alvo com a ancora, e o Jhin estende o tempo parado enraizando com o seu W de muito longe."
+          }
+        ]
+      }
+    ]
+  },
+  "Neeko": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Syndra",
+          "Orianna",
+          "Xerath",
+          "Vel'Koz",
+          "Zed"
+        ],
+        "against": [
+          "Yasuo",
+          "Yone",
+          "Akali",
+          "Katarina",
+          "Sylas"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "A Neeko entra disfarçada e aplica a sua ultimate em area, que pode ser imediatamente seguida pela ultimate do Amumu, aniquilando a teamfight."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "O J4 prende os alvos no cataclismo, garantindo que a ultimate da Neeko, que tem um tempo de canalizacao, acerte todo mundo sem que eles fujam."
+          },
+          {
+            "champion": "Zac",
+            "reason": "Outra sinergia de mergulho. O Zac joga os inimigos para o ar, dando espaco para a Neeko chegar invisivel ou disfarçada para descarregar o dano em area."
+          }
+        ]
+      }
+    ]
+  },
+  "Nidalee": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Rengar",
+          "Kha'Zix",
+          "Xin Zhao",
+          "Lee Sin",
+          "Elise"
+        ],
+        "against": [
+          "Amumu",
+          "Zac",
+          "Sejuani",
+          "Nunu",
+          "Karthus"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Renekton",
+            "reason": "O atordoamento de alvo unico do Renekton e a configuracao perfeita para garantir que a Nidalee nao erre sua lanca a longa distancia."
+          },
+          {
+            "champion": "Twisted Fate",
+            "reason": "A carta dourada do TF trava o inimigo instantaneamente, facilitando o acerto da lanca da Nidalee e o dano explosivo."
+          },
+          {
+            "champion": "LeBlanc",
+            "reason": "Altissimo burst magico e mobilidade absurda para invadir e eliminar a selva adversaria desde o nivel 3 com extrema facilidade."
+          }
+        ]
+      }
+    ]
+  },
+  "Nilah": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Xayah",
+          "Caitlyn",
+          "Ashe",
+          "Draven",
+          "Miss Fortune"
+        ],
+        "against": [
+          "Vayne",
+          "Ezreal",
+          "Sivir",
+          "Kai'Sa",
+          "Jinx"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Taric",
+            "reason": "Como a Nilah e corpo a corpo, ela mergulha junto com a invulnerabilidade da ultimate do Taric e usa o atordoamento dele conectado a ela para iniciar lutas."
+          },
+          {
+            "champion": "Rell",
+            "reason": "A Rell atrai todo mundo com seu combo de engajamento, servindo como a bandeja perfeita para a Nilah rodar no meio com sua propria ultimate."
+          },
+          {
+            "champion": "Senna",
+            "reason": "A Senna cobre a fraqueza do alcance da Nilah dando poke de longe, enquanto cura e acelera a Nilah nas trocas de perto."
+          }
+        ]
+      }
+    ]
+  },
+  "Nocturne": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Rammus",
+          "Udyr",
+          "Xin Zhao",
+          "Warwick",
+          "Shaco"
+        ],
+        "against": [
+          "Evelynn",
+          "Karthus",
+          "Nidalee",
+          "Master Yi",
+          "Lillia"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Galio",
+            "reason": "O Nocturne ativa a paranoia, escurece o mapa e mergulha. O Galio entao ulta em cima dele caindo como um meteoro heroico do ceu."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "O Nocturne e o vetor ideal. Ele voa em direcao ao alvo mais importante com a bola da Orianna presa a ele, ativando a onda de choque assim que aterrissa."
+          },
+          {
+            "champion": "Shen",
+            "reason": "A ultimate global do Shen da um escudo gigantesco pro Nocturne enquanto ele voa pelo mapa escuro, caindo na cabeca do alvo protegido e pronto pra briga."
+          }
+        ]
+      }
+    ]
+  },
+  "Nunu e Willump": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Lee Sin",
+          "Xin Zhao",
+          "Kha'Zix",
+          "Nidalee",
+          "Elise"
+        ],
+        "against": [
+          "Rammus",
+          "Amumu",
+          "Zac",
+          "Sejuani",
+          "Malphite"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Yasuo",
+            "reason": "A bola de neve gigante do Nunu levanta os alvos no ar, funcionando como o ativador perfeito e imprevisivel para a ultimate do Yasuo da rota do meio."
+          },
+          {
+            "champion": "Galio",
+            "reason": "O Nunu canaliza a ultimate escondido. Se descobrirem, o Galio usa sua ultimate em cima dele, protegendo-o enquanto o Nunu explode a area."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "A bola da Orianna anexada ao Nunu rolando a bola de neve cria uma ameaca dupla, onde os inimigos precisam desviar de duas ameacas em area ao mesmo tempo."
+          }
+        ]
+      }
+    ]
+  },
+  "Olaf": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Jarvan IV",
+          "Trundle",
+          "Udyr",
+          "Xin Zhao",
+          "Lee Sin"
+        ],
+        "against": [
+          "Amumu",
+          "Sejuani",
+          "Zac",
+          "Rammus",
+          "Nunu"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Orianna",
+            "reason": "O Olaf liga a ultimate, ganha a bola da Orianna e corre enlouquecido pelo meio do time inimigo para esmagar os atiradores com a onda de choque."
+          },
+          {
+            "champion": "Galio",
+            "reason": "O Olaf mergulha fundo com a invulnerabilidade de CC, e o Galio garante a sobrevivencia dele no meio dos cinco inimigos ultando em cima do viking."
+          },
+          {
+            "champion": "Lulu",
+            "reason": "O sonho do Olaf. A Lulu da escudos, muita velocidade de movimento e crescimento para um campeao que os inimigos ja nao conseguem parar."
+          }
+        ]
+      }
+    ]
+  },
+  "Orianna": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Syndra",
+          "Xerath",
+          "Zed",
+          "LeBlanc",
+          "Fizz"
+        ],
+        "against": [
+          "Annie",
+          "Ryze",
+          "Cassiopeia",
+          "Vladimir",
+          "Malzahar"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Jarvan IV",
+            "reason": "O combo supremo do LoL. O J4 pula prendendo todos no cataclismo e a Orianna puxa todo mundo dentro da arena com a Onda de Choque."
+          },
+          {
+            "champion": "Wukong",
+            "reason": "O macaco fica invisivel, entra no meio dos inimigos e usa sua ultimate de levantamento. A Orianna acompanha instantaneamente maximizando o controle em area."
+          },
+          {
+            "champion": "Nocturne",
+            "reason": "A paranoia escurece o mapa enquanto o Nocturne pula no alvo chave invisivel para os outros, levando a ultimate da Orianna de brinde no pouso."
+          }
+        ]
+      }
+    ]
+  },
+  "Ornn": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Fiora",
+          "Illaoi",
+          "Darius",
+          "Gwen",
+          "Camille"
+        ],
+        "against": [
+          "Malphite",
+          "Sion",
+          "Teemo",
+          "Kennen",
+          "Jayce"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "Como os dois sao de Freljord, o Ornn ataca corpo a corpo ajudando a estacar o gelo da Sejuani, alem de juntos serem a linha de frente mais dura do jogo."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O bode gigante avanca lancando a cabra de fogo, e o Zac pula das sombras complementando com mais levantamentos em cadeia, inutilizando qualquer reacao."
+          },
+          {
+            "champion": "Amumu",
+            "reason": "Amumu prende os alvos na maldicao da mumia, o que garante 100% de acerto na longa canalizacao da ultimate do Ornn."
+          }
+        ]
+      }
+    ]
+  },
+  "Pantheon": {
+    "note": "Pantheon pode ser lido como Mid ou Top, mas este Champion Deck prioriza a leitura Mid para manter consistencia com as sinergias enviadas.",
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Syndra",
+          "Orianna",
+          "Xerath",
+          "Vel'Koz",
+          "Cassiopeia"
+        ],
+        "against": [
+          "Yasuo",
+          "Yone",
+          "Zed",
+          "Talon",
+          "Katarina"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Elise",
+            "reason": "E a sentenca de morte da rota. O Pantheon pula e atordoa o inimigo com o W, o que garante 100% de precisao para o casulo e explosao da Elise."
+          },
+          {
+            "champion": "Taliyah",
+            "reason": "O atordoamento no clique do Pantheon garante que o alvo sofra o combo completo das pedras da Taliyah com empurrao, gerando dano magico fatal."
+          },
+          {
+            "champion": "Nidalee",
+            "reason": "Igual a Elise, o Pantheon pula com o escudo prendendo o inimigo, criando o alvo estatico perfeito para a lanca da Nidalee bater com o alcance maximo."
+          }
+        ]
+      }
+    ]
+  },
+  "Poppy": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Darius",
+          "Teemo",
+          "Illaoi",
+          "Garen",
+          "Olaf"
+        ],
+        "against": [
+          "Riven",
+          "Irelia",
+          "Jax",
+          "Yasuo",
+          "Camille"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Jarvan IV",
+            "reason": "A arena gerada pelo Jarvan IV e um muro artificial, sendo o cenario ideal para a Poppy usar o Encontrão e atordoar o alvo na parede criada pelo aliado."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "Muito controle de grupo em cadeia; a Poppy impede dashes inimigos, mantendo-os perto o suficiente para a Sejuani aplicar seu congelamento."
+          },
+          {
+            "champion": "Lee Sin",
+            "reason": "Combos plasticos. O Lee Sin pode chutar o inimigo diretamente na direcao de uma parede onde a Poppy ja esta esperando para atordoa-lo."
+          }
+        ]
+      }
+    ]
+  },
+  "Pyke": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Nautilus",
+          "Leona",
+          "Alistar",
+          "Thresh",
+          "Rell"
+        ],
+        "against": [
+          "Sona",
+          "Soraka",
+          "Yuumi",
+          "Nami",
+          "Senna"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Draven",
+            "reason": "A passiva de adoracao de ouro do Draven comba com a divisao de ouro da ultimate do Pyke, causando um snowball absurdo de dinheiro no inicio do jogo."
+          },
+          {
+            "champion": "Samira",
+            "reason": "Extrema agressividade. O Pyke puxa e paralisa, abrindo a janela para a Samira entrar com os golpes de espada, subindo sua nota rapidamente nas lutas."
+          },
+          {
+            "champion": "Miss Fortune",
+            "reason": "O Pyke puxa, atordoa ou aplica lentidao em area nos inimigos, criando a aglomeracao ideal para a ultimate de cone da Miss Fortune varrer a rota."
+          }
+        ]
+      }
+    ]
+  },
+  "Qiyana": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Vex",
+          "Malzahar",
+          "Annie",
+          "Pantheon",
+          "Diana"
+        ],
+        "against": [
+          "Zed",
+          "Talon",
+          "Katarina",
+          "Syndra",
+          "Orianna"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Jarvan IV",
+            "reason": "A arena do Jarvan conta como terreno, permitindo que a Qiyana use sua ultimate nas paredes criadas por ele para explodir o time inimigo inteiro."
+          },
+          {
+            "champion": "Taliyah",
+            "reason": "O muro gigante da Taliyah tambem cria o ambiente perfeito para a Qiyana achar angulos criativos para ultar e atordoar."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "A Qiyana e assassina corpo a corpo e tem controle de grupo, encaixando muito bem para estourar o congelamento da Sejuani."
+          }
+        ]
+      }
+    ]
+  },
+  "Quinn": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Irelia",
+          "Malphite",
+          "Teemo",
+          "Camille",
+          "Pantheon"
+        ],
+        "against": [
+          "Renekton",
+          "Garen",
+          "Darius",
+          "Riven",
+          "Jax"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Elise",
+            "reason": "Dano hibrido fortissimo no early game. A Quinn cega e aplica vulnerabilidade, enquanto a Elise paralisa e derrete com dano magico."
+          },
+          {
+            "champion": "Lee Sin",
+            "reason": "Alta letalidade no comeco do jogo. O salto da Quinn desacelera o alvo, deixando facil para o Lee Sin conectar o seu Q."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "Como a Quinn e atiradora e tem mobilidade, ela chega rapido aos ganks e usa o alcance para punir o alvo que a Sejuani segurar no lugar."
+          }
+        ]
+      }
+    ]
+  },
+  "Rakan": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Morgana",
+          "Janna",
+          "Thresh",
+          "Leona",
+          "Nautilus"
+        ],
+        "against": [
+          "Sona",
+          "Soraka",
+          "Yuumi",
+          "Nami",
+          "Karma"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Xayah",
+            "reason": "Sinergia nativa e explicita do jogo. Ganham buffs mutuos nas habilidades, pulo mais longo para o Rakan e retorno base conjunto."
+          },
+          {
+            "champion": "Yasuo",
+            "reason": "O combo W do Rakan levanta rapidamente multiplos alvos no ar, funcionando como o ativador perfeito para a ultimate do Yasuo limpar a rota."
+          },
+          {
+            "champion": "Samira",
+            "reason": "Extrema agressividade em area. Rakan pula e encanta todo mundo, permitindo que a Samira entre rodando a ultimate dela ilesa."
+          }
+        ]
+      }
+    ]
+  },
+  "Rammus": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Trundle",
+          "Zac",
+          "Amumu",
+          "Sejuani",
+          "Nunu"
+        ],
+        "against": [
+          "Master Yi",
+          "Bel'Veth",
+          "Xin Zhao",
+          "Lee Sin",
+          "Yasuo"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Galio",
+            "reason": "O Rammus entra rolando a toda velocidade no meio do time inimigo para provocar o atirador, e o Galio coroa a iniciacao ultando em cima do tatu."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "O onibus blindado. O Rammus recebe a bola da Orianna, corre a 1000 km/h, pula na cabeca do inimigo e a Orianna aplica a onda de choque letal."
+          },
+          {
+            "champion": "Yasuo",
+            "reason": "A ultimate do Rammus quando ele pula e cai joga os inimigos para o ar no epicentro, sendo o engajamento que o Yasuo precisa para lutar."
+          }
+        ]
+      }
+    ]
+  },
+  "Rek'Sai": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Rammus",
+          "Sejuani",
+          "Zac",
+          "Amumu",
+          "Nunu"
+        ],
+        "against": [
+          "Lee Sin",
+          "Xin Zhao",
+          "Kha'Zix",
+          "Rengar",
+          "Nidalee"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Syndra",
+            "reason": "O tunel seguido do levantamento da Rek'Sai facilita imensamente o posicionamento das esferas para a Syndra atordoar e explodir no early game."
+          },
+          {
+            "champion": "Lissandra",
+            "reason": "Lissandra trava o alvo no enraizamento, dando a garantia total de que a Rek'Sai saira da terra exatamente embaixo do inimigo para aplicar o dano maximo."
+          },
+          {
+            "champion": "Ahri",
+            "reason": "O charme da Ahri atrai o inimigo para uma morte certa, forcando-o a andar lentamente na direcao em que a Rek'Sai esta escavando."
+          }
+        ]
+      }
+    ]
+  },
+  "Rell": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Janna",
+          "Thresh",
+          "Morgana",
+          "Alistar",
+          "Poppy"
+        ],
+        "against": [
+          "Sona",
+          "Soraka",
+          "Yuumi",
+          "Nami",
+          "Senna"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Samira",
+            "reason": "A melhor dupla da Rell. A Rell junta e amassa 5 pessoas no mesmo pixel, sendo a bandeja de ouro para a Samira ultar no nivel S."
+          },
+          {
+            "champion": "Miss Fortune",
+            "reason": "Muito parecido com a Samira, a Rell suga e agrupa o time adversario, garantindo que a Miss Fortune nao desperdice nenhuma bala da ultimate."
+          },
+          {
+            "champion": "Yasuo",
+            "reason": "A Rell e a rainha dos arremessos ao ar. Praticamente todas as habilidades de iniciacao dela permitem que o Yasuo ulte imediatamente."
+          }
+        ]
+      }
+    ]
+  },
+  "Renata Glasc": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Xerath",
+          "Vel'Koz",
+          "Brand",
+          "Zyra",
+          "Senna"
+        ],
+        "against": [
+          "Leona",
+          "Nautilus",
+          "Alistar",
+          "Rell",
+          "Pyke"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Kalista",
+            "reason": "Renata buffa muito a sobrevivencia da Kalista com seu W, mantendo a atiradora viva tempo suficiente para encher os alvos de lancas."
+          },
+          {
+            "champion": "Samira",
+            "reason": "O buff de ataque e reviver da Renata permite que a Samira jogue com agressividade maxima sem medo, e a ultimate da Renata cria o caos para a Samira brilhar."
+          },
+          {
+            "champion": "Draven",
+            "reason": "O Draven pune pesado no early game. Se ele morrer numa troca, o W da Renata permite que ele finalize o alvo, ressuscite e ainda colete o dinheiro da passiva."
+          }
+        ]
+      }
+    ]
+  },
+  "Renekton": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Illaoi",
+          "Gnar",
+          "Quinn",
+          "Vayne",
+          "Teemo"
+        ],
+        "against": [
+          "Riven",
+          "Yasuo",
+          "Irelia",
+          "Jax",
+          "Camille"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Elise",
+            "reason": "O dive mais famoso do jogo. Renekton atordoa com o W, Elise joga o casulo logo depois, eles matam debaixo da torre e saem ilesos."
+          },
+          {
+            "champion": "Nidalee",
+            "reason": "Rota de execucao garantida. O Renekton trava o alvo, a Nidalee acerta a lanca de longe e pula na forma de puma rasgando a armadura do rival."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "Renekton ataca multiplas vezes instantaneamente no atordoamento do W, estourando a marca de gelo da Sejuani em uma fracao de segundo."
+          }
+        ]
+      }
+    ]
+  },
+  "Rengar": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Rammus",
+          "Udyr",
+          "Warwick",
+          "Sejuani",
+          "Xin Zhao"
+        ],
+        "against": [
+          "Evelynn",
+          "Karthus",
+          "Nidalee",
+          "Taliyah",
+          "Lillia"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Galio",
+            "reason": "O Rengar pula invisivel para iniciar, e o Galio usa a ultimate nele caindo destruindo a linha de tras do time inimigo de surpresa."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "Igual ao Galio, o Rengar serve como um carregador invisivel perfeito para levar a bola da Orianna para o meio dos inimigos."
+          },
+          {
+            "champion": "Shen",
+            "reason": "A ultimate global do Shen da um escudo colossal pro Rengar no meio do salto, protegendo o gatinho explosivo assim que ele revela sua posicao."
+          }
+        ]
+      }
+    ]
+  },
+  "Riven": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Renekton",
+          "Poppy",
+          "Kennen",
+          "Malphite",
+          "Garen"
+        ],
+        "against": [
+          "Yasuo",
+          "Irelia",
+          "Aatrox",
+          "Sion",
+          "Yone"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Zac",
+            "reason": "O engajamento longo e caotico do Zac prende e levanta os inimigos, o cenario ideal para a Riven emendar seus cancelamentos de animacao com seguranca."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "Riven tem mobilidade extrema, ataques corpo a corpo rapidos e controle curto, que casam perfeitamente para estourar o gelo da Sejuani."
+          },
+          {
+            "champion": "Elise",
+            "reason": "O atordoamento curto da Riven ja basta para a Elise ter 100% de precisao no casulo, garantindo o efeito bola de neve desde cedo."
+          }
+        ]
+      }
+    ]
+  },
+  "Rumble": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Yorick",
+          "Darius",
+          "Aatrox",
+          "Renekton",
+          "Kled"
+        ],
+        "against": [
+          "Malphite",
+          "Teemo",
+          "Shen",
+          "Jax",
+          "Yasuo"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Jarvan IV",
+            "reason": "O J4 prende todo mundo dentro do cataclismo, impedindo que os inimigos andem para fora do longo tapete de chamas da ultimate do Rumble."
+          },
+          {
+            "champion": "Amumu",
+            "reason": "Amumu trava todo o time inimigo no chao enraizado, garantindo dano total e inescapavel da ultimate do Rumble."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O controle de grupo do Zac deixa a linha de tras agrupada e fervendo no calor das chamas continuas do Rumble."
+          }
+        ]
+      }
+    ]
+  },
+  "Ryze": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Anivia",
+          "Cassiopeia",
+          "Syndra",
+          "Orianna",
+          "Xerath"
+        ],
+        "against": [
+          "Yasuo",
+          "Yone",
+          "Zed",
+          "Fizz",
+          "Katarina"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Jarvan IV",
+            "reason": "O Ryze precisa chegar muito perto para dar dano constante. O J4 prende os alvos na arena, forcando o combate a curta distancia onde o Ryze metralha feiticos."
+          },
+          {
+            "champion": "Lee Sin",
+            "reason": "Ryze avanca e prende o inimigo, dando a garantia total para o Lee Sin acertar o Q e executar o combo com dano fisico e magico misturados."
+          },
+          {
+            "champion": "Vi",
+            "reason": "Isolamento em cadeia. Vi foca e derruba com a ultimate, e o Ryze ja emenda o seu enraizamento embaixo, garantindo um atordoamento eterno."
+          }
+        ]
+      }
+    ]
+  },
+  "Samira": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Senna",
+          "Caitlyn",
+          "Ashe",
+          "Miss Fortune",
+          "Jhin"
+        ],
+        "against": [
+          "Vayne",
+          "Ezreal",
+          "Sivir",
+          "Kai'Sa",
+          "Lucian"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Nautilus",
+            "reason": "Fornece o controle de grupo pesado, direto e longo necessario para a Samira entrar na luta acumulando passivamente seu combo sem medo de morrer."
+          },
+          {
+            "champion": "Rell",
+            "reason": "A Rell atrai todo o time inimigo para um ponto unico no mapa com seu W e R, criando o espaco perfeito para a Samira rodar a ultimate em 5 pessoas."
+          },
+          {
+            "champion": "Leona",
+            "reason": "Pressao imediata. Leona prende o alvo ininterruptamente do nivel 2 em diante, servindo o atirador oponente de bandeja para as investidas da Samira."
+          }
+        ]
+      }
+    ]
+  },
+  "Sejuani": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Trundle",
+          "Olaf",
+          "Xin Zhao",
+          "Lee Sin",
+          "Graves"
+        ],
+        "against": [
+          "Zac",
+          "Rammus",
+          "Amumu",
+          "Nunu",
+          "Master Yi"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Yasuo",
+            "reason": "Sinergia extrema corpo a corpo. O Yasuo ataca muito rapido ajudando a estourar a passiva da Sejuani, e a ultimate da Sejuani e o Q contam como levantamentos pro Yasuo ultar."
+          },
+          {
+            "champion": "Yone",
+            "reason": "Mesma logica do Yasuo. Yone e Sejuani no nivel 6 encadeiam atordoamentos longuissimos impossiveis de serem respondidos."
+          },
+          {
+            "champion": "Irelia",
+            "reason": "A Irelia zera a marcacao de congelamento da Sejuani em um piscar de olhos, derretendo completamente a barra de vida dos inimigos em qualquer gank no mid."
+          }
+        ]
+      }
+    ]
+  },
+  "Senna": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Leona",
+          "Nautilus",
+          "Blitzcrank",
+          "Pyke",
+          "Thresh"
+        ],
+        "against": [
+          "Sona",
+          "Soraka",
+          "Yuumi",
+          "Janna",
+          "Lulu"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Tahm Kench",
+            "reason": "A sinergia de fasting Senna classica. O Tahm Kench farma as tropas como uma parede humana, enquanto a Senna apenas coleta almas e pune os inimigos de longe."
+          },
+          {
+            "champion": "Nilah",
+            "reason": "A Senna compensa a maior fraqueza da Nilah fornecendo alcance e ataques de longa distancia na fase de rotas, alem de cura constante."
+          },
+          {
+            "champion": "Lucian",
+            "reason": "Duo canon na historia do jogo. A agressividade extrema do Lucian nos niveis iniciais se beneficia muito do poke pesado e enraizamento da Senna."
+          }
+        ]
+      }
+    ]
+  },
+  "Seraphine": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Blitzcrank",
+          "Pyke",
+          "Leona",
+          "Nautilus",
+          "Thresh"
+        ],
+        "against": [
+          "Sona",
+          "Soraka",
+          "Yuumi",
+          "Janna",
+          "Lulu"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Ashe",
+            "reason": "A lentidao permanente da Ashe faz com que a magia da Seraphine enraize o alvo diretamente ao inves de apenas dar lentidao, maximizando o controle."
+          },
+          {
+            "champion": "Miss Fortune",
+            "reason": "A Seraphine estende sua ultimate de charme atraves dos proprios aliados, juntando todos para a ultimate em area da Miss Fortune varrer a rota."
+          },
+          {
+            "champion": "Jhin",
+            "reason": "O alcance longo da Seraphine queima os inimigos lentamente, criando os cenarios ideais para o Jhin tranca-los no lugar e executar disparos de longe."
+          }
+        ]
+      }
+    ]
+  },
+  "Sett": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Vayne",
+          "Quinn",
+          "Teemo",
+          "Malphite",
+          "Illaoi"
+        ],
+        "against": [
+          "Irelia",
+          "Yasuo",
+          "Sion",
+          "Garen",
+          "Darius"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "Muito dano no soco corpo a corpo rapido. Sett pega o inimigo, amassa de perto e estaca perfeitamente a passiva de congelamento da aliada da selva."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O Zac pula jogando a linha de tras inimiga pro ar, e o Sett entra carregando o tanque oponente com sua ultimate direto em cima dos proprios companheiros dele."
+          },
+          {
+            "champion": "Elise",
+            "reason": "O puxao com atordoamento do Sett e garantia de que o casulo da Elise vai conectar em cheio, eliminando qualquer lutador fragil muito cedo."
+          }
+        ]
+      }
+    ]
+  },
+  "Shaco": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Rengar",
+          "Rek'Sai",
+          "Lee Sin",
+          "Xin Zhao",
+          "Udyr"
+        ],
+        "against": [
+          "Amumu",
+          "Zac",
+          "Sejuani",
+          "Nunu",
+          "Rammus"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Orianna",
+            "reason": "O Shaco fica invisivel na selva, carrega a bola da Orianna pelo flanco sorrateiramente, e planta uma onda de choque mortal nas costas do time inimigo sem ser visto."
+          },
+          {
+            "champion": "Galio",
+            "reason": "Igual a Orianna, ele entra pelo lado cego da visao inimiga. Assim que revela sua posicao apunhalando, o Galio desaba do ceu trazendo protecao e muito CC."
+          },
+          {
+            "champion": "Zed",
+            "reason": "Caos puro. Os dois tem mobilidade e clones; pulam juntos no atirador, estouram a barra de vida dele e somem nas sombras ou em caixas."
+          }
+        ]
+      }
+    ]
+  },
+  "Shen": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Darius",
+          "Mordekaiser",
+          "Illaoi",
+          "Sett",
+          "Aatrox"
+        ],
+        "against": [
+          "Jax",
+          "Renekton",
+          "Irelia",
+          "Riven",
+          "Camille"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Nocturne",
+            "reason": "A dupla suprema do bote global. Nocturne escurece o mapa e mergulha; Shen ulta no Nocturne protegendo-o com um escudo massivo e aterrissando junto para a briga."
+          },
+          {
+            "champion": "Rengar",
+            "reason": "A mesma logica agressiva. O Rengar pula do modo furtivo e leva a ultimate global e protetora do Shen de carona no ar."
+          },
+          {
+            "champion": "Vi",
+            "reason": "Outra investida profunda. A Vi nao tem como recuar quando da o seu soco ou ultimate, entao o escudo e a presenca do Shen aterrissando salvam a vida dela."
+          }
+        ]
+      }
+    ]
+  },
+  "Shyvana": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Xin Zhao",
+          "Lee Sin",
+          "Kha'Zix",
+          "Nidalee",
+          "Elise"
+        ],
+        "against": [
+          "Zac",
+          "Amumu",
+          "Sejuani",
+          "Rammus",
+          "Nunu"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Orianna",
+            "reason": "A Shyvana dragao pula puxando e esmagando todos para a frente, e a Orianna complementa estourando a bola nela, aniquilando lutas de equipe em instantes."
+          },
+          {
+            "champion": "Galio",
+            "reason": "Quando a Shyvana mergulha na forma de dragao voando, o Galio marca a entrada heroica dela, segurando os inimigos para o sopro de fogo continuo da aliada."
+          },
+          {
+            "champion": "Yasuo",
+            "reason": "A ultimate do dragao empurrando a linha de frente inimiga conta como levantamento, dando a chance do Yasuo fatiar todos na descida."
+          }
+        ]
+      }
+    ]
+  },
+  "Singed": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Teemo",
+          "Vayne",
+          "Quinn",
+          "Jayce",
+          "Kennen"
+        ],
+        "against": [
+          "Jax",
+          "Irelia",
+          "Sion",
+          "Malphite",
+          "Maokai"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Zac",
+            "reason": "O caos e a escada do Singed. O Zac pula baguncando o posicionamento adversario, permitindo que o Singed corra jogando veneno no time todo com facilidade."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "Singed espalha lentidao na area e pode jogar inimigos para tras, o que trava o alvo para a Sejuani investir com precisao de congelamento."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "A arena do J4 fecha o inimigo em um cercado sem saida, e o Singed apenas corre em circulos la dentro espalhando um rastro de veneno toxico inevitavel."
+          }
+        ]
+      }
+    ]
+  },
+  "Sion": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Darius",
+          "Aatrox",
+          "Illaoi",
+          "Fiora",
+          "Gwen"
+        ],
+        "against": [
+          "Malphite",
+          "Teemo",
+          "Kennen",
+          "Jayce",
+          "Quinn"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "Muito dano base de linha de frente, absorcao gigante de pancadas e tempo infinito para encadear atordoamentos do Q longo do Sion com o congelamento da Sejuani."
+          },
+          {
+            "champion": "Zac",
+            "reason": "Iniciacao em cadeia monstruosa de fora da visao inimiga. O Zac engaja pulando de longe, e o Sion engata marcha atropelando os sobreviventes."
+          },
+          {
+            "champion": "Amumu",
+            "reason": "Amumu trava a movimentacao de uma equipe inteira, dando o tempo preciosissimo de canalizacao que o Sion precisa para carregar seu machado na cabeca de todo mundo."
+          }
+        ]
+      }
+    ]
+  },
+  "Sivir": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Vayne",
+          "Draven",
+          "Lucian",
+          "Twitch",
+          "Tristana"
+        ],
+        "against": [
+          "Caitlyn",
+          "Ashe",
+          "Jhin",
+          "Ezreal",
+          "Varus"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Karma",
+            "reason": "Rota com foco em encurralar. A Karma e a Sivir forcam o empurre de tropas veloz, limpando minions e castigando o inimigo embaixo da torre o tempo todo."
+          },
+          {
+            "champion": "Yuumi",
+            "reason": "Aceleracao total. O bonus duplo de velocidade de movimento cria um taxi de atirador imorrivel que foge e volta na luta numa rapidez absurda."
+          },
+          {
+            "champion": "Morgana",
+            "reason": "A protecao suprema: as duas tem escudos contra magia e CC. Fica praticamente impossivel aplicar controle de grupo nelas enquanto a Sivir dita o ritmo."
+          }
+        ]
+      }
+    ]
+  },
+  "Skarner": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Olaf",
+          "Trundle",
+          "Xin Zhao",
+          "Lee Sin",
+          "Udyr"
+        ],
+        "against": [
+          "Zac",
+          "Amumu",
+          "Sejuani",
+          "Rammus",
+          "Nunu"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Malzahar",
+            "reason": "Controle de grupo duplo indesejavel para qualquer carry. O Skarner puxa quem tentar se aproximar, e o Malzahar derrete na supressao."
+          },
+          {
+            "champion": "Galio",
+            "reason": "Skarner empurra sua rocha arrastando herois para sua equipe e o Galio mergulha impedindo totalmente a fuga dos pobres sequestrados."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "Mais um entregador perfeito. O Skarner entra com escudo acelerado correndo na linha de tras inimiga puxando alvos para dentro da implosao gerada pela Orianna."
+          }
+        ]
+      }
+    ]
+  },
+  "Smolder": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Draven",
+          "Caitlyn",
+          "Lucian",
+          "Kalista",
+          "Tristana"
+        ],
+        "against": [
+          "Vayne",
+          "Sivir",
+          "Ezreal",
+          "Zeri",
+          "Aphelios"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Braum",
+            "reason": "A passiva fortissima de protecao do Braum e os escudos permitem que esse dragao de escala lenta sobreviva o inicio do jogo ate comecar a arder inimigos no late game."
+          },
+          {
+            "champion": "Milio",
+            "reason": "A fogueira magica do Milio aumenta absurdamente o alcance ja vantajoso do Smolder, deixando os ataques mais seguros e curando os erros dele nas trocas."
+          },
+          {
+            "champion": "Thresh",
+            "reason": "Garante a coleta de almas com muita seguranca usando a lanterna, e afasta fugitivos mantendo-os presos no alcance do fogo exalado pelo Q carregado."
+          }
+        ]
+      }
+    ]
+  },
+  "Sona": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Blitzcrank",
+          "Pyke",
+          "Leona",
+          "Nautilus",
+          "Thresh"
+        ],
+        "against": [
+          "Janna",
+          "Lulu",
+          "Soraka",
+          "Yuumi",
+          "Nami"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Ashe",
+            "reason": "A lentidao permanente ajuda muito a Sona a bater sem perigo. A flecha de gelo combada com a danca de roda da Sona paralisa por dias."
+          },
+          {
+            "champion": "Miss Fortune",
+            "reason": "As notas curando e acelerando abrem a distancia certinha e a ultimate da Sona coloca todos os inimigos travados pra comer a ultimate de saraivada da MF."
+          },
+          {
+            "champion": "Ezreal",
+            "reason": "Escala com total seguranca e conforto na retaguarda. Ambos castigam de longe trocando dano enquanto riem das iniciacoes falhas."
+          }
+        ]
+      }
+    ]
+  },
+  "Soraka": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Blitzcrank",
+          "Pyke",
+          "Leona",
+          "Nautilus",
+          "Thresh"
+        ],
+        "against": [
+          "Janna",
+          "Lulu",
+          "Sona",
+          "Yuumi",
+          "Nami"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Vayne",
+            "reason": "O pesadelo do auto-ataque seguro. A Soraka da silenciamento nos assassinos que tentarem explodir a Vayne e cura enlouquecidamente ate as barras ficarem cheias."
+          },
+          {
+            "champion": "Aphelios",
+            "reason": "O Aphelios pode abusar do posicionamento pois possui uma fonte viva do lado dele. Se estiver prestes a ser burstado, a Soraka aperta R global o salvando na hora."
+          },
+          {
+            "champion": "Ezreal",
+            "reason": "Sinergia insuportavel na fase de rotas. Muito dano que nao pode ser cobrado. O adversario nunca alcanca pela distancia, e os golpes que alcancam sao rapidamente curados."
+          }
+        ]
+      }
+    ]
+  },
+  "Swain": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Sylas",
+          "Katarina",
+          "Fizz",
+          "Zed",
+          "Yasuo"
+        ],
+        "against": [
+          "Malzahar",
+          "Annie",
+          "Ryze",
+          "Vladimir",
+          "Veigar"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "Amumu trava de tres a cinco pessoas na maldicao dele, garantindo que ninguem conseguira recuar ou sair do raio da forma demoniaca de cura ativada do Swain."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "Swain adora alvos engaiolados lutando perto. Jarvan pula fechando o cercado de pedra enquanto o Swain arranca o sangue de todo mundo junto sem pressa."
+          },
+          {
+            "champion": "Zac",
+            "reason": "Swain ganha fragmento quando adversarios sofrem controle pesado. Zac voa pra todo lado e os levanta, garantindo pro Swain puxoes passivos quase de graca."
+          }
+        ]
+      }
+    ]
+  },
+  "Sylas": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Cassiopeia",
+          "Vex",
+          "Malzahar",
+          "Heimerdinger",
+          "Pantheon"
+        ],
+        "against": [
+          "Alistar",
+          "Ekko",
+          "Katarina",
+          "Akali",
+          "Yasuo"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "Ele avanca no corpo a corpo com suas correntes agressivamente para cima de inimigos congelados. A porradaria mutua estaca o picole na hora e elimina alvos duros facilmente."
+          },
+          {
+            "champion": "Amumu",
+            "reason": "A faixa atordoante do Amumu cria o cenario alvo cego que basta para o Sylas nunca perder seu arrebatamento longo encadeando muita cura explosiva colado nele."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "A flexibilidade do roubo de ultimates permite ao Sylas prender herois esquivos batendo de frente em arenas fechadas junto aos engajamentos de J4."
+          }
+        ]
+      }
+    ]
+  },
+  "Syndra": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Fizz",
+          "Zed",
+          "Ekko",
+          "Katarina",
+          "Yasuo"
+        ],
+        "against": [
+          "Heimerdinger",
+          "Annie",
+          "Malzahar",
+          "Azir",
+          "Orianna"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Elise",
+            "reason": "E a melhor punicao magica do early game. Uma dispersao de trevas bem encaixada abre a porta do atordoamento para o tiro certo da teia fatal da aranha."
+          },
+          {
+            "champion": "Lee Sin",
+            "reason": "Ameaca enorme e constante de mortes muito rapidas antes dos 10 minutos. Esferas no chao travam avancos enquanto os saltos e chutes garantem o dano fisico."
+          },
+          {
+            "champion": "Rek'Sai",
+            "reason": "O combo em equipe da morte instantanea para inimigos frageis; a escavacao vindo rapida sem ser vista alinhada com o controle da Syndra faz qualquer carry sumir."
+          }
+        ]
+      }
+    ]
+  },
+  "Tahm Kench": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Vayne",
+          "Fiora",
+          "Shen",
+          "Camille",
+          "Gnar"
+        ],
+        "against": [
+          "Malphite",
+          "Sion",
+          "Ornn",
+          "Maokai",
+          "Cho'Gath"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "Muito controle de grupo em cadeia; o Tahm Kench engole e cospe o inimigo direto no alcance da Sejuani para o congelamento."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O Zac pula da selva e levanta o inimigo, dando tempo pro Tahm Kench chegar caminhando, aplicar as marcas de lentidao e engolir o alvo sem pressa."
+          },
+          {
+            "champion": "Amumu",
+            "reason": "Amumu trava todo o time inimigo no chao, garantindo que o Tahm Kench consiga emergir do seu mergulho abissal exatamente embaixo do atirador inimigo."
+          }
+        ]
+      }
+    ]
+  },
+  "Taliyah": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Zed",
+          "Fizz",
+          "Katarina",
+          "Yasuo",
+          "Irelia"
+        ],
+        "against": [
+          "Ryze",
+          "Cassiopeia",
+          "Azir",
+          "Orianna",
+          "Viktor"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Pantheon",
+            "reason": "O atordoamento de clique do Pantheon garante que o alvo sofra o combo completo das pedras da Taliyah com o empurrao do W, gerando dano magico fatal."
+          },
+          {
+            "champion": "Elise",
+            "reason": "Assim como o Pantheon, o atordoamento em alvo estatico da Taliyah facilita 100% de precisao para o casulo e a explosao de dano da Elise no early game."
+          },
+          {
+            "champion": "Lee Sin",
+            "reason": "O Lee Sin chuta o inimigo diretamente para o campo minado de pedras da Taliyah, ativando o dano de todas as rochas de uma vez so."
+          }
+        ]
+      }
+    ]
+  },
+  "Talon": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Pantheon",
+          "Vex",
+          "Lissandra",
+          "Malzahar",
+          "Galio"
+        ],
+        "against": [
+          "Kassadin",
+          "Veigar",
+          "Katarina",
+          "Zed",
+          "Aurelion Sol"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Ekko",
+            "reason": "Muito dano misto e mobilidade extrema para pular paredes. Juntos, invadem a selva inimiga e apagam o cacador adversario rapidamente."
+          },
+          {
+            "champion": "Elise",
+            "reason": "A Elise trava o alvo com o casulo de debaixo da torre; o Talon pula pelas paredes, despeja as laminas, e ambos saem do dive vivos."
+          },
+          {
+            "champion": "Rek'Sai",
+            "reason": "O levantamento do tunel da Rek'Sai garante que o Talon conecte o retorno das duas laminas do seu W, principal fonte de dano dele na rota."
+          }
+        ]
+      }
+    ]
+  },
+  "Taric": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Janna",
+          "Morgana",
+          "Lulu",
+          "Soraka",
+          "Nami"
+        ],
+        "against": [
+          "Leona",
+          "Nautilus",
+          "Blitzcrank",
+          "Pyke",
+          "Alistar"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Nilah",
+            "reason": "Como a Nilah e corpo a corpo, o Taric joga o escudo nela, e os dois mergulham na luta atordoando em area e ficando invulneraveis com o Esplendor Cosmico."
+          },
+          {
+            "champion": "Samira",
+            "reason": "Extrema agressividade em grupo. O Taric ativa a ultimate, garantindo que a Samira consiga rodar a propria ultimate inteira no meio de cinco sem morrer."
+          },
+          {
+            "champion": "Lucian",
+            "reason": "O avanco agressivo do Lucian permite que o Taric acerte o atordoamento estendido de angulos surpreendentes, punindo a rota inferior inimiga."
+          }
+        ]
+      }
+    ]
+  },
+  "Teemo": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Pantheon",
+          "Yorick",
+          "Sion",
+          "Cho'Gath",
+          "Olaf"
+        ],
+        "against": [
+          "Garen",
+          "Darius",
+          "Vayne",
+          "Tryndamere",
+          "Nasus"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Shaco",
+            "reason": "O mapa vira um campo minado impossivel de andar. O Shaco atrai os inimigos pela selva diretamente para os cogumelos venenosos do Teemo."
+          },
+          {
+            "champion": "Ivern",
+            "reason": "O Ivern cria moitas artificiais na rota do topo, onde o Teemo pode ficar invisivel ganhando bonus de velocidade de ataque para pegar os inimigos de surpresa."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O engajamento do Zac mantem a linha de tras inimiga sendo jogada pro ar exatamente em cima da plantacao de cogumelos previamente armada."
+          }
+        ]
+      }
+    ]
+  },
+  "Thresh": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Morgana",
+          "Zyra",
+          "Brand",
+          "Vel'Koz",
+          "Swain"
+        ],
+        "against": [
+          "Leona",
+          "Nautilus",
+          "Alistar",
+          "Rell",
+          "Blitzcrank"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Aphelios",
+            "reason": "O Aphelios bate muito mas nao tem dash; a lanterna do Thresh e a melhor ferramenta defensiva para ele nao ser explodido por assassinos."
+          },
+          {
+            "champion": "Jinx",
+            "reason": "A Jinx usa o puxao longo do Thresh para preparar e encaixar suas armadilhas mordedoras no exato local onde o alvo vai cair."
+          },
+          {
+            "champion": "Draven",
+            "reason": "Traz protecao caso o Draven seja focado e agressividade na medida exata de puxoes para eles ganharem as trocas 2v2 no early game."
+          }
+        ]
+      }
+    ]
+  },
+  "Tristana": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Draven",
+          "Caitlyn",
+          "Twitch",
+          "Vayne",
+          "Lucian"
+        ],
+        "against": [
+          "Ezreal",
+          "Jhin",
+          "Sivir",
+          "Zeri",
+          "Xayah"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Leona",
+            "reason": "Pressao imediata de abate no nivel 2. A Leona pula travando o alvo, e a Tristana salta por cima plantando a bomba e descarregando tudo."
+          },
+          {
+            "champion": "Nautilus",
+            "reason": "Igual a Leona. O Nautilus fornece o controle de grupo direto e longo necessario para a Tristana estourar todas as marcas da bomba dela."
+          },
+          {
+            "champion": "Thresh",
+            "reason": "O Thresh joga a lanterna na direcao de fuga da Tristana; ela pula agressivamente para frente para matar, e clica na lanterna para voltar em seguranca."
+          }
+        ]
+      }
+    ]
+  },
+  "Trundle": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Teemo",
+          "Vayne",
+          "Jax",
+          "Shen",
+          "Graves"
+        ],
+        "against": [
+          "Sejuani",
+          "Rammus",
+          "Zac",
+          "Nunu",
+          "Amumu"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Anivia",
+            "reason": "O combo das paredes. O pilar de gelo do Trundle comba com a parede de gelo da Anivia, prendendo inimigos em corredores minusculos dentro da nevasca."
+          },
+          {
+            "champion": "Galio",
+            "reason": "O Trundle rouba as resistencias do tanque inimigo com a ultimate e avanca batendo; o Galio ulta por cima dele, esmagando e protegendo a linha de frente."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "O pilar do Trundle aplica muita lentidao e cria terreno, facilitando extremamente o acerto da onda de choque da Orianna."
+          }
+        ]
+      }
+    ]
+  },
+  "Tryndamere": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Malphite",
+          "Teemo",
+          "Jax",
+          "Tahm Kench",
+          "Shen"
+        ],
+        "against": [
+          "Garen",
+          "Darius",
+          "Mordekaiser",
+          "Yorick",
+          "Sion"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "Como o Tryndamere ataca muito rapido corpo a corpo focado em dano critico, ele estaca a passiva de congelamento da Sejuani quase que na mesma hora."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O Zac pula e absorve toda a atencao e recursos de iniciacao do time inimigo, abrindo a porta pro Tryndamere entrar de flanco girando."
+          },
+          {
+            "champion": "Elise",
+            "reason": "Excelente duo para mergulhar debaixo da torre. O Tryndamere toma o dano da torre, usa a furia sem fim para nao morrer, a Elise finaliza o alvo."
+          }
+        ]
+      }
+    ]
+  },
+  "Twisted Fate": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Yasuo",
+          "Zed",
+          "Fizz",
+          "Talon",
+          "Irelia"
+        ],
+        "against": [
+          "Veigar",
+          "Ryze",
+          "Malzahar",
+          "Annie",
+          "Kassadin"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Graves",
+            "reason": "A carta dourada do TF e a garantia de que o inimigo ficara estatico, permitindo que o Graves cole nele e descarregue as balas de espingarda."
+          },
+          {
+            "champion": "Nidalee",
+            "reason": "Rota de abate certo. O atordoamento do TF prepara o alvo para a Nidalee acertar uma lanca de alcance maximo com muita precisao."
+          },
+          {
+            "champion": "Nocturne",
+            "reason": "Controle global e escuridao. O Nocturne apaga as luzes, o TF da a visao verdadeira de todos e os dois chegam voando no mesmo alvo."
+          }
+        ]
+      }
+    ]
+  },
+  "Twitch": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Draven",
+          "Tristana",
+          "Lucian",
+          "Miss Fortune",
+          "Caitlyn"
+        ],
+        "against": [
+          "Vayne",
+          "Ezreal",
+          "Sivir",
+          "Zeri",
+          "Aphelios"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Lulu",
+            "reason": "A classica. O Twitch sai da invisibilidade e a Lulu o enche de esteroides, transformando-o num rato metralhador que apaga a equipe rival."
+          },
+          {
+            "champion": "Janna",
+            "reason": "Traz a protecao de peel necessaria contra assassinos e concede muito dano de ataque no escudo pro Twitch penetrar os alvos com sua ultimate."
+          },
+          {
+            "champion": "Yuumi",
+            "reason": "O gato invisivel. A Yuumi fica presa no Twitch invisivel, eles flanqueiam o time inimigo, e a Yuumi abre o livro final enraizando todos."
+          }
+        ]
+      }
+    ]
+  },
+  "Udyr": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Ashe",
+          "Vayne",
+          "Teemo",
+          "Anivia",
+          "Trundle"
+        ],
+        "against": [
+          "Lee Sin",
+          "Xin Zhao",
+          "Rammus",
+          "Sejuani",
+          "Zac"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Orianna",
+            "reason": "O Udyr ativa as posturas de velocidade, pega a bola da Orianna, corre no meio de cinco e toma a onda de choque e os escudos da maga."
+          },
+          {
+            "champion": "Galio",
+            "reason": "O Udyr corre atordoando um a um na linha de frente; o Galio marca a entrada dele voando do ceu, aumentando o tempo que o time inimigo fica no ar."
+          },
+          {
+            "champion": "Lissandra",
+            "reason": "Lissandra prende os inimigos mais esquivos em blocos de gelo, dando o tempo para o Udyr chegar correndo e comecar a desferir seus socos pesados."
+          }
+        ]
+      }
+    ]
+  },
+  "Urgot": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Illaoi",
+          "Mordekaiser",
+          "Shen",
+          "Ornn",
+          "Aatrox"
+        ],
+        "against": [
+          "Riven",
+          "Yasuo",
+          "Irelia",
+          "Jax",
+          "Garen"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Zac",
+            "reason": "O Zac traz o engage de longa distancia que o Urgot nao tem, permitindo que a maquina de guerra chegue caminhando para usar seus joelhos de espingarda."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "Muito controle de grupo continuo. A Sejuani trava o alvo no lugar pro Urgot ativar o Expurgo e girar triturando as barras de vida."
+          },
+          {
+            "champion": "Amumu",
+            "reason": "A ultimate em grande area do Amumu impede que os inimigos fujam ou se espalhem, garantindo que o Urgot fisgue e puxe alguem para o triturador."
+          }
+        ]
+      }
+    ]
+  },
+  "Varus": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Draven",
+          "Tristana",
+          "Lucian",
+          "Twitch",
+          "Vayne"
+        ],
+        "against": [
+          "Caitlyn",
+          "Ashe",
+          "Jhin",
+          "Ezreal",
+          "Sivir"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Ashe",
+            "reason": "Rota sufocante de opressao. A lentidao da Ashe ajuda o Varus a acertar flechas, e as duas ultimates encadeiam um controle fatal de muito longe."
+          },
+          {
+            "champion": "Zyra",
+            "reason": "Controle de espaco no bot. A Zyra enraiza o alvo e causa dano magico, enquanto o Varus pune a distancia com flechas precisas."
+          },
+          {
+            "champion": "Leona",
+            "reason": "A Leona prende o adversario com tres atordoamentos, deixando a janela aberta para o Varus estourar as marcas de praga tranquilamente."
+          }
+        ]
+      }
+    ]
+  },
+  "Vayne": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Caitlyn",
+          "Ashe",
+          "Draven",
+          "Miss Fortune",
+          "Jhin"
+        ],
+        "against": [
+          "Ezreal",
+          "Sivir",
+          "Zeri",
+          "Lucian",
+          "Kai'Sa"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Lulu",
+            "reason": "Sinergia hipercarregadora. A Lulu aumenta o ataque e da velocidade para a Vayne desviar de tudo rolando, tornando-a o carry mais perigoso do late game."
+          },
+          {
+            "champion": "Janna",
+            "reason": "O escudo da muito dano de ataque para trocas curtas, e o furacao e a ultimate afastam assassinos que tentarem fechar a distancia contra a Vayne."
+          },
+          {
+            "champion": "Nami",
+            "reason": "Cura na fase de rotas e muito buff de dano magico e lentidao nos ataques da Vayne na bencao da mare, facilitando a perseguicao dela."
+          }
+        ]
+      }
+    ]
+  },
+  "Veigar": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Zed",
+          "Fizz",
+          "Katarina",
+          "Kassadin",
+          "Talon"
+        ],
+        "against": [
+          "Azir",
+          "Ryze",
+          "Cassiopeia",
+          "Malzahar",
+          "Annie"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "O pesadelo do escalamento. Amumu prende todos em area, o Veigar joga a materia escura no centro e derrete o time inteiro."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "A arena de pedra do J4 tranca os inimigos. O Veigar usa a gaiola exatamente em cima da arena, atordoando qualquer um que encostar nos limites."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O Zac arremessa a linha de tras inimiga exatamente para dentro da gaiola do Veigar, separando os adversarios e abrindo espaco para o mago executar."
+          }
+        ]
+      }
+    ]
+  },
+  "Vel'Koz": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Zed",
+          "Fizz",
+          "Yasuo",
+          "Irelia",
+          "Katarina"
+        ],
+        "against": [
+          "Heimerdinger",
+          "Malzahar",
+          "Annie",
+          "Ryze",
+          "Azir"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "Amumu trava cinco pessoas no chao. O Vel'Koz aperta a ultimate e fuzila todo o raio laser derretendo tudo em area."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "A arena prende os inimigos em um curral, deixando-os totalmente a merce das habilidades de geometria e desintegracao do Vel'Koz."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "Muito tempo de controle focado no congelamento. Ela garante a lentidao que o Vel'Koz precisa para enfileirar as fendas e causar a passiva em cheio."
+          }
+        ]
+      }
+    ]
+  },
+  "Vex": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Syndra",
+          "Orianna",
+          "Xerath",
+          "Vel'Koz",
+          "Cassiopeia"
+        ],
+        "against": [
+          "Yasuo",
+          "Yone",
+          "Irelia",
+          "Akali",
+          "Katarina"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "O Amumu ulta em area, forcando todos os inimigos a tentarem fugir correndo para que a Vex mergulhe resetando as sombras com facilidade."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "A arena aglomera alvos moveis, o espaco ideal pro terror da Vex explodir em cadeia fazendo todo mundo correr desgovernado."
+          },
+          {
+            "champion": "Vi",
+            "reason": "A Vi marca e afunda o carry principal da equipe adversaria. A Vex aproveita o isolamento e joga sua propria ultimate logo em seguida."
+          }
+        ]
+      }
+    ]
+  },
+  "Vi": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Morgana",
+          "Janna",
+          "Lulu",
+          "Vayne",
+          "Xayah"
+        ],
+        "against": [
+          "Lee Sin",
+          "Xin Zhao",
+          "Nidalee",
+          "Elise",
+          "Kha'Zix"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Ahri",
+            "reason": "A Vi afunda um alvo com a ultimate point and click; isso permite que a Ahri chegue deslizando e acerte o charme no inimigo derrubado."
+          },
+          {
+            "champion": "Galio",
+            "reason": "Isolamento heroico. A Vi inicia fundo no atirador; o Galio joga a ultimate protegendo-a, levantando todos que tentarem salvar o alvo focado."
+          },
+          {
+            "champion": "Lissandra",
+            "reason": "O lockdown eterno. A Vi ulta no inimigo, e logo depois a Lissandra empilha a sua ultimate por cima. O alvo passa segundos sem conseguir jogar."
+          }
+        ]
+      }
+    ]
+  },
+  "Viego": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Rammus",
+          "Poppy",
+          "Udyr",
+          "Xin Zhao",
+          "Lee Sin"
+        ],
+        "against": [
+          "Zac",
+          "Amumu",
+          "Sejuani",
+          "Nunu",
+          "Master Yi"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Galio",
+            "reason": "O Viego entra primeiro ficando camuflado no nevoeiro, foca o inimigo mais fragil e recebe de carona a protecao da ultimate do Galio para garantir seu primeiro reset."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "O Viego carrega a bola correndo ou avancando rapido do nevoeiro; a Orianna puxa todo mundo, deixando tudo com pouca vida para o Rei Destruido fatiar a teamfight."
+          },
+          {
+            "champion": "Lissandra",
+            "reason": "A Lissandra tem muito dano explosivo e controle de grupo; ela praticamente entrega o primeiro corpo de abate nas maos do Viego."
+          }
+        ]
+      }
+    ]
+  },
+  "Viktor": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Zed",
+          "Fizz",
+          "Yasuo",
+          "Irelia",
+          "Kassadin"
+        ],
+        "against": [
+          "Ryze",
+          "Azir",
+          "Cassiopeia",
+          "Malzahar",
+          "Annie"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Jarvan IV",
+            "reason": "O J4 prende inimigos na arena e o Viktor joga o campo gravitacional la dentro. Se nao gastarem o flash, tomam todo o dano da tempestade magnetica."
+          },
+          {
+            "champion": "Amumu",
+            "reason": "Amumu usa a maldicao em area travando todos no chao para o Viktor soltar seu raio da morte varrendo as barras de vida."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O Zac causa o caos a longa distancia, o que permite ao Viktor, que nao tem mobilidade, ditar o ritmo da luta jogando magias por tras."
+          }
+        ]
+      }
+    ]
+  },
+  "Vladimir": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Malzahar",
+          "Anivia",
+          "Cassiopeia",
+          "Syndra",
+          "Orianna"
+        ],
+        "against": [
+          "Yasuo",
+          "Yone",
+          "Zed",
+          "Fizz",
+          "Katarina"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "Amumu prende todos na grande ultimate; isso da a garantia ao Vladimir para entrar, aplicar sua ultimate de dano extra em cinco e drenar o grupo."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "A falta de mobilidade do Vladimir se beneficia da arena do J4 trancando fugioes na area para sofrerem o dano retardado monstruoso."
+          },
+          {
+            "champion": "Sejuani",
+            "reason": "Ela traz toda a iniciacao e controle de grupo duros para as lutas de equipe, cobrindo perfeitamente a fraqueza de engajamento do Vladimir."
+          }
+        ]
+      }
+    ]
+  },
+  "Volibear": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Teemo",
+          "Vayne",
+          "Quinn",
+          "Illaoi",
+          "Jax"
+        ],
+        "against": [
+          "Riven",
+          "Irelia",
+          "Renekton",
+          "Garen",
+          "Darius"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "Muito dano de contato fisico repetido com os ataques freneticos do urso; Volibear bate rapido e estoura imediatamente o congelamento da colega tanque."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O engajamento com levantamento duplo. Zac mergulha jogando a linha inimiga pro ar, o urso voador ativa a ultimate pulando em cima."
+          },
+          {
+            "champion": "Elise",
+            "reason": "Volibear avanca atordoando com o Q; Elise atira o casulo e da o dano magico com as aranhas, num dive de torre impiedoso."
+          }
+        ]
+      }
+    ]
+  },
+  "Warwick": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Udyr",
+          "Olaf",
+          "Trundle",
+          "Rammus",
+          "Jax"
+        ],
+        "against": [
+          "Lee Sin",
+          "Xin Zhao",
+          "Nidalee",
+          "Elise",
+          "Kha'Zix"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Galio",
+            "reason": "O lobisomem sente o cheiro de sangue de longe, voa na ultimate travando o alvo no chao, e o Galio salta de cima criando um tremor ininterrupto."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "Warwick ativa a alta velocidade perseguindo quem tem pouca vida e funciona perfeitamente como carregador da bola da maga para a linha de tras desavisada."
+          },
+          {
+            "champion": "Lissandra",
+            "reason": "Ela traz dano em area e mais enraizamento pesado; o Warwick morde mantendo-se colado na presa enquanto a Lissandra o ajuda trancando as rotas de fuga."
+          }
+        ]
+      }
+    ]
+  },
+  "Wukong": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Malphite",
+          "Garen",
+          "Shen",
+          "Illaoi",
+          "Mordekaiser"
+        ],
+        "against": [
+          "Jayce",
+          "Teemo",
+          "Quinn",
+          "Yasuo",
+          "Gnar"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Diana",
+            "reason": "O macaco entra de sosia invisivel ativando o redemoinho; a Diana acompanha no caos juntando todo mundo e causando dano magico massivo."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "Outro portador perfeito para o wombo combo. Entra de lado usando a nuvem, aplica lentidao e levanta todo mundo para a onda de choque."
+          },
+          {
+            "champion": "Yasuo",
+            "reason": "Dois levantamentos super faceis, continuos e em area dao ao Yasuo todas as fatiadas em suspensao que ele possa querer."
+          }
+        ]
+      }
+    ]
+  },
+  "Xayah": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Caitlyn",
+          "Ashe",
+          "Miss Fortune",
+          "Jhin",
+          "Draven"
+        ],
+        "against": [
+          "Kai'Sa",
+          "Vayne",
+          "Ezreal",
+          "Samira",
+          "Lucian"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Rakan",
+            "reason": "A alma da dupla. Habilidades nativas se combinam; o Rakan levanta todo mundo agrupado, enquanto as plumas da Xayah se abrem rasgando tudo."
+          },
+          {
+            "champion": "Nautilus",
+            "reason": "O controle de grupo pesadissimo mantem o alvo parado pro tempo necessario das plumas no chao serem puxadas e enraizarem."
+          },
+          {
+            "champion": "Leona",
+            "reason": "Assim como o Nautilus, ela salta e paralisa; a Xayah apenas solta ataques e fecha a gaiola das plumas de volta."
+          }
+        ]
+      }
+    ]
+  },
+  "Xerath": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Zed",
+          "Fizz",
+          "Yasuo",
+          "Irelia",
+          "Katarina"
+        ],
+        "against": [
+          "Heimerdinger",
+          "Malzahar",
+          "Annie",
+          "Ryze",
+          "Azir"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "A ultimate dele garante que cinco pessoas nao andem nem usem feiticos evasivos por muito tempo; o Xerath usa todo o seu longo alcance bombardeando a area."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "Cataclismo aprisiona o inimigo, e o Xerath nao precisa nem focar direito para jogar raios matando todo mundo preso."
+          },
+          {
+            "champion": "Vi",
+            "reason": "Ameaca direcionada. Vi marca o alvo chave; o Xerath de longe finaliza os sobreviventes em debandada ou atrasa reforcos."
+          }
+        ]
+      }
+    ]
+  },
+  "Xin Zhao": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Jax",
+          "Shen",
+          "Teemo",
+          "Udyr",
+          "Rammus"
+        ],
+        "against": [
+          "Lee Sin",
+          "Nidalee",
+          "Elise",
+          "Kha'Zix",
+          "Rengar"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Galio",
+            "reason": "O Senescal avanca em um inimigo distante com investida veloz e recebe de carona o protetor de Demacia empurrando todo mundo."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "Mais um combatente fisico rapido de iniciacao longa. Com a bola nas costas e seu R ligado empurrando adversarios, as lutas acabam em duas ultimates sincronizadas."
+          },
+          {
+            "champion": "Lissandra",
+            "reason": "Congelamento instantaneo. A Lissandra sela as fugas, garantindo para o cacador conectar a lanca e derrubar qualquer dominancia da rota."
+          }
+        ]
+      }
+    ]
+  },
+  "Yasuo": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Annie",
+          "Malzahar",
+          "Vex",
+          "Pantheon",
+          "Renekton"
+        ],
+        "against": [
+          "Gnar",
+          "Syndra",
+          "Ahri",
+          "Lux",
+          "Veigar"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Diana",
+            "reason": "O engajamento da selva que puxa e atira para o ceu e ativador infalivel e mortal do Ultimo Suspiro sobre varios oponentes."
+          },
+          {
+            "champion": "Gragas",
+            "reason": "O barril gigante explodindo nas formacoes dos atiradores os ejeta das barricadas seguras diretamente para os fatiamentos do samurai."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O estilingue sombrio traz levantamento vertical invisivel; basta que o monstro gosmento pule para o Yasuo seguir o fluxo voando."
+          }
+        ]
+      }
+    ]
+  },
+  "Yone": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Annie",
+          "Vex",
+          "Pantheon",
+          "Renekton",
+          "Jax"
+        ],
+        "against": [
+          "Gnar",
+          "Syndra",
+          "Ahri",
+          "Lux",
+          "Veigar"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Diana",
+            "reason": "Mesma dinamica insana que seu irmao de armas. Eles se encontram puxando todo o agrupamento do time em linha unissona de exterminio."
+          },
+          {
+            "champion": "Gragas",
+            "reason": "A barrigada pro ar serve os inimigos no ponto certo para o retorno da alma do Yone ser limpo e agrupado para finalizacoes."
+          },
+          {
+            "champion": "Zac",
+            "reason": "O espadachim tem liberdade para empilhar vendavais com paciencia, sabendo que as aglomeracoes criadas pelo pulo verde farao o tapete perfeito."
+          }
+        ]
+      }
+    ]
+  },
+  "Yorick": {
+    "profiles": [
+      {
+        "label": "Top",
+        "counters": [
+          "Irelia",
+          "Jax",
+          "Tryndamere",
+          "Shen",
+          "Renekton"
+        ],
+        "against": [
+          "Teemo",
+          "Garen",
+          "Darius",
+          "Malphite",
+          "Sion"
+        ],
+        "synergy_label": "Sinergia (Top + Jg)",
+        "synergies": [
+          {
+            "champion": "Sejuani",
+            "reason": "Como os monstros palidos batem junto de Yorick corpo a corpo, eles empilham o picole mais destrutivo em um fechar de olhos."
+          },
+          {
+            "champion": "Zac",
+            "reason": "Com os saltos agressivos, o coveiro joga a nevoa marcando-os em conjunto para sofrer lentidao continua e assedio nas torres pelas levas invocadas."
+          },
+          {
+            "champion": "Elise",
+            "reason": "Encurralamento sufocante em investidas. A parede dos espiritos do coveiro, alinhada as aranhas, nao deixa saidas em dives perigosissimos."
+          }
+        ]
+      }
+    ]
+  },
+  "Yuumi": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Leona",
+          "Nautilus",
+          "Blitzcrank",
+          "Pyke",
+          "Thresh"
+        ],
+        "against": [
+          "Sona",
+          "Soraka",
+          "Janna",
+          "Lulu",
+          "Nami"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Zeri",
+            "reason": "Uma das duplas que mais da dor de cabeca no competitivo. Como a gata acelera curando e e intocavel, e a Zeri pula paredes e nao freia, vira um caca-jato mortal."
+          },
+          {
+            "champion": "Sivir",
+            "reason": "Aceleracao massiva das duas partes; o escudo anti-magica da cacadora e a bencao felina deixam as limpezas longinquas dificeis de serem seguidas."
+          },
+          {
+            "champion": "Twitch",
+            "reason": "O rato do esgoto se torna um submarino oculto na espreita, abrindo o dano toxico a distancia enquanto ela solta as enraizadoras magicas protegendo-o."
+          }
+        ]
+      }
+    ]
+  },
+  "Zac": {
+    "profiles": [
+      {
+        "label": "Jungler",
+        "counters": [
+          "Janna",
+          "Thresh",
+          "Vayne",
+          "Poppy",
+          "Lee Sin"
+        ],
+        "against": [
+          "Rammus",
+          "Amumu",
+          "Sejuani",
+          "Nunu",
+          "Master Yi"
+        ],
+        "synergy_label": "Sinergia (Jg + Mid)",
+        "synergies": [
+          {
+            "champion": "Yasuo",
+            "reason": "Lancamentos constantes do poco verde entregam aberturas a todo instante para ultar com maestria cravando as quedas espelhadas."
+          },
+          {
+            "champion": "Orianna",
+            "reason": "O engajamento elastico do monstro transporta a onda mecanizada anexada ao corpo sem que a equipe note antes do agrupamento de caos."
+          },
+          {
+            "champion": "Galio",
+            "reason": "Zac salta e esmaga causando aglomeracao nas retaguardas, e o Guardiao pousa cobrindo os flancos caidos numa armadilha inabalavel."
+          }
+        ]
+      }
+    ]
+  },
+  "Zed": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Malzahar",
+          "Lissandra",
+          "Vex",
+          "Vladimir",
+          "Fizz"
+        ],
+        "against": [
+          "Kassadin",
+          "Veigar",
+          "Syndra",
+          "Lux",
+          "Orianna"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Elise",
+            "reason": "Ameaca assombrosa e constante. A teia conectada tira o alvo; o ninja e a aranha executam sob qualquer protecao pesada, esquivando ilesos."
+          },
+          {
+            "champion": "Rek'Sai",
+            "reason": "Ela escava sem treguas empurrando e desequilibrando os alvos exatamente ao nivel dos tres shurikens e sombras espelhadas."
+          },
+          {
+            "champion": "Nidalee",
+            "reason": "Oferece compensacoes altissimas em dano magico, garantindo furos na barreira de defesas blindadas da retaguarda."
+          }
+        ]
+      }
+    ]
+  },
+  "Zeri": {
+    "profiles": [
+      {
+        "label": "ADC",
+        "counters": [
+          "Draven",
+          "Tristana",
+          "Lucian",
+          "Twitch",
+          "Vayne"
+        ],
+        "against": [
+          "Ezreal",
+          "Sivir",
+          "Jhin",
+          "Ashe",
+          "Caitlyn"
+        ],
+        "synergy_label": "Sinergia (ADC + Sup)",
+        "synergies": [
+          {
+            "champion": "Yuumi",
+            "reason": "E a extensao dos motores faiscados da carregadora; ela salta muralhas correndo desgovernada e o felino concede sustento, bloqueios magicos e livro."
+          },
+          {
+            "champion": "Lulu",
+            "reason": "Enche os motores dela de escudos robustos para trocas de proximidade e acelera muito a chuva de projeteis luminosos."
+          },
+          {
+            "champion": "Janna",
+            "reason": "O escudo do furacao amplia as batidas eletricas a distancias mais seguras, e as ventanias mantem cacadores empurrados fora das costas da carregadora."
+          }
+        ]
+      }
+    ]
+  },
+  "Ziggs": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Zed",
+          "Fizz",
+          "Yasuo",
+          "Irelia",
+          "Katarina"
+        ],
+        "against": [
+          "Heimerdinger",
+          "Malzahar",
+          "Annie",
+          "Ryze",
+          "Azir"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Amumu",
+            "reason": "Segura os inimigos imoveis na mesma rota circular das bombas explosivas, deixando o Ziggs despejar dano total sobre a equipe presa."
+          },
+          {
+            "champion": "Jarvan IV",
+            "reason": "Os muros de Demacia fechados ao redor forcam fugas frustrantes. A bomba relogio salta pelo meio com explosivos magicos gigantes."
+          },
+          {
+            "champion": "Zac",
+            "reason": "Mantem todo mundo focado nele de forma caotica no ar. A distancia e o paraiso do Ziggs, que limpa os obstaculos centrais sem se ferir."
+          }
+        ]
+      }
+    ]
+  },
+  "Zilean": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Pyke",
+          "Blitzcrank",
+          "Leona",
+          "Nautilus",
+          "Thresh"
+        ],
+        "against": [
+          "Janna",
+          "Lulu",
+          "Soraka",
+          "Sona",
+          "Yuumi"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Twitch",
+            "reason": "Bombas com pavio na cabeca de um rato invisivel causam destruicoes assustadoras em posicoes imprevistas, com reanimacoes temporarias quase impossiveis."
+          },
+          {
+            "champion": "Jinx",
+            "reason": "Ele adianta a manica em cadeias de atordoamentos, para que exploda misseis sem temer a falta de mobilidade nas lutas."
+          },
+          {
+            "champion": "Vayne",
+            "reason": "Ela ja gira em alta destreza e os giros constantes de relojoaria garantem que a atiradora volte completa para limpar os remanescentes."
+          }
+        ]
+      }
+    ]
+  },
+  "Zoe": {
+    "profiles": [
+      {
+        "label": "Mid",
+        "counters": [
+          "Zed",
+          "Fizz",
+          "Yasuo",
+          "Irelia",
+          "Katarina"
+        ],
+        "against": [
+          "Azir",
+          "Ryze",
+          "Cassiopeia",
+          "Malzahar",
+          "Annie"
+        ],
+        "synergy_label": "Sinergia (Mid + Jg)",
+        "synergies": [
+          {
+            "champion": "Lee Sin",
+            "reason": "A soneca contagiante nas passagens fechadas tranca sem reacoes aos mergulhos cegos do chute nas estrelas, esticando as linhas para execucoes precoces."
+          },
+          {
+            "champion": "Elise",
+            "reason": "As bolhas da lua seguidas das teias adormecem qualquer movimento com explosoes estrelares impiedosas antes mesmo de despertarem."
+          },
+          {
+            "champion": "Vi",
+            "reason": "O isolamento e atordoamento bruto abrem espaco para a maga celeste jogar de tras suas estrelas esticadas com tranquilidade."
+          }
+        ]
+      }
+    ]
+  },
+  "Zyra": {
+    "profiles": [
+      {
+        "label": "Suporte",
+        "counters": [
+          "Blitzcrank",
+          "Pyke",
+          "Leona",
+          "Nautilus",
+          "Thresh"
+        ],
+        "against": [
+          "Janna",
+          "Lulu",
+          "Soraka",
+          "Braum",
+          "Taric"
+        ],
+        "synergy_label": "Sinergia (Sup + ADC)",
+        "synergies": [
+          {
+            "champion": "Ashe",
+            "reason": "As flechas espinhosas e sementes enraizadoras criam paradas garantidas nas distancias longinquas, mantendo o alvo preso por muito tempo."
+          },
+          {
+            "champion": "Jhin",
+            "reason": "Todo dano base agressivo ativa os fios das armas finas, plantando cipos e prisoes antes mesmo de tentarem escapar."
+          },
+          {
+            "champion": "Varus",
+            "reason": "A chuva do contagio continuo magico de raizes e espinhos tranca agrupamentos dolorosos e constantes na bot lane."
+          }
+        ]
+      }
+    ]
+  }
+}

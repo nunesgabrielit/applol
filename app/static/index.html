@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LoL Counter Picker</title>
+    <meta
+      name="description"
+      content="Monte o time inimigo e descubra a melhor dupla de ADC e suporte com base na sua planilha de counters e no Champion Deck personalizado."
+    />
+    <meta name="theme-color" content="#081120" />
+    <meta property="og:title" content="LoL Counter Picker" />
+    <meta
+      property="og:description"
+      content="Draft assistant de League of Legends com recomendacao de picks, catalogo de campeoes e Champion Deck personalizado."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg" />
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;800&family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/assets/styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero__backdrop"></div>
+        <div class="hero__content">
+          <h1 class="hero__title">
+            <span class="hero__title-line">LOL</span>
+            <span class="hero__title-line">COUNTER</span>
+            <span class="hero__title-line">PICKER</span>
+          </h1>
+          <p class="hero__description">
+            Informe Top, Jungler, Mid, Carry e Sup do time inimigo. O sistema cruza sua planilha de escolha ideal e recomenda automaticamente a dupla com mais votos para aumentar suas chances de vitoria.
+          </p>
+
+          <div class="hero__meta">
+            <div class="meta-pill">
+              <span class="meta-pill__label">Status</span>
+              <strong id="healthStatus">Carregando</strong>
+            </div>
+            <div class="meta-pill">
+              <span class="meta-pill__label">Versao</span>
+              <strong id="versionBadge">-</strong>
+            </div>
+            <div class="meta-pill">
+              <span class="meta-pill__label">Idioma</span>
+              <strong id="localeBadge">-</strong>
+            </div>
+            <div class="meta-pill">
+              <span class="meta-pill__label">Counters</span>
+              <strong id="guideCountBadge">-</strong>
+            </div>
+          </div>
+        </div>
+        <nav class="hero__nav hero__nav--floating" aria-label="Navegacao rapida">
+          <a class="hero__nav-link" href="#draft-engine">Draft Engine</a>
+          <a class="hero__nav-link" href="#explorer-panel">Explorer</a>
+          <a class="hero__nav-link" href="#champion-deck">Champion Deck</a>
+          <a class="hero__nav-link" href="#roster-panel">Roster</a>
+        </nav>
+      </header>
+
+      <main class="layout">
+        <section class="panel panel--recommender" id="draft-engine">
+          <div class="panel__heading">
+            <div>
+              <div class="panel__eyebrow">Draft Engine</div>
+              <h2>Monte o time inimigo</h2>
+            </div>
+            
+          </div>
+
+          <div class="draft-grid">
+            <label class="field">
+              <span>Top</span>
+              <div class="combobox" data-role="top">
+                <input id="enemyTop" class="combobox__input" type="text" autocomplete="off" placeholder="Ex.: Darius" />
+                <button class="combobox__toggle" type="button" aria-label="Abrir lista Top"></button>
+                <div class="combobox__menu" hidden></div>
+              </div>
+            </label>
+            <label class="field">
+              <span>Jungler</span>
+              <div class="combobox" data-role="jungler">
+                <input id="enemyJungler" class="combobox__input" type="text" autocomplete="off" placeholder="Ex.: Lee Sin" />
+                <button class="combobox__toggle" type="button" aria-label="Abrir lista Jungler"></button>
+                <div class="combobox__menu" hidden></div>
+              </div>
+            </label>
+            <label class="field">
+              <span>Mid</span>
+              <div class="combobox" data-role="mid">
+                <input id="enemyMid" class="combobox__input" type="text" autocomplete="off" placeholder="Ex.: Ahri" />
+                <button class="combobox__toggle" type="button" aria-label="Abrir lista Mid"></button>
+                <div class="combobox__menu" hidden></div>
+              </div>
+            </label>
+            <label class="field">
+              <span>Carry</span>
+              <div class="combobox" data-role="carry">
+                <input id="enemyCarry" class="combobox__input" type="text" autocomplete="off" placeholder="Ex.: Kai'Sa" />
+                <button class="combobox__toggle" type="button" aria-label="Abrir lista Carry"></button>
+                <div class="combobox__menu" hidden></div>
+              </div>
+            </label>
+            <label class="field">
+              <span>Sup</span>
+              <div class="combobox" data-role="sup">
+                <input id="enemySup" class="combobox__input" type="text" autocomplete="off" placeholder="Ex.: Brand" />
+                <button class="combobox__toggle" type="button" aria-label="Abrir lista Sup"></button>
+                <div class="combobox__menu" hidden></div>
+              </div>
+            </label>
+          </div>
+
+          <div class="recommender-actions">
+            <button class="button button--primary" id="analyzeButton" type="button">Analisar draft</button>
+            <button class="button button--ghost" id="clearDraftButton" type="button">Limpar campos</button>
+            <button class="button button--ghost" id="copyDraftButton" type="button">Copiar resultado</button>
+            <button class="button button--ghost" id="shareDraftButton" type="button">Compartilhar</button>
+          </div>
+
+          <div class="recommendation-grid">
+            <article class="recommendation-card" id="adcSuggestionCard">
+              <div class="recommendation-card__bg"></div>
+              <div class="recommendation-card__overlay"></div>
+              <div class="recommendation-card__content">
+              <div class="spotlight-card__label">ADC sugerido</div>
+              <div class="recommendation-card__name" id="suggestedAdc">-</div>
+              <div class="recommendation-card__hint" id="suggestedAdcHint">Preencha o time inimigo para calcular.</div>
+              </div>
+            </article>
+
+            <article class="recommendation-card recommendation-card--accent" id="supportSuggestionCard">
+              <div class="recommendation-card__bg"></div>
+              <div class="recommendation-card__overlay"></div>
+              <div class="recommendation-card__content">
+              <div class="spotlight-card__label">Suporte sugerido</div>
+              <div class="recommendation-card__name" id="suggestedSupport">-</div>
+              <div class="recommendation-card__hint" id="suggestedSupportHint">A votacao da sua planilha aparecera aqui.</div>
+              </div>
+            </article>
+          </div>
+
+          <div class="recommendation-details">
+            <section class="panel panel--subsection">
+              <div class="panel__eyebrow">Ranking ADC</div>
+              <div id="adcRanking" class="ranking-list"></div>
+            </section>
+
+            <section class="panel panel--subsection">
+              <div class="panel__eyebrow">Ranking Suporte</div>
+              <div id="supportRanking" class="ranking-list"></div>
+            </section>
+          </div>
+
+          <div class="status-strip" id="recommendationStatus">Nenhuma analise executada ainda.</div>
+          <div class="warning-strip" id="recommendationWarnings" hidden></div>
+          <div class="share-strip" id="shareDraftSummary">O resumo do draft ficara pronto aqui para copiar ou compartilhar.</div>
+        </section>
+
+        <section class="content-grid">
+          <section class="panel panel--list">
+            <div class="panel__heading">
+              <div>
+                <div class="panel__eyebrow">Por inimigo</div>
+                <h2>Justificativas da analise</h2>
+              </div>
+              <div class="results-summary" id="matchedSummary">Os counters reconhecidos vao aparecer aqui.</div>
+            </div>
+
+            <div class="matches-grid" id="matchedCounters"></div>
+          </section>
+
+          <aside class="panel panel--detail" id="explorer-panel">
+            <div class="panel__heading">
+              <div>
+                <div class="panel__eyebrow">Explorer</div>
+                <h2>Catalogo de campeoes</h2>
+              </div>
+            </div>
+
+            <div class="controls controls--compact">
+              <label class="field field--search">
+                <span>Buscar campeao</span>
+                <div class="searchbox" id="searchbox">
+                  <input id="searchInput" type="text" autocomplete="off" placeholder="Ex.: Ahri, Aatrox, 266..." />
+                  <div class="searchbox__menu" id="searchSuggestions" hidden></div>
+                </div>
+              </label>
+
+              <label class="field">
+                <span>Role</span>
+                <select id="tagSelect">
+                  <option value="">Todas</option>
+                </select>
+              </label>
+            </div>
+
+            <div class="spotlight-grid explorer-grid">
+              <article class="spotlight-card">
+                <div class="spotlight-card__label">Destaque</div>
+                <div class="spotlight-card__value" id="featuredChampion">-</div>
+                <p id="featuredDescription">Selecione um campeao no catalogo para ver detalhes.</p>
+              </article>
+
+              <article class="spotlight-card spotlight-card--accent">
+                <div class="spotlight-card__label">Tags</div>
+                <div class="tag-cloud" id="tagCloud"></div>
+              </article>
+            </div>
+
+            <div class="detail" id="detailPanel">
+              <div class="detail__empty">Selecione um campeao no catalogo para ver titulo, roles, estatisticas e icone.</div>
+            </div>
+          </aside>
+        </section>
+
+        <section class="panel panel--analytics" id="champion-deck">
+          <div class="panel__heading">
+            <div>
+              <div class="panel__eyebrow">Champion Deck</div>
+              <h2>Leitura rapida da sua base</h2>
+            </div>
+            <div class="results-summary" id="analyticsSummary">Selecione um campeao no Explorer para abrir este painel.</div>
+          </div>
+
+          <div class="analytics-focus" id="analyticsFocus"></div>
+
+          <div class="analytics-grid">
+            <section class="panel panel--subsection">
+              <div class="panel__eyebrow">5 counters</div>
+              <div class="bar-list" id="mostPresentList"></div>
+            </section>
+
+            <section class="panel panel--subsection">
+              <div class="panel__eyebrow">5 against</div>
+              <div class="bar-list" id="enemyAppearanceList"></div>
+            </section>
+
+            <section class="panel panel--subsection">
+              <div class="panel__eyebrow">Sinergia boa</div>
+              <div class="bar-list" id="analyticsAdcList"></div>
+            </section>
+
+            <section class="panel panel--subsection">
+              <div class="panel__eyebrow">Sinergia ruim</div>
+              <div class="bar-list" id="analyticsSupportList"></div>
+            </section>
+          </div>
+        </section>
+
+        <section class="panel panel--list panel--catalog" id="roster-panel">
+          <div class="panel__heading">
+            <div>
+              <div class="panel__eyebrow">Roster</div>
+              <h2>Campeoes disponiveis</h2>
+            </div>
+            <div class="results-summary" id="resultsSummary">Carregando campeoes...</div>
+          </div>
+
+          <div class="sort-row">
+            <label class="field">
+              <span>Ordenar por</span>
+              <select id="sortBySelect">
+                <option value="name">Nome</option>
+                <option value="key">Key</option>
+              </select>
+            </label>
+
+            <label class="field">
+              <span>Ordem</span>
+              <select id="orderSelect">
+                <option value="asc">Crescente</option>
+                <option value="desc">Decrescente</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="champions-grid" id="championsGrid"></div>
+        </section>
+
+        <footer class="site-footer">
+          <div class="site-footer__brand">
+            <div class="panel__eyebrow">LoL Counter Picker</div>
+            <strong>Draft assistant, Explorer e Champion Deck em um unico lugar.</strong>
+            <p>Projeto local para uso pessoal, portfolio e estudo de draft no League of Legends.</p>
+          </div>
+
+          <nav class="site-footer__nav" aria-label="Atalhos do rodape">
+            <a href="#draft-engine">Draft Engine</a>
+            <a href="#explorer-panel">Explorer</a>
+            <a href="#champion-deck">Champion Deck</a>
+            <a href="#roster-panel">Roster</a>
+          </nav>
+
+          <div class="site-footer__meta">
+            <span>FastAPI + frontend estatico</span>
+            <span>Dados publicos da Riot referenciados por URL</span>
+          </div>
+        </footer>
+      </main>
+    </div>
+
+    <button class="back-to-top" id="backToTopButton" type="button" aria-label="Voltar ao topo">
+      Topo
+    </button>
+
+    <template id="championCardTemplate">
+      <button class="champion-card" type="button">
+        <div class="champion-card__art"></div>
+        <div class="champion-card__body">
+          <div class="champion-card__headline">
+            <strong class="champion-card__name"></strong>
+            <span class="champion-card__key"></span>
+          </div>
+          <div class="champion-card__title"></div>
+          <div class="champion-card__tags"></div>
+        </div>
+      </button>
+    </template>
+
+    <script src="/assets/app.js" defer></script>
+  </body>
+</html>

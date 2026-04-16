@@ -1,0 +1,19 @@
+INFO:     Started server process [13812]
+INFO:     Waiting for application startup.
+2026-04-15 18:46:40,019 | INFO | httpx | HTTP Request: GET https://ddragon.leagueoflegends.com/api/versions.json "HTTP/1.1 200 OK"
+2026-04-15 18:46:40,576 | INFO | httpx | HTTP Request: GET https://ddragon.leagueoflegends.com/cdn/16.8.1/data/pt_BR/champion.json "HTTP/1.1 200 OK"
+2026-04-15 18:46:40,596 | INFO | app.services.champion_service | Champion cache refreshed with 172 champions for version 16.8.1.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8011 (Press CTRL+C to quit)
+2026-04-15 18:47:05,850 | INFO | httpx | HTTP Request: GET https://lolalytics.com/pt_br/lol/aatrox/build/ "HTTP/1.1 200 OK"
+2026-04-15 18:47:06,282 | INFO | httpx | HTTP Request: GET https://lolalytics.com/pt_br/lol/aatrox/build/?lane=jungle "HTTP/1.1 200 OK"
+2026-04-15 18:47:06,959 | INFO | httpx | HTTP Request: GET https://lolalytics.com/pt_br/lol/aatrox/build/?lane=middle "HTTP/1.1 200 OK"
+2026-04-15 18:47:06,963 | INFO | httpx | HTTP Request: GET https://lolalytics.com/pt_br/lol/aatrox/build/?lane=support "HTTP/1.1 200 OK"
+2026-04-15 18:49:32,933 | INFO | httpx | HTTP Request: GET https://lolalytics.com/pt_br/lol/aurelionsol/build/ "HTTP/1.1 200 OK"
+2026-04-15 18:49:33,345 | INFO | httpx | HTTP Request: GET https://lolalytics.com/pt_br/lol/aurelionsol/build/?lane=top "HTTP/1.1 200 OK"
+2026-04-15 18:49:33,887 | INFO | httpx | HTTP Request: GET https://lolalytics.com/pt_br/lol/aurelionsol/build/?lane=jungle "HTTP/1.1 200 OK"
+2026-04-15 18:49:33,892 | INFO | httpx | HTTP Request: GET https://lolalytics.com/pt_br/lol/aurelionsol/build/?lane=bottom "HTTP/1.1 200 OK"
+2026-04-15 18:49:33,896 | INFO | httpx | HTTP Request: GET https://lolalytics.com/pt_br/lol/aurelionsol/build/?lane=support "HTTP/1.1 200 OK"
+2026-04-15 18:51:46,157 | INFO | httpx | HTTP Request: GET https://lolalytics.com/pt_br/lol/irelia/build/ "HTTP/1.1 200 OK"
+2026-04-15 18:51:46,548 | INFO | httpx | HTTP Request: GET https://lolalytics.com/pt_br/lol/irelia/build/?lane=middle "HTTP/1.1 200 OK"
+2026-04-15 18:51:47,167 | INFO | httpx | HTTP Request: GET https://lolalytics.com/pt_br/lol/irelia/build/?lane=bottom "HTTP/1.1 200 OK"
